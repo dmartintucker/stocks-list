@@ -1,0 +1,2362 @@
+industry,name,quoteType,sector,symbol
+Diagnostics & Research,"Agilent Technologies, Inc.",EQUITY,Healthcare,A
+Specialty Industrial Machinery,"Barnes Group, Inc.",EQUITY,Industrials,B
+Banks—Diversified,"Citigroup, Inc.",EQUITY,Financial Services,C
+Utilities—Regulated Electric,"Dominion Energy, Inc.",EQUITY,Utilities,D
+Oil & Gas Integrated,ENI S.p.A.,EQUITY,Energy,E
+Auto Manufacturers,Ford Motor Company,EQUITY,Consumer Cyclical,F
+Information Technology Services,Genpact Limited,EQUITY,Technology,G
+Lodging,Hyatt Hotels Corporation,EQUITY,Consumer Cyclical,H
+Engineering & Construction,Jacobs Engineering Group Inc.,EQUITY,Industrials,J
+Packaged Foods,Kellogg Company,EQUITY,Consumer Defensive,K
+Insurance—Property & Casualty,Loews Corporation,EQUITY,Financial Services,L
+Department Stores,Macy's Inc,EQUITY,Consumer Cyclical,M
+REIT—Retail,Realty Income Corporation,EQUITY,Real Estate,O
+Rental & Leasing Services,"Ryder System, Inc.",EQUITY,Industrials,R
+Software—Infrastructure,"SentinelOne, Inc.",EQUITY,Technology,S
+Telecom Services,AT&T Inc.,EQUITY,Communication Services,T
+Credit Services,Visa Inc.,EQUITY,Financial Services,V
+Oil & Gas Midstream,Antero Midstream Corporation,EQUITY,Energy,AM
+Information Technology Services,"C3.ai, Inc.",EQUITY,Technology,AI
+Silver,First Majestic Silver Corp.,EQUITY,Basic Materials,AG
+Internet Retail,Wayfair Inc.,EQUITY,Consumer Cyclical,W
+Rental & Leasing Services,Air Lease Corporation,EQUITY,Industrials,AL
+Insurance—Property & Casualty,Alleghany Corporation,EQUITY,Financial Services,Y
+Oil & Gas Refining & Marketing,"Adams Resources & Energy, Inc.",EQUITY,Energy,AE
+Steel,United States Steel Corporation,EQUITY,Basic Materials,X
+Capital Markets,"Associated Capital Group, Inc.",EQUITY,Financial Services,AC
+Aluminum,Alcoa Corporation,EQUITY,Basic Materials,AA
+Internet Content & Information,"Zillow Group, Inc.",EQUITY,Communication Services,Z
+Asset Management,AllianceBernstein Holding L.P.,EQUITY,Financial Services,AB
+Software—Application,Unity Software Inc.,EQUITY,Technology,U
+Oil & Gas E&P,Antero Resources Corporation,EQUITY,Energy,AR
+Specialty Industrial Machinery,Parker-Hannifin Corporation,EQUITY,Industrials,PH
+Insurance—Property & Casualty,Chubb Limited,EQUITY,Financial Services,CB
+Internet Content & Information,"Meta Platforms, Inc.",EQUITY,Communication Services,FB
+Grocery Stores,Grocery Outlet Holding Corp.,EQUITY,Consumer Defensive,GO
+Oil & Gas E&P,SM Energy Company,EQUITY,Energy,SM
+Building Products & Equipment,Owens Corning Inc,EQUITY,Industrials,OC
+Credit Services,LexinFintech Holdings Ltd.,EQUITY,Financial Services,LX
+Shell Companies,Zimmer Energy Transition Acquis,EQUITY,Financial Services,ZT
+Oil & Gas Midstream,Energy Transfer LP,EQUITY,Energy,ET
+Credit Services,Qudian Inc.,EQUITY,Financial Services,QD
+Specialty Industrial Machinery,Curtiss-Wright Corporation,EQUITY,Industrials,CW
+Software—Application,Onion Global Limited,EQUITY,Technology,OG
+Software—Application,"Zoom Video Communications, Inc.",EQUITY,Technology,ZM
+Leisure,Brunswick Corporation,EQUITY,Consumer Cyclical,BC
+Auto Manufacturers,Li Auto Inc.,EQUITY,Consumer Cyclical,LI
+Information Technology Services,"Gartner, Inc.",EQUITY,Technology,IT
+Advertising Agencies,"Ziff Davis, Inc.",EQUITY,Communication Services,ZD
+Communication Equipment,Knowles Corporation,EQUITY,Technology,KN
+REIT—Specialty,Weyerhaeuser Company,EQUITY,Real Estate,WY
+Chemicals,Zymergen Inc.,EQUITY,Basic Materials,ZY
+Oil & Gas Equipment & Services,Tenaris S.A.,EQUITY,Energy,TS
+Metal Fabrication,Tredegar Corporation,EQUITY,Industrials,TG
+Discount Stores,"BJ's Wholesale Club Holdings, I",EQUITY,Consumer Defensive,BJ
+Software—Application,ZoomInfo Technologies Inc.,EQUITY,Technology,ZI
+Credit Services,Jianpu Technology Inc.,EQUITY,Financial Services,JT
+Banks—Regional,"Prosperity Bancshares, Inc.",EQUITY,Financial Services,PB
+Software—Application,"PagerDuty, Inc.",EQUITY,Technology,PD
+Internet Retail,"PARTS iD, Inc.",EQUITY,Consumer Cyclical,ID
+Software—Application,"DoubleVerify Holdings, Inc.",EQUITY,Technology,DV
+Credit Services,Mastercard Incorporated,EQUITY,Financial Services,MA
+Capital Markets,"Goldman Sachs Group, Inc. (The)",EQUITY,Financial Services,GS
+Restaurants,"Sweetgreen, Inc.",EQUITY,Consumer Cyclical,SG
+Semiconductors,"Micron Technology, Inc.",EQUITY,Technology,MU
+Confectioners,"Tootsie Roll Industries, Inc.",EQUITY,Consumer Defensive,TR
+Internet Retail,"JD.com, Inc.",EQUITY,Consumer Cyclical,JD
+Insurance—Reinsurance,"Everest Re Group, Ltd.",EQUITY,Financial Services,RE
+Aerospace & Defense,EHang Holdings Limited,EQUITY,Industrials,EH
+Utilities—Regulated Gas,NiSource Inc,EQUITY,Utilities,NI
+Auto Parts,XL Fleet Corp.,EQUITY,Consumer Cyclical,XL
+Scientific & Technical Instruments,Sensata Technologies Holding pl,EQUITY,Technology,ST
+Personal Services,"WW International, Inc.",EQUITY,Consumer Cyclical,WW
+Healthcare Plans,Cigna Corporation,EQUITY,Healthcare,CI
+REIT—Hotel & Motel,Park Hotels & Resorts Inc.,EQUITY,Real Estate,PK
+Communication Equipment,Ubiquiti Inc.,EQUITY,Technology,UI
+Specialty Retail,Boqii Holding Limited,EQUITY,Consumer Cyclical,BQ
+Asset Management,Franklin Universal Trust,EQUITY,Financial Services,FT
+Specialty Chemicals,"DuPont de Nemours, Inc.",EQUITY,Basic Materials,DD
+Broadcasting,Grupo Televisa S.A.,EQUITY,Communication Services,TV
+Software—Infrastructure,"Marqeta, Inc.",EQUITY,Technology,MQ
+Software—Application,"Eventbrite, Inc.",EQUITY,Technology,EB
+Auto Manufacturers,General Motors Company,EQUITY,Consumer Cyclical,GM
+Chemicals,FutureFuel Corp.,EQUITY,Basic Materials,FF
+Household & Personal Products,"Estee Lauder Companies, Inc. (T",EQUITY,Consumer Defensive,EL
+Banks—Regional,Deutsche Bank AG,EQUITY,Financial Services,DB
+Packaging & Containers,International Paper Company,EQUITY,Consumer Cyclical,IP
+Consulting Services,Franklin Covey Company,EQUITY,Industrials,FC
+Medical Devices,Edwards Lifesciences Corporatio,EQUITY,Healthcare,EW
+Auto Manufacturers,Toyota Motor Corporation,EQUITY,Consumer Cyclical,TM
+Steel,Ternium S.A. Ternium S.A.,EQUITY,Basic Materials,TX
+Utilities—Renewable,Atlantica Sustainable Infrastru,EQUITY,Utilities,AY
+Internet Content & Information,"iQIYI, Inc.",EQUITY,Communication Services,IQ
+Oil & Gas Drilling,Noble Corporation plc,EQUITY,Energy,NE
+Household & Personal Products,Unilever PLC,EQUITY,Consumer Defensive,UL
+Gold,Novagold Resources Inc.,EQUITY,Basic Materials,NG
+Software—Application,Qualtrics International Inc.,EQUITY,Technology,XM
+Education & Training Services,iHuman Inc.,EQUITY,Consumer Defensive,IH
+Asset Management,"New Germany Fund, Inc. (The)",EQUITY,Financial Services,GF
+Farm & Heavy Construction Machinery,Deere & Company,EQUITY,Industrials,DE
+Gold,Hecla Mining Company,EQUITY,Basic Materials,HL
+Utilities—Regulated Electric,FirstEnergy Corp.,EQUITY,Utilities,FE
+Capital Markets,XP Inc.,EQUITY,Financial Services,XP
+Home Improvement Retail,"Home Depot, Inc. (The)",EQUITY,Consumer Cyclical,HD
+Marine Shipping,"Safe Bulkers, Inc",EQUITY,Industrials,SB
+Software—Infrastructure,BlackBerry Limited,EQUITY,Technology,BB
+Utilities—Regulated Electric,Southern Company (The),EQUITY,Utilities,SO
+Electronic Gaming & Multimedia,Versus Systems Inc.,EQUITY,Communication Services,VS
+Diagnostics & Research,23andMe Holding Co.,EQUITY,Healthcare,ME
+Real Estate—Development,"Belpointe PREP, LLC",EQUITY,Real Estate,OZ
+Household & Personal Products,"United-Guardian, Inc.",EQUITY,Consumer Defensive,UG
+Utilities—Regulated Electric,Eversource Energy (D/B/A),EQUITY,Utilities,ES
+Health Information Services,Definitive Healthcare Corp.,EQUITY,Healthcare,DH
+Communication Equipment,"Impinj, Inc.",EQUITY,Technology,PI
+Software—Infrastructure,"Block, Inc.",EQUITY,Technology,SQ
+Airports & Air Services,Wheels Up Experience Inc.,EQUITY,Industrials,UP
+Information Technology Services,"Broadridge Financial Solutions,",EQUITY,Technology,BR
+REIT—Diversified,Urban Edge Properties,EQUITY,Real Estate,UE
+Utilities—Regulated Electric,"Consolidated Edison, Inc.",EQUITY,Utilities,ED
+Steel,Arcelor Mittal NY Registry Shar,EQUITY,Basic Materials,MT
+Shell Companies,Primavera Capital Acquisition C,EQUITY,Financial Services,PV
+Aerospace & Defense,A2Z Smart Technologies Corp.,EQUITY,Industrials,AZ
+Banks—Regional,Woori Financial Group Inc.,EQUITY,Financial Services,WF
+Oil & Gas Midstream,Teekay Corporation,EQUITY,Energy,TK
+Auto Manufacturers,GreenPower Motor Company Inc.,EQUITY,Consumer Cyclical,GP
+Household & Personal Products,Procter & Gamble Company (The),EQUITY,Consumer Defensive,PG
+Oil & Gas Midstream,Nustar Energy L.P.,EQUITY,Energy,NS
+Farm Products,Bunge Limited Bunge Limited,EQUITY,Consumer Defensive,BG
+Asset Management,"P10, Inc.",EQUITY,Financial Services,PX
+Marine Shipping,OceanPal Inc.,EQUITY,Industrials,OP
+Credit Services,Western Union Company (The),EQUITY,Financial Services,WU
+Computer Hardware,"Desktop Metal, Inc.",EQUITY,Technology,DM
+Banks—Regional,Regions Financial Corporation,EQUITY,Financial Services,RF
+Thermal Coal,"NACCO Industries, Inc.",EQUITY,Energy,NC
+Farm & Heavy Construction Machinery,"Hyster-Yale Materials Handling,",EQUITY,Industrials,HY
+Banks—Regional,"Axos Financial, Inc.",EQUITY,Financial Services,AX
+Real Estate Services,Q&K International Group Limited,EQUITY,Real Estate,QK
+Personal Services,Smart Share Global Limited,EQUITY,Consumer Cyclical,EM
+REIT—Healthcare Facilities,Healthcare Realty Trust Incorpo,EQUITY,Real Estate,HR
+Packaging & Containers,"O-I Glass, Inc.",EQUITY,Consumer Cyclical,OI
+Telecom Services,Telus Corporation,EQUITY,Communication Services,TU
+Mortgage Finance,"Walker & Dunlop, Inc",EQUITY,Financial Services,WD
+Real Estate Services,WeWork Inc.,EQUITY,Real Estate,WE
+Staffing & Employment Services,KANZHUN LIMITED - American Depo,EQUITY,Industrials,BZ
+REIT—Industrial,"First Industrial Realty Trust, ",EQUITY,Real Estate,FR
+Telecom Services,KT Corporation,EQUITY,Communication Services,KT
+Software—Application,"Dynatrace, Inc.",EQUITY,Technology,DT
+Credit Services,Regional Management Corp.,EQUITY,Financial Services,RM
+Specialty Industrial Machinery,Ingersoll Rand Inc.,EQUITY,Industrials,IR
+Banks—Diversified,Nu Holdings Ltd.,EQUITY,Financial Services,NU
+Utilities—Diversified,"Hawaiian Electric Industries, I",EQUITY,Utilities,HE
+Building Materials,"Cemex, S.A.B. de C.V. Sponsored",EQUITY,Basic Materials,CX
+Electrical Equipment & Parts,"Kimball Electronics, Inc.",EQUITY,Industrials,KE
+Auto Parts,The Goodyear Tire & Rubber Comp,EQUITY,Consumer Cyclical,GT
+Specialty Industrial Machinery,General Electric Company,EQUITY,Industrials,GE
+Shell Companies,Spring Valley Acquisition Corp.,EQUITY,Financial Services,SV
+Telecom Services,Verizon Communications Inc.,EQUITY,Communication Services,VZ
+Oil & Gas Equipment & Services,Ion Geophysical Corporation,EQUITY,Energy,IO
+Restaurants,Biglari Holdings Inc.,EQUITY,Consumer Cyclical,BH
+Semiconductor Equipment & Materials,DAQO New Energy Corp.,EQUITY,Technology,DQ
+Health Information Services,So-Young International Inc. - A,EQUITY,Healthcare,SY
+Internet Retail,Yunji Inc. - American Depositor,EQUITY,Consumer Cyclical,YJ
+Specialty Chemicals,Chemours Company (The),EQUITY,Basic Materials,CC
+Airlines,"Hawaiian Holdings, Inc.",EQUITY,Industrials,HA
+Credit Services,Santander Consumer USA Holdings,EQUITY,Financial Services,SC
+Banks—Diversified,Canadian Imperial Bank of Comme,EQUITY,Financial Services,CM
+Internet Content & Information,"Zillow Group, Inc.",EQUITY,Communication Services,ZG
+Capital Markets,Tradeweb Markets Inc.,EQUITY,Financial Services,TW
+Agricultural Inputs,"CF Industries Holdings, Inc.",EQUITY,Basic Materials,CF
+Credit Services,Orix Corp,EQUITY,Financial Services,IX
+Specialty Retail,"Lands' End, Inc.",EQUITY,Consumer Cyclical,LE
+Asset Management,Jupai Holdings Limited,EQUITY,Financial Services,JP
+Oil & Gas Equipment & Services,"Newpark Resources, Inc.",EQUITY,Energy,NR
+Specialty Retail,TravelCenters of America Inc.,EQUITY,Consumer Cyclical,TA
+Asset Management,The Carlyle Group Inc.,EQUITY,Financial Services,CG
+Specialty Business Services,SP Plus Corporation,EQUITY,Industrials,SP
+Electrical Equipment & Parts,Bloom Energy Corporation,EQUITY,Industrials,BE
+Diagnostics & Research,Global Cord Blood Corporation,EQUITY,Healthcare,CO
+Internet Content & Information,Zhihu Inc.,EQUITY,Communication Services,ZH
+Grocery Stores,Missfresh Limited,EQUITY,Consumer Defensive,MF
+Electronic Components,Fabrinet,EQUITY,Technology,FN
+Oil & Gas Integrated,BP p.l.c.,EQUITY,Energy,BP
+Internet Content & Information,Weibo Corporation,EQUITY,Communication Services,WB
+Semiconductors,ON Semiconductor Corporation,EQUITY,Technology,ON
+Paper & Paper Products,"Neenah, Inc.",EQUITY,Basic Materials,NP
+Capital Markets,Moelis & Company,EQUITY,Financial Services,MC
+Railroads,Canadian Pacific Railway Limite,EQUITY,Industrials,CP
+Software—Infrastructure,"BlackLine, Inc.",EQUITY,Technology,BL
+Credit Services,Pintec Technology Holdings Limi,EQUITY,Financial Services,PT
+Asset Management,Blackstone Inc.,EQUITY,Financial Services,BX
+Diagnostics & Research,"Guardant Health, Inc.",EQUITY,Healthcare,GH
+Banks—Regional,"Byline Bancorp, Inc.",EQUITY,Financial Services,BY
+Diagnostics & Research,Laboratory Corporation of Ameri,EQUITY,Healthcare,LH
+Home Improvement Retail,"LL Flooring Holdings, Inc.",EQUITY,Consumer Cyclical,LL
+Internet Content & Information,JOYY Inc.,EQUITY,Communication Services,YY
+Auto Parts,QuantumScape Corporation,EQUITY,Consumer Cyclical,QS
+Asset Management,Tri Continental Corporation,EQUITY,Financial Services,TY
+Packaged Foods,"Lamb Weston Holdings, Inc.",EQUITY,Consumer Defensive,LW
+Steel,Reliance Steel & Aluminum Co.,EQUITY,Basic Materials,RS
+Chemicals,Celanese Corporation Celanese C,EQUITY,Basic Materials,CE
+Engineering & Construction,"Dycom Industries, Inc.",EQUITY,Industrials,DY
+Oil & Gas Equipment & Services,Target Hospitality Corp.,EQUITY,Energy,TH
+Insurance—Life,Globe Life Inc.,EQUITY,Financial Services,GL
+Aerospace & Defense,General Dynamics Corporation,EQUITY,Industrials,GD
+Banks—Diversified,Royal Bank Of Canada,EQUITY,Financial Services,RY
+Credit Services,Lufax Holding Ltd,EQUITY,Financial Services,LU
+Asset Management,"Manning & Napier, Inc.",EQUITY,Financial Services,MN
+Specialty Industrial Machinery,Crane Co.,EQUITY,Industrials,CR
+Software—Application,ironSource Ltd.,EQUITY,Technology,IS
+Household & Personal Products,Colgate-Palmolive Company,EQUITY,Consumer Defensive,CL
+Oil & Gas Integrated,Suncor Energy  Inc.,EQUITY,Energy,SU
+Gold,"Seabridge Gold, Inc.",EQUITY,Basic Materials,SA
+Telecom Services,Vonage Holdings Corp.,EQUITY,Communication Services,VG
+Medical Care Facilities,"Mednax, Inc.",EQUITY,Healthcare,MD
+Aerospace & Defense,Boeing Company (The),EQUITY,Industrials,BA
+Gold,Osisko Gold Royalties Ltd,EQUITY,Basic Materials,OR
+Semiconductors,Magnachip Semiconductor Corpora,EQUITY,Technology,MX
+Specialty Business Services,"BrightView Holdings, Inc.",EQUITY,Industrials,BV
+Health Information Services,"NantHealth, Inc.",EQUITY,Healthcare,NH
+Auto Parts,Visteon Corporation,EQUITY,Consumer Cyclical,VC
+Apparel Manufacturing,Ralph Lauren Corporation,EQUITY,Consumer Cyclical,RL
+Internet Content & Information,TuanChe Limited,EQUITY,Communication Services,TC
+Software—Application,Workiva Inc.,EQUITY,Technology,WK
+Specialty Industrial Machinery,Hillenbrand Inc,EQUITY,Industrials,HI
+Oil & Gas E&P,"SandRidge Energy, Inc.",EQUITY,Energy,SD
+Banks—Regional,Silvergate Capital Corporation,EQUITY,Financial Services,SI
+Lodging,"Wyndham Hotels & Resorts, Inc.",EQUITY,Consumer Cyclical,WH
+Apparel Manufacturing,"Under Armour, Inc.",EQUITY,Consumer Cyclical,UA
+Oil & Gas Drilling,"Helmerich & Payne, Inc.",EQUITY,Energy,HP
+Banks—Diversified,Toronto Dominion Bank (The),EQUITY,Financial Services,TD
+Education & Training Services,17 Education & Technology Group,EQUITY,Consumer Defensive,YQ
+Leisure,Drive Shack Inc.,EQUITY,Consumer Cyclical,DS
+Specialty Industrial Machinery,"Babcock & Wilcox Enterprises, I",EQUITY,Industrials,BW
+REIT—Mortgage,"Dynex Capital, Inc.",EQUITY,Real Estate,DX
+Specialty Retail,RH,EQUITY,Consumer Cyclical,RH
+Internet Content & Information,"LegalZoom.com, Inc.",EQUITY,Communication Services,LZ
+Asset Management,"Korea Fund, Inc. (The) New",EQUITY,Financial Services,KF
+Information Technology Services,Chindata Group Holdings Limited,EQUITY,Technology,CD
+Asset Management,Brookfield Real Assets Income F,EQUITY,Financial Services,RA
+Security & Protection Services,Mistras Group Inc,EQUITY,Industrials,MG
+Software—Application,Kingsoft Cloud Holdings Limited,EQUITY,Technology,KC
+Tobacco,"Altria Group, Inc.",EQUITY,Consumer Defensive,MO
+Gold,Kirkland Lake Gold Ltd.,EQUITY,Basic Materials,KL
+Internet Content & Information,NextNav Inc.,EQUITY,Communication Services,NN
+REIT—Specialty,Power REIT (MD),EQUITY,Real Estate,PW
+REIT—Mortgage,Ready Capital Corproation,EQUITY,Real Estate,RC
+Asset Management,The Bank of New York Mellon Cor,EQUITY,Financial Services,BK
+Capital Markets,Morgan Stanley,EQUITY,Financial Services,MS
+Gold,AngloGold Ashanti Limited,EQUITY,Basic Materials,AU
+Specialty Industrial Machinery,Trane Technologies plc,EQUITY,Industrials,TT
+Pharmaceutical Retailers,"111, Inc.",EQUITY,Healthcare,YI
+Credit Services,LendingClub Corporation,EQUITY,Financial Services,LC
+Oil & Gas Integrated,Ecopetrol S.A.,EQUITY,Energy,EC
+REIT—Hotel & Motel,Hersha Hospitality Trust,EQUITY,Real Estate,HT
+Software—Application,MoneyLion Inc.,EQUITY,Technology,ML
+Software—Infrastructure,"Zscaler, Inc.",EQUITY,Technology,ZS
+Information Technology Services,"Kyndryl Holdings, Inc.",EQUITY,Technology,KD
+Tobacco,Philip Morris International Inc,EQUITY,Consumer Defensive,PM
+Metal Fabrication,Ampco-Pittsburgh Corporation,EQUITY,Industrials,AP
+Electronic Gaming & Multimedia,Sea Limited,EQUITY,Communication Services,SE
+Discount Stores,Dollar General Corporation,EQUITY,Consumer Defensive,DG
+Broadcasting,Scienjoy Holding Corporation,EQUITY,Communication Services,SJ
+Medical Devices,"Outset Medical, Inc.",EQUITY,Healthcare,OM
+Software—Application,Aurora Mobile Limited,EQUITY,Technology,JG
+Building Products & Equipment,Quanex Building Products Corpor,EQUITY,Industrials,NX
+Apparel Retail,"Foot Locker, Inc.",EQUITY,Consumer Cyclical,FL
+Electronic Gaming & Multimedia,Electronic Arts Inc.,EQUITY,Communication Services,EA
+Grocery Stores,Kroger Company (The),EQUITY,Consumer Defensive,KR
+Security & Protection Services,"NL Industries, Inc.",EQUITY,Industrials,NL
+Software—Application,Quhuo Limited - American Deposi,EQUITY,Technology,QH
+Internet Content & Information,Outbrain Inc.,EQUITY,Communication Services,OB
+Oil & Gas Refining & Marketing,"Delek US Holdings, Inc.",EQUITY,Energy,DK
+Marine Shipping,Navios Maritime Holdings Inc.,EQUITY,Industrials,NM
+Information Technology Services,Global Blue Group Holding AG,EQUITY,Technology,GB
+Auto & Truck Dealerships,"AutoNation, Inc.",EQUITY,Consumer Cyclical,AN
+Other Industrial Metals & Mining,MP Materials Corp.,EQUITY,Basic Materials,MP
+Real Estate Services,Ucommune International Ltd,EQUITY,Real Estate,UK
+Biotechnology,"Equillium, Inc.",EQUITY,Healthcare,EQ
+Aerospace & Defense,Planet Labs PBC,EQUITY,Industrials,PL
+Specialty Business Services,First Advantage Corporation,EQUITY,Industrials,FA
+Capital Markets,Stifel Financial Corporation,EQUITY,Financial Services,SF
+Banks—Regional,KB Financial Group Inc,EQUITY,Financial Services,KB
+Waste Management,"Waste Management, Inc.",EQUITY,Industrials,WM
+Beverages—Non-Alcoholic,Coca-Cola Company (The),EQUITY,Consumer Defensive,KO
+Real Estate Services,Kennedy-Wilson Holdings Inc.,EQUITY,Real Estate,KW
+Asset Management,PIMCO Dynamic Income Fund,EQUITY,Financial Services,PDI
+Asset Management,John Hancock Tax Advantaged Div,EQUITY,Financial Services,HTD
+Electronic Components,Wallbox N.V.,EQUITY,Technology,WBX
+Uranium,Ur Energy Inc,EQUITY,Energy,URG
+Banks—Regional,"Salisbury Bancorp, Inc.",EQUITY,Financial Services,SAL
+Asset Management,Pioneer High Income Trust  of B,EQUITY,Financial Services,PHT
+Consulting Services,"Equifax, Inc.",EQUITY,Industrials,EFX
+Railroads,"Greenbrier Companies, Inc. (The",EQUITY,Industrials,GBX
+Information Technology Services,International Business Machines,EQUITY,Technology,IBM
+Oil & Gas E&P,Chesapeake Energy Corporation,EQUITY,Energy,CHK
+Credit Services,SLM Corporation,EQUITY,Financial Services,SLM
+Resorts & Casinos,Bluegreen Vacations Holding Cor,EQUITY,Consumer Cyclical,BVH
+Other Industrial Metals & Mining,Largo Inc.,EQUITY,Basic Materials,LGO
+Asset Management,Sprott Inc.,EQUITY,Financial Services,SII
+Medical Distribution,McKesson Corporation,EQUITY,Healthcare,MCK
+Auto Parts,Modine Manufacturing Company,EQUITY,Consumer Cyclical,MOD
+Industrial Distribution,Global Industrial Company,EQUITY,Industrials,GIC
+Biotechnology,SQZ Biotechnologies Company,EQUITY,Healthcare,SQZ
+Gold,"Pretium Resources, Inc.",EQUITY,Basic Materials,PVG
+Banks—Regional,Peapack-Gladstone Financial Cor,EQUITY,Financial Services,PGC
+Gold,Agnico Eagle Mines Limited,EQUITY,Basic Materials,AEM
+Internet Retail,"Solo Brands, Inc.",EQUITY,Consumer Cyclical,DTC
+REIT—Retail,Macerich Company (The),EQUITY,Real Estate,MAC
+Internet Retail,Meiwu Technology Company Limite,EQUITY,Consumer Cyclical,WNW
+Asset Management,Pimco High Income Fund Pimco Hi,EQUITY,Financial Services,PHK
+Banks—Regional,Coastal Financial Corporation,EQUITY,Financial Services,CCB
+Information Technology Services,Unisys Corporation New,EQUITY,Technology,UIS
+Medical Care Facilities,"Oak Street Health, Inc.",EQUITY,Healthcare,OSH
+Asset Management,Blackstone GSO Senior Floating ,EQUITY,Financial Services,BSL
+Building Materials,CRH PLC,EQUITY,Basic Materials,CRH
+Insurance—Life,"Prudential Financial, Inc.",EQUITY,Financial Services,PRU
+Advertising Agencies,"Interpublic Group of Companies,",EQUITY,Communication Services,IPG
+Tools & Accessories,Timken Company (The),EQUITY,Industrials,TKR
+Asset Management,First Trust High Income Long Sh,EQUITY,Financial Services,FSD
+Biotechnology,HUTCHMED (China) Limited,EQUITY,Healthcare,HCM
+Engineering & Construction,AECOM,EQUITY,Industrials,ACM
+Farm & Heavy Construction Machinery,"Titan International, Inc. (DE)",EQUITY,Industrials,TWI
+Building Products & Equipment,"Janus International Group, Inc.",EQUITY,Industrials,JBI
+Credit Services,"OneMain Holdings, Inc.",EQUITY,Financial Services,OMF
+Oil & Gas E&P,California Resources Corporatio,EQUITY,Energy,CRC
+Department Stores,"Nordstrom, Inc.",EQUITY,Consumer Cyclical,JWN
+Tools & Accessories,Chicago Rivet & Machine Co.,EQUITY,Industrials,CVR
+Asset Management,Blackrock Muni Intermediate Dur,EQUITY,Financial Services,MUI
+Asset Management,"WhiteHorse Finance, Inc.",EQUITY,Financial Services,WHF
+Oil & Gas Drilling,Transocean Ltd (Switzerland),EQUITY,Energy,RIG
+Insurance—Property & Casualty,Allstate Corporation (The),EQUITY,Financial Services,ALL
+Asset Management,Clough Global Equity Fund Cloug,EQUITY,Financial Services,GLQ
+Farm Products,"Village Farms International, In",EQUITY,Consumer Defensive,VFF
+Gold,FIORE GOLD INC,EQUITY,Basic Materials,F.V
+Personal Services,MEDIFAST INC,EQUITY,Consumer Cyclical,MED
+Insurance—Property & Casualty,ProAssurance Corporation,EQUITY,Financial Services,PRA
+Biotechnology,"Brickell Biotech, Inc.",EQUITY,Healthcare,BBI
+Restaurants,BurgerFi International Inc,EQUITY,Consumer Cyclical,BFI
+Information Technology Services,"Computer Task Group, Incorporat",EQUITY,Technology,CTG
+Residential Construction,"Century Communities, Inc.",EQUITY,Consumer Cyclical,CCS
+REIT—Hotel & Motel,Diamondrock Hospitality Company,EQUITY,Real Estate,DRH
+Healthcare Plans,"Bright Health Group, Inc.",EQUITY,Healthcare,BHG
+Oil & Gas E&P,Evolution Petroleum Corporation,EQUITY,Energy,EPM
+Packaging & Containers,Ball Corporation,EQUITY,Consumer Cyclical,BLL
+Engineering & Construction,Tutor Perini Corporation,EQUITY,Industrials,TPC
+Gold,Vista Gold Corp,EQUITY,Basic Materials,VGZ
+Oil & Gas Refining & Marketing,Ultrapar Participacoes S.A. (Ne,EQUITY,Energy,UGP
+Credit Services,Weidai Ltd.,EQUITY,Financial Services,WEI
+Insurance Brokers,"Brown & Brown, Inc.",EQUITY,Financial Services,BRO
+Lodging,GreenTree Hospitality Group Ltd,EQUITY,Consumer Cyclical,GHG
+Recreational Vehicles,"Arcimoto, Inc.",EQUITY,Consumer Cyclical,FUV
+Medical Devices,STERIS plc (Ireland),EQUITY,Healthcare,STE
+Software—Application,VIQ Solutions Inc.,EQUITY,Technology,VQS
+Insurance—Property & Casualty,"HCI Group, Inc.",EQUITY,Financial Services,HCI
+Banks—Regional,Banco Macro S.A.,EQUITY,Financial Services,BMA
+Auto & Truck Dealerships,"Camping World Holdings, Inc.",EQUITY,Consumer Cyclical,CWH
+Insurance—Property & Casualty,White Mountains Insurance Group,EQUITY,Financial Services,WTM
+Drug Manufacturers—Specialty & Generic,"Emergent Biosolutions, Inc.",EQUITY,Healthcare,EBS
+Chemicals,Sociedad Quimica y Minera S.A.,EQUITY,Basic Materials,SQM
+Aerospace & Defense,Transdigm Group Incorporated,EQUITY,Industrials,TDG
+Grocery Stores,Dingdong (Cayman) Limited,EQUITY,Consumer Defensive,DDL
+Oil & Gas Equipment & Services,Halliburton Company,EQUITY,Energy,HAL
+Asset Management,Morgan Stanley Emerging Markets,EQUITY,Financial Services,EDD
+Insurance—Life,"Primerica, Inc.",EQUITY,Financial Services,PRI
+Restaurants,Domino's Pizza Inc,EQUITY,Consumer Cyclical,DPZ
+Oil & Gas E&P,Crescent Point Energy Corporati,EQUITY,Energy,CPG
+Health Information Services,"10x Genomics, Inc.",EQUITY,Healthcare,TXG
+Real Estate Services,Nam Tai Property Inc.,EQUITY,Real Estate,NTP
+Insurance—Diversified,"American International Group, I",EQUITY,Financial Services,AIG
+Advertising Agencies,WPP plc,EQUITY,Communication Services,WPP
+Asset Management,238549,EQUITY,Financial Services,EAD
+Credit Services,Yiren Digital Ltd.,EQUITY,Financial Services,YRD
+Rental & Leasing Services,"PROG Holdings, Inc.",EQUITY,Industrials,PRG
+Medical Devices,Boston Scientific Corporation,EQUITY,Healthcare,BSX
+Oil & Gas Refining & Marketing,NGL ENERGY PARTNERS LP,EQUITY,Energy,NGL
+Restaurants,FAT Brands Inc.,EQUITY,Consumer Cyclical,FAT
+Asset Management,TeklaLife Sciences Investors,EQUITY,Financial Services,HQL
+Advertising Agencies,Integral Ad Science Holding Cor,EQUITY,Communication Services,IAS
+Oil & Gas E&P,Occidental Petroleum Corporatio,EQUITY,Energy,OXY
+REIT—Mortgage,"Lument Finance Trust, Inc.",EQUITY,Real Estate,LFT
+Shell Companies,Integrated Wellness Acquisition,EQUITY,Financial Services,WEL
+Conglomerates,"MDU Resources Group, Inc.",EQUITY,Industrials,MDU
+Uranium,Denison Mines Corp,EQUITY,Energy,DNN
+Auto Parts,American Axle & Manufacturing H,EQUITY,Consumer Cyclical,AXL
+Auto Parts,LKQ Corporation,EQUITY,Consumer Cyclical,LKQ
+REIT—Healthcare Facilities,Universal Health Realty Income ,EQUITY,Real Estate,UHT
+Computer Hardware,Seagate Technology Holdings PLC,EQUITY,Technology,STX
+Real Estate—Diversified,Howard Hughes Corporation (The),EQUITY,Real Estate,HHC
+Oil & Gas Equipment & Services,Valaris Limited,EQUITY,Energy,VAL
+REIT—Industrial,Public Storage,EQUITY,Real Estate,PSA
+Drug Manufacturers—General,"Merck & Company, Inc.",EQUITY,Healthcare,MRK
+Banks—Diversified,Bank Nova Scotia Halifax Pfd 3,EQUITY,Financial Services,BNS
+Biotechnology,"Rafael Holdings, Inc.",EQUITY,Healthcare,RFL
+Software—Infrastructure,"Zuora, Inc.",EQUITY,Technology,ZUO
+Staffing & Employment Services,"ZipRecruiter, Inc.",EQUITY,Industrials,ZIP
+Engineering & Construction,"Quanta Services, Inc.",EQUITY,Industrials,PWR
+Drug Manufacturers—Specialty & Generic,Zoetis Inc.,EQUITY,Healthcare,ZTS
+Oil & Gas Integrated,TotalEnergies SE,EQUITY,Energy,TTE
+Biotechnology,"Inovio Pharmaceuticals, Inc.",EQUITY,Healthcare,INO
+Gold,Gold Standard Ventures Corporat,EQUITY,Basic Materials,GSV
+Medical Instruments & Supplies,"West Pharmaceutical Services, I",EQUITY,Healthcare,WST
+Specialty Chemicals,"Air Products and Chemicals, Inc",EQUITY,Basic Materials,APD
+Broadcasting,Entravision Communications Corp,EQUITY,Communication Services,EVC
+Residential Construction,"Beazer Homes USA, Inc.",EQUITY,Consumer Cyclical,BZH
+Drug Manufacturers—General,"Pfizer, Inc.",EQUITY,Healthcare,PFE
+Auto Manufacturers,Tata Motors Ltd Tata Motors Lim,EQUITY,Consumer Cyclical,TTM
+Insurance—Specialty,Radian Group Inc.,EQUITY,Financial Services,RDN
+Oil & Gas Integrated,PetroChina Company Limited,EQUITY,Energy,PTR
+Utilities—Regulated Electric,Edison International,EQUITY,Utilities,EIX
+Biotechnology,Quantum-Si Incorporated,EQUITY,Healthcare,QSI
+Asset Management,Jackson Financial Inc.,EQUITY,Financial Services,JXN
+Industrial Distribution,"Huttig Building Products, Inc.",EQUITY,Industrials,HBP
+Biotechnology,OncoCyte Corporation,EQUITY,Healthcare,OCX
+Asset Management,"Sculptor Capital Management, In",EQUITY,Financial Services,SCU
+REIT—Healthcare Facilities,Physicians Realty Trust,EQUITY,Real Estate,DOC
+Insurance—Diversified,Old Republic International Corp,EQUITY,Financial Services,ORI
+Specialty Chemicals,"PPG Industries, Inc.",EQUITY,Basic Materials,PPG
+Department Stores,"Dillard's, Inc.",EQUITY,Consumer Cyclical,DDS
+Oil & Gas E&P,"EOG Resources, Inc.",EQUITY,Energy,EOG
+Integrated Freight & Logistics,Pitney Bowes Inc.,EQUITY,Industrials,PBI
+Oil & Gas E&P,"Continental Resources, Inc.",EQUITY,Energy,CLR
+Banks—Regional,First Horizon Corporation,EQUITY,Financial Services,FHN
+Building Materials,"Boise Cascade, L.L.C.",EQUITY,Basic Materials,BCC
+REIT—Office,"New York City REIT, Inc.",EQUITY,Real Estate,NYC
+Specialty Industrial Machinery,Emerson Electric Company,EQUITY,Industrials,EMR
+Asset Management,Guggenheim Strategic Opportunit,EQUITY,Financial Services,GOF
+Aerospace & Defense,"L3Harris Technologies, Inc.",EQUITY,Industrials,LHX
+Apparel Retail,"Buckle, Inc. (The)",EQUITY,Consumer Cyclical,BKE
+Gold,Great Panther Mining Limited,EQUITY,Basic Materials,GPL
+Diagnostics & Research,Charles River Laboratories Inte,EQUITY,Healthcare,CRL
+Farm Products,Archer-Daniels-Midland Company,EQUITY,Consumer Defensive,ADM
+Specialty Retail,"AutoZone, Inc.",EQUITY,Consumer Cyclical,AZO
+Aerospace & Defense,AAR Corp.,EQUITY,Industrials,AIR
+Utilities—Renewable,Brookfield Renewable Partners L,EQUITY,Utilities,BEP
+Oil & Gas Equipment & Services,"Cactus, Inc. Class A Common Sto",EQUITY,Energy,WHD
+REIT—Healthcare Facilities,Geo Group Inc (The) REIT,EQUITY,Real Estate,GEO
+Medical Devices,Medtronic plc.,EQUITY,Healthcare,MDT
+Beverages—Brewers,Anheuser-Busch Inbev SA Sponsor,EQUITY,Consumer Defensive,BUD
+Agricultural Inputs,Mosaic Company (The),EQUITY,Basic Materials,MOS
+Oil & Gas Refining & Marketing,Marathon Petroleum Corporation,EQUITY,Energy,MPC
+Footwear & Accessories,"Skechers U.S.A., Inc.",EQUITY,Consumer Cyclical,SKX
+Utilities—Regulated Gas,New Fortress Energy Inc.,EQUITY,Utilities,NFE
+Software—Application,"Rapid7, Inc.",EQUITY,Technology,RPD
+Medical Devices,Stryker Corporation,EQUITY,Healthcare,SYK
+Oil & Gas Integrated,Petroleo Brasileiro S.A.- Petro,EQUITY,Energy,PBR
+Restaurants,"BBQ Holdings, Inc.",EQUITY,Consumer Cyclical,BBQ
+"Furnishings, Fixtures & Appliances","Leggett & Platt, Incorporated",EQUITY,Consumer Cyclical,LEG
+Asset Management,Gabelli Convertible and Income ,EQUITY,Financial Services,GCV
+Packaged Foods,"Coffee Holding Co., Inc.",EQUITY,Consumer Defensive,JVA
+Oil & Gas E&P,PHX Minerals Inc.,EQUITY,Energy,PHX
+Specialty Business Services,"StarTek, Inc.",EQUITY,Industrials,SRT
+Utilities—Diversified,Companhia Paranaense de Energia,EQUITY,Utilities,ELP
+Oil & Gas E&P,APA Corporation,EQUITY,Energy,APA
+Airlines,Southwest Airlines Company,EQUITY,Industrials,LUV
+Capital Markets,Mercurity Fintech Holding Inc.,EQUITY,Financial Services,MFH
+Medical Distribution,"Cardinal Health, Inc.",EQUITY,Healthcare,CAH
+Oil & Gas Refining & Marketing,SINOPEC Shangai Petrochemical C,EQUITY,Energy,SHI
+Telecom Services,Vodafone Group Plc,EQUITY,Communication Services,VOD
+Specialty Industrial Machinery,Dover Corporation,EQUITY,Industrials,DOV
+Other Precious Metals & Mining,Metalla Royalty & Streaming Ltd,EQUITY,Basic Materials,MTA
+Medical Devices,Myomo Inc.,EQUITY,Healthcare,MYO
+Utilities—Regulated Electric,CMS Energy Corporation,EQUITY,Utilities,CMS
+Telecom Services,Mobile TeleSystems Public Joint,EQUITY,Communication Services,MBT
+Oil & Gas Midstream,Pembina Pipeline Corp.,EQUITY,Energy,PBA
+Medical Care Facilities,"agilon health, inc.",EQUITY,Healthcare,AGL
+Medical Distribution,"Owens & Minor, Inc.",EQUITY,Healthcare,OMI
+Oil & Gas Equipment & Services,ChampionX Corporation,EQUITY,Energy,CHX
+Oil & Gas Midstream,"DCP Midstream,  LP",EQUITY,Energy,DCP
+Residential Construction,"PulteGroup, Inc.",EQUITY,Consumer Cyclical,PHM
+Other Industrial Metals & Mining,Lithium Americas Corp.,EQUITY,Basic Materials,LAC
+Communication Equipment,"Motorola Solutions, Inc.",EQUITY,Technology,MSI
+Engineering & Construction,"MasTec, Inc.",EQUITY,Industrials,MTZ
+Other Industrial Metals & Mining,"Westwater Resources, Inc.",EQUITY,Basic Materials,WWR
+Asset Management,Patria Investments Limited,EQUITY,Financial Services,PAX
+Medical Devices,IsoPlexis Corporation,EQUITY,Healthcare,ISO
+Oil & Gas E&P,"CKX Lands, Inc.",EQUITY,Energy,CKX
+Tobacco,Universal Corporation,EQUITY,Consumer Defensive,UVV
+Airlines,"United Airlines Holdings, Inc.",EQUITY,Industrials,UAL
+Oil & Gas E&P,"Barnwell Industries, Inc.",EQUITY,Energy,BRN
+Building Products & Equipment,"Installed Building Products, In",EQUITY,Industrials,IBP
+Specialty Industrial Machinery,Howmet Aerospace Inc.,EQUITY,Industrials,HWM
+Farm & Heavy Construction Machinery,"Xos, Inc.",EQUITY,Industrials,XOS
+Software—Infrastructure,"Vmware, Inc.",EQUITY,Technology,VMW
+REIT—Residential,Equity Residential,EQUITY,Real Estate,EQR
+Beverages—Brewers,"Boston Beer Company, Inc. (The)",EQUITY,Consumer Defensive,SAM
+Specialty Chemicals,Ecolab Inc.,EQUITY,Basic Materials,ECL
+Software—Infrastructure,SolarWinds Corporation,EQUITY,Technology,SWI
+Utilities—Diversified,"South Jersey Industries, Inc.",EQUITY,Utilities,SJI
+Oil & Gas Integrated,Imperial Oil Limited,EQUITY,Energy,IMO
+Rental & Leasing Services,"Hertz Global Holdings, Inc",EQUITY,Industrials,HTZ
+Biotechnology,"Xilio Therapeutics, Inc.",EQUITY,Healthcare,XLO
+Software—Application,Cvent Holding Corp.,EQUITY,Technology,CVT
+Oil & Gas E&P,Kosmos Energy Ltd.,EQUITY,Energy,KOS
+Conglomerates,Honeywell International Inc.,EQUITY,Industrials,HON
+Aerospace & Defense,"National Presto Industries, Inc",EQUITY,Industrials,NPK
+Semiconductors,STMicroelectronics N.V.,EQUITY,Technology,STM
+Asset Management,"Gabelli Equity Trust, Inc. (The",EQUITY,Financial Services,GAB
+Health Information Services,"Evolent Health, Inc",EQUITY,Healthcare,EVH
+Information Technology Services,Wipro Limited,EQUITY,Technology,WIT
+Asset Management,"GAMCO Global Gold, Natural Reso",EQUITY,Financial Services,GGN
+Packaging & Containers,Packaging Corporation of Americ,EQUITY,Consumer Cyclical,PKG
+Biotechnology,"Unity Biotechnology, Inc.",EQUITY,Healthcare,UBX
+Biotechnology,"Altimmune, Inc.",EQUITY,Healthcare,ALT
+Utilities—Renewable,ReNew Energy Global plc,EQUITY,Utilities,RNW
+REIT—Industrial,"Prologis, Inc.",EQUITY,Real Estate,PLD
+Shell Companies,AIB Acquisition Corporation Cla,EQUITY,Financial Services,AIB
+Resorts & Casinos,Boyd Gaming Corporation,EQUITY,Consumer Cyclical,BYD
+Restaurants,"Yum! Brands, Inc.",EQUITY,Consumer Cyclical,YUM
+REIT—Healthcare Facilities,"National Health Investors, Inc.",EQUITY,Real Estate,NHI
+Solar,"SPI Energy Co., Ltd.",EQUITY,Technology,SPI
+Insurance Brokers,"BRP Group, Inc.",EQUITY,Financial Services,BRP
+Oil & Gas Midstream,Enterprise Products Partners L.,EQUITY,Energy,EPD
+Biotechnology,"Global Blood Therapeutics, Inc.",EQUITY,Healthcare,GBT
+Information Technology Services,"TD Holdings, Inc.",EQUITY,Technology,GLG
+Oil & Gas Integrated,China Petroleum & Chemical Corp,EQUITY,Energy,SNP
+Apparel Retail,"Chico's FAS, Inc.",EQUITY,Consumer Cyclical,CHS
+REIT—Retail,Federal Realty Investment Trust,EQUITY,Real Estate,FRT
+Packaged Foods,"Treehouse Foods, Inc.",EQUITY,Consumer Defensive,THS
+REIT—Office,Vornado Realty Trust,EQUITY,Real Estate,VNO
+Biotechnology,"Palatin Technologies, Inc.",EQUITY,Healthcare,PTN
+Packaged Foods,J.M. Smucker Company (The) New,EQUITY,Consumer Defensive,SJM
+Luxury Goods,Signet Jewelers Limited,EQUITY,Consumer Cyclical,SIG
+Trucking,"Universal Logistics Holdings, I",EQUITY,Industrials,ULH
+Gold,Alamos Gold Inc.,EQUITY,Basic Materials,AGI
+Oil & Gas Midstream,North European Oil Royality Tru,EQUITY,Energy,NRT
+REIT—Retail,Whitestone REIT,EQUITY,Real Estate,WSR
+Specialty Retail,"Williams-Sonoma, Inc.",EQUITY,Consumer Cyclical,WSM
+Auto Manufacturers,NIO Inc.,EQUITY,Consumer Cyclical,NIO
+Chemicals,Huntsman Corporation,EQUITY,Basic Materials,HUN
+Real Estate Services,Fangdd Network Group Ltd.,EQUITY,Real Estate,DUO
+Apparel Manufacturing,"Ever-Glory International Group,",EQUITY,Consumer Cyclical,EVK
+Coking Coal,"Alpha Metallurgical Resources, ",EQUITY,Basic Materials,AMR
+Advertising Agencies,AcuityAds Holdings Inc.,EQUITY,Communication Services,ATY
+Grocery Stores,"Albertsons Companies, Inc.",EQUITY,Consumer Defensive,ACI
+Gold,Kinross Gold Corporation,EQUITY,Basic Materials,KGC
+Residential Construction,"Toll Brothers, Inc.",EQUITY,Consumer Cyclical,TOL
+Gold,Galiano Gold Inc.,EQUITY,Basic Materials,GAU
+Oil & Gas Midstream,"Plains All American Pipeline, L",EQUITY,Energy,PAA
+Oil & Gas E&P,"Black Stone Minerals, L.P.",EQUITY,Energy,BSM
+Uranium,Cameco Corporation,EQUITY,Energy,CCJ
+Insurance—Diversified,AEGON N.V.,EQUITY,Financial Services,AEG
+Software—Application,Sphere 3D Corp.,EQUITY,Technology,ANY
+Building Products & Equipment,Bluelinx Holdings Inc.,EQUITY,Industrials,BXC
+Asset Management,Eaton Vance Tax-Advantaged Glob,EQUITY,Financial Services,ETG
+Specialty Retail,Dick's Sporting Goods Inc,EQUITY,Consumer Cyclical,DKS
+Business Equipment & Supplies,Avery Dennison Corporation,EQUITY,Industrials,AVY
+Oil & Gas Midstream,Teekay Tankers Ltd.,EQUITY,Energy,TNK
+Conglomerates,Griffon Corporation,EQUITY,Industrials,GFF
+Oil & Gas E&P,Pioneer Natural Resources Compa,EQUITY,Energy,PXD
+Engineering & Construction,"KBR, Inc.",EQUITY,Industrials,KBR
+Semiconductors,Valens Semiconductor Ltd.,EQUITY,Technology,VLN
+REIT—Mortgage,INVESCO MORTGAGE CAPITAL INC,EQUITY,Real Estate,IVR
+Asset Management,"Liberty All-Star Growth Fund, I",EQUITY,Financial Services,ASG
+Marine Shipping,Pyxis Tankers Inc.,EQUITY,Industrials,PXS
+Oil & Gas E&P,"HighPeak Energy, Inc.",EQUITY,Energy,HPK
+Banks—Regional,ICICI Bank Limited,EQUITY,Financial Services,IBN
+Oil & Gas Equipment & Services,"Helix Energy Solutions Group, I",EQUITY,Energy,HLX
+Copper,"Taseko Mines, Ltd.",EQUITY,Basic Materials,TGB
+Personal Services,E-Home Household Service Holdin,EQUITY,Consumer Cyclical,EJH
+Oil & Gas Midstream,"Genesis Energy, L.P.",EQUITY,Energy,GEL
+Auto Manufacturers,Sono Group N.V.,EQUITY,Consumer Cyclical,SEV
+Auto & Truck Dealerships,"Vroom, Inc.",EQUITY,Consumer Cyclical,VRM
+Railroads,Union Pacific Corporation,EQUITY,Industrials,UNP
+Medical Devices,Abbott Laboratories,EQUITY,Healthcare,ABT
+Medical Distribution,AmerisourceBergen Corporation,EQUITY,Healthcare,ABC
+Telecom Services,"Telephone and Data Systems, Inc",EQUITY,Communication Services,TDS
+Airlines,"American Airlines Group, Inc.",EQUITY,Industrials,AAL
+Gambling,GAN Limited,EQUITY,Consumer Cyclical,GAN
+Insurance—Life,Unum Group,EQUITY,Financial Services,UNM
+Packaged Foods,"McCormick & Company, Incorporat",EQUITY,Consumer Defensive,MKC
+Utilities—Regulated Electric,Ameren Corporation,EQUITY,Utilities,AEE
+Personal Services,"Mister Car Wash, Inc.",EQUITY,Consumer Cyclical,MCW
+Farm Products,"Mission Produce, Inc.",EQUITY,Consumer Defensive,AVO
+Software—Application,"ServiceNow, Inc.",EQUITY,Technology,NOW
+REIT—Office,Orion Office REIT Inc.,EQUITY,Real Estate,ONL
+REIT—Office,"Easterly Government Properties,",EQUITY,Real Estate,DEA
+Integrated Freight & Logistics,"United Parcel Service, Inc.",EQUITY,Industrials,UPS
+Software—Application,"Alteryx, Inc.",EQUITY,Technology,AYX
+Other Precious Metals & Mining,Platinum Group Metals Ltd.,EQUITY,Basic Materials,PLG
+Tobacco,RLX Technology Inc.,EQUITY,Consumer Defensive,RLX
+Biotechnology,Kodiak Sciences Inc,EQUITY,Healthcare,KOD
+Airlines,"Delta Air Lines, Inc.",EQUITY,Industrials,DAL
+Engineering & Construction,TopBuild Corp.,EQUITY,Industrials,BLD
+Internet Retail,"Shift Technologies, Inc.",EQUITY,Consumer Cyclical,SFT
+REIT—Retail,"Tanger Factory Outlet Centers, ",EQUITY,Real Estate,SKT
+Specialty Industrial Machinery,Pentair plc.,EQUITY,Industrials,PNR
+Tobacco,British American Tobacco  Indus,EQUITY,Consumer Defensive,BTI
+Specialty Business Services,ABM Industries Incorporated,EQUITY,Industrials,ABM
+Staffing & Employment Services,"TrueBlue, Inc.",EQUITY,Industrials,TBI
+REIT—Retail,National Retail Properties,EQUITY,Real Estate,NNN
+Banks—Regional,Valley National Bancorp,EQUITY,Financial Services,VLY
+Electronic Gaming & Multimedia,Liquid Media Group Ltd.,EQUITY,Communication Services,YVR
+REIT—Residential,Apartment Investment and Manage,EQUITY,Real Estate,AIV
+Asset Management,9268,EQUITY,Financial Services,VKI
+Insurance—Property & Casualty,W.R. Berkley Corporation,EQUITY,Financial Services,WRB
+Software—Application,"CS Disco, Inc.",EQUITY,Technology,LAW
+Asset Management,Gabelli Utility Trust (The),EQUITY,Financial Services,GUT
+Software—Application,Full Truck Alliance Co. Ltd.,EQUITY,Technology,YMM
+Specialty Industrial Machinery,Graham Corporation,EQUITY,Industrials,GHM
+Auto & Truck Dealerships,Asbury Automotive Group Inc,EQUITY,Consumer Cyclical,ABG
+Capital Markets,Scully Royalty Ltd.,EQUITY,Financial Services,SRL
+Apparel Manufacturing,PVH Corp.,EQUITY,Consumer Cyclical,PVH
+Software—Application,Advanced Human Imaging Limited.,EQUITY,Technology,AHI
+Oil & Gas E&P,Callon Petroleum Company,EQUITY,Energy,CPE
+Resorts & Casinos,Marriott Vacations Worldwide Co,EQUITY,Consumer Cyclical,VAC
+Aerospace & Defense,"Huntington Ingalls Industries, ",EQUITY,Industrials,HII
+Steel,Commercial Metals Company,EQUITY,Basic Materials,CMC
+Oil & Gas Midstream,"Williams Companies, Inc. (The)",EQUITY,Energy,WMB
+Thermal Coal,Natural Resource Partners LP Li,EQUITY,Energy,NRP
+Information Technology Services,Teradata Corporation,EQUITY,Technology,TDC
+Information Technology Services,Telos Corporation,EQUITY,Technology,TLS
+Software—Infrastructure,SOS Limited,EQUITY,Technology,SOS
+Building Products & Equipment,"Cornerstone Building Brands, In",EQUITY,Industrials,CNR
+Oil & Gas E&P,Southwestern Energy Company,EQUITY,Energy,SWN
+Electrical Equipment & Parts,"ESS Tech, Inc.",EQUITY,Industrials,GWH
+Communication Equipment,"Communications Systems, Inc.",EQUITY,Technology,JCS
+Steel,Companhia Siderurgica Nacional ,EQUITY,Basic Materials,SID
+Capital Markets,Jefferies Financial Group Inc.,EQUITY,Financial Services,JEF
+Asset Management,33138,EQUITY,Financial Services,CRF
+Auto Parts,Cooper-Standard Holdings Inc.,EQUITY,Consumer Cyclical,CPS
+Insurance—Diversified,Principal Financial Group Inc,EQUITY,Financial Services,PFG
+Restaurants,"Dine Brands Global, Inc. Common",EQUITY,Consumer Cyclical,DIN
+Credit Services,"Moneygram International, Inc.",EQUITY,Financial Services,MGI
+Specialty Chemicals,Linde plc,EQUITY,Basic Materials,LIN
+Utilities—Renewable,Algonquin Power & Utilities Cor,EQUITY,Utilities,AQN
+Leisure,"Nautilus, Inc.",EQUITY,Consumer Cyclical,NLS
+Medical Instruments & Supplies,Baxter International Inc.,EQUITY,Healthcare,BAX
+Mortgage Finance,"Rocket Companies, Inc.",EQUITY,Financial Services,RKT
+Specialty Retail,"Sally Beauty Holdings, Inc. (Na",EQUITY,Consumer Cyclical,SBH
+Agricultural Inputs,Scotts Miracle-Gro Company (The,EQUITY,Basic Materials,SMG
+Pharmaceutical Retailers,"Walgreens Boots Alliance, Inc.",EQUITY,Healthcare,WBA
+Real Estate—Development,Xinyuan Real Estate Co Ltd,EQUITY,Real Estate,XIN
+REIT—Mortgage,Arbor Realty Trust,EQUITY,Real Estate,ABR
+Aerospace & Defense,"Triumph Group, Inc.",EQUITY,Industrials,TGI
+Packaged Foods,Darling Ingredients Inc.,EQUITY,Consumer Defensive,DAR
+Oil & Gas Refining & Marketing,Phillips 66,EQUITY,Energy,PSX
+Restaurants,"Brinker International, Inc.",EQUITY,Consumer Cyclical,EAT
+REIT—Mortgage,"MFA Financial, Inc.",EQUITY,Real Estate,MFA
+Packaged Foods,"Flowers Foods, Inc.",EQUITY,Consumer Defensive,FLO
+REIT—Mortgage,New Residential Investment Corp,EQUITY,Real Estate,NRZ
+Oil & Gas Refining & Marketing,Valero Energy Corporation,EQUITY,Energy,VLO
+Packaged Foods,Pilgrim's Pride Corporation,EQUITY,Consumer Defensive,PPC
+Discount Stores,"Big Lots, Inc.",EQUITY,Consumer Defensive,BIG
+Oil & Gas Refining & Marketing,CVR Energy Inc.,EQUITY,Energy,CVI
+Medical Instruments & Supplies,ResMed Inc.,EQUITY,Healthcare,RMD
+Apparel Retail,Genesco Inc.,EQUITY,Consumer Cyclical,GCO
+Oil & Gas E&P,Berry Corporation (bry),EQUITY,Energy,BRY
+Building Products & Equipment,Carlisle Companies Incorporated,EQUITY,Industrials,CSL
+Education & Training Services,First High-School Education Gro,EQUITY,Consumer Defensive,FHS
+Software—Application,PAR Technology Corporation,EQUITY,Technology,PAR
+Drug Manufacturers—General,Astrazeneca PLC,EQUITY,Healthcare,AZN
+Banks—Regional,"Citizens Financial Group, Inc.",EQUITY,Financial Services,CFG
+Banks—Regional,KeyCorp,EQUITY,Financial Services,KEY
+Paper & Paper Products,Glatfelter Corporation,EQUITY,Basic Materials,GLT
+Utilities—Renewable,"Advent Technologies Holdings, I",EQUITY,Utilities,ADN
+Banks—Regional,Banco Bradesco Sa,EQUITY,Financial Services,BBD
+Oil & Gas E&P,Vermilion Energy Inc.,EQUITY,Energy,VET
+Engineering & Construction,Granite Construction Incorporat,EQUITY,Industrials,GVA
+Gold,Iamgold Corporation,EQUITY,Basic Materials,IAG
+Capital Markets,"Lazard LTD. Lazard, LTD.",EQUITY,Financial Services,LAZ
+Medical Care Facilities,AMN Healthcare Services Inc AMN,EQUITY,Healthcare,AMN
+Specialty Industrial Machinery,Parsons Corporation,EQUITY,Industrials,PSN
+Engineering & Construction,"Orion Group Holdings, Inc.",EQUITY,Industrials,ORN
+Oil & Gas Equipment & Services,"Oceaneering International, Inc.",EQUITY,Energy,OII
+Software—Infrastructure,Getnet Adquirencia e Servicos p,EQUITY,Technology,GET
+Entertainment,"Endeavor Group Holdings, Inc.",EQUITY,Communication Services,EDR
+REIT—Healthcare Facilities,"Medical Properties Trust, Inc.",EQUITY,Real Estate,MPW
+Specialty Chemicals,H. B. Fuller Company,EQUITY,Basic Materials,FUL
+Utilities—Regulated Electric,Duke Energy Corporation (Holdin,EQUITY,Utilities,DUK
+Banks—Regional,Lloyds Banking Group Plc,EQUITY,Financial Services,LYG
+Leisure,"Cedar Fair, L.P.",EQUITY,Consumer Cyclical,FUN
+Biotechnology,"Dyne Therapeutics, Inc.",EQUITY,Healthcare,DYN
+Metal Fabrication,"Mueller Industries, Inc.",EQUITY,Industrials,MLI
+Aluminum,Aluminum Corporation of China L,EQUITY,Basic Materials,ACH
+Packaged Foods,Campbell Soup Company,EQUITY,Consumer Defensive,CPB
+REIT—Mortgage,"ARMOUR Residential REIT, Inc.",EQUITY,Real Estate,ARR
+REIT—Hotel & Motel,Braemar Hotels & Resorts Inc.,EQUITY,Real Estate,BHR
+Diagnostics & Research,"NeoGenomics, Inc.",EQUITY,Healthcare,NEO
+Medical Devices,"Bio-Rad Laboratories, Inc.",EQUITY,Healthcare,BIO
+Healthcare Plans,CVS Health Corporation,EQUITY,Healthcare,CVS
+Education & Training Services,TAL Education Group,EQUITY,Consumer Defensive,TAL
+Software—Application,"Zendesk, Inc.",EQUITY,Technology,ZEN
+Utilities—Diversified,Public Service Enterprise Group,EQUITY,Utilities,PEG
+Communication Equipment,Hewlett Packard Enterprise Comp,EQUITY,Technology,HPE
+Asset Management,"PIMCO Strategic Income Fund, In",EQUITY,Financial Services,RCS
+Semiconductors,United Microelectronics Corpora,EQUITY,Technology,UMC
+Advertising Agencies,"Emerald Holding, Inc.",EQUITY,Communication Services,EEX
+Electrical Equipment & Parts,nVent Electric plc,EQUITY,Industrials,NVT
+Paper & Paper Products,"IT Tech Packaging, Inc.",EQUITY,Basic Materials,ITP
+Oil & Gas E&P,Marathon Oil Corporation,EQUITY,Energy,MRO
+Rental & Leasing Services,"United Rentals, Inc.",EQUITY,Industrials,URI
+Advertising Agencies,Omnicom Group Inc.,EQUITY,Communication Services,OMC
+Software—Infrastructure,Wix.com Ltd.,EQUITY,Technology,WIX
+Utilities—Regulated Gas,"Suburban Propane Partners, L.P.",EQUITY,Utilities,SPH
+Oil & Gas Refining & Marketing,Sunoco LP,EQUITY,Energy,SUN
+Software—Infrastructure,"ALFI, Inc.",EQUITY,Technology,ALF
+Utilities—Regulated Gas,Chesapeake Utilities Corporatio,EQUITY,Utilities,CPK
+Chemicals,Molecular Data Inc.,EQUITY,Basic Materials,MKD
+Oil & Gas E&P,Range Resources Corporation,EQUITY,Energy,RRC
+Waste Management,"Clean Harbors, Inc.",EQUITY,Industrials,CLH
+Information Technology Services,Fidelity National Information S,EQUITY,Technology,FIS
+Leisure,Carnival Plc,EQUITY,Consumer Cyclical,CUK
+Medical Instruments & Supplies,Teleflex Incorporated,EQUITY,Healthcare,TFX
+Apparel Retail,Designer Brands Inc.,EQUITY,Consumer Cyclical,DBI
+Health Information Services,"HealthEquity, Inc.",EQUITY,Healthcare,HQY
+Packaging & Containers,Westrock Company,EQUITY,Consumer Cyclical,WRK
+Insurance—Life,"Brighthouse Financial, Inc.",EQUITY,Financial Services,BHF
+Pollution & Treatment Controls,"PureCycle Technologies, Inc.",EQUITY,Industrials,PCT
+Personal Services,Service Corporation Internation,EQUITY,Consumer Cyclical,SCI
+Insurance—Specialty,Assured Guaranty Ltd.,EQUITY,Financial Services,AGO
+Insurance—Specialty,FNF Group of Fidelity National ,EQUITY,Financial Services,FNF
+Asset Management,Adams Diversified Equity Fund I,EQUITY,Financial Services,ADX
+Biotechnology,MorphoSys AG,EQUITY,Healthcare,MOR
+Utilities—Regulated Electric,Pinnacle West Capital Corporati,EQUITY,Utilities,PNW
+Specialty Industrial Machinery,Flowserve Corporation,EQUITY,Industrials,FLS
+Travel Services,Carnival Corporation,EQUITY,Consumer Cyclical,CCL
+Electrical Equipment & Parts,ABB Ltd,EQUITY,Industrials,ABB
+Building Products & Equipment,"Armstrong Flooring, Inc.",EQUITY,Industrials,AFI
+Specialty Industrial Machinery,"Roper Technologies, Inc.",EQUITY,Industrials,ROP
+Healthcare Plans,Molina Healthcare Inc,EQUITY,Healthcare,MOH
+Biotechnology,Cel-Sci Corporation,EQUITY,Healthcare,CVM
+Auto Parts,Dana Incorporated,EQUITY,Consumer Cyclical,DAN
+Packaged Foods,"General Mills, Inc.",EQUITY,Consumer Defensive,GIS
+Auto & Truck Dealerships,CarMax Inc,EQUITY,Consumer Cyclical,KMX
+Publishing,New York Times Company (The),EQUITY,Communication Services,NYT
+Oil & Gas Midstream,"Kinder Morgan, Inc.",EQUITY,Energy,KMI
+Medical Care Facilities,"HCA Healthcare, Inc.",EQUITY,Healthcare,HCA
+Auto Parts,BorgWarner Inc.,EQUITY,Consumer Cyclical,BWA
+Biotechnology,"Synthetic Biologics, Inc.",EQUITY,Healthcare,SYN
+Auto Parts,"Stoneridge, Inc.",EQUITY,Consumer Cyclical,SRI
+Farm & Heavy Construction Machinery,Oshkosh Corporation (Holding Co,EQUITY,Industrials,OSK
+Software—Application,CooTek (Cayman) Inc.,EQUITY,Technology,CTK
+Gambling,"Rush Street Interactive, Inc.",EQUITY,Consumer Cyclical,RSI
+Oil & Gas Midstream,Tsakos Energy Navigation Ltd,EQUITY,Energy,TNP
+Asset Management,FS KKR Capital Corp.,EQUITY,Financial Services,FSK
+Oil & Gas E&P,Mesa Royalty Trust,EQUITY,Energy,MTR
+Software—Application,"Intellicheck, Inc.",EQUITY,Technology,IDN
+Aerospace & Defense,"CPI Aerostructures, Inc.",EQUITY,Industrials,CVU
+Drug Manufacturers—Specialty & Generic,Organigram Holdings Inc.,EQUITY,Healthcare,OGI
+Oil & Gas E&P,EQT Corporation,EQUITY,Energy,EQT
+Software—Infrastructure,"Cloudflare, Inc.",EQUITY,Technology,NET
+Credit Services,Capital One Financial Corporati,EQUITY,Financial Services,COF
+Residential Construction,"Hovnanian Enterprises, Inc.",EQUITY,Consumer Cyclical,HOV
+REIT—Mortgage,Two Harbors Investment Corp,EQUITY,Real Estate,TWO
+Drug Manufacturers—General,Eli Lilly and Company,EQUITY,Healthcare,LLY
+Specialty Industrial Machinery,"Eaton Corporation, PLC",EQUITY,Industrials,ETN
+Medical Care Facilities,Tenet Healthcare Corporation,EQUITY,Healthcare,THC
+REIT—Residential,Camden Property Trust,EQUITY,Real Estate,CPT
+Oil & Gas E&P,ConocoPhillips,EQUITY,Energy,COP
+REIT—Office,SL Green Realty Corp,EQUITY,Real Estate,SLG
+Auto Parts,"Veoneer, Inc.",EQUITY,Consumer Cyclical,VNE
+Drug Manufacturers—General,GlaxoSmithKline PLC,EQUITY,Healthcare,GSK
+Advertising Agencies,Innovid Corp.,EQUITY,Communication Services,CTV
+Healthcare Plans,UnitedHealth Group Incorporated,EQUITY,Healthcare,UNH
+Utilities—Regulated Gas,UGI Corporation,EQUITY,Utilities,UGI
+Biotechnology,Opthea Limited,EQUITY,Healthcare,OPT
+Oil & Gas E&P,PermRock Royalty Trust Trust,EQUITY,Energy,PRT
+Drug Manufacturers—Specialty & Generic,Aurora Cannabis Inc.,EQUITY,Healthcare,ACB
+Utilities—Regulated Electric,Pacific Gas & Electric Co.,EQUITY,Utilities,PCG
+Software—Application,"The Trade Desk, Inc.",EQUITY,Technology,TTD
+Semiconductors,"Analog Devices, Inc.",EQUITY,Technology,ADI
+Steel,Nucor Corporation,EQUITY,Basic Materials,NUE
+Agricultural Inputs,ICL Group Ltd.,EQUITY,Basic Materials,ICL
+Financial Data & Stock Exchanges,FactSet Research Systems Inc.,EQUITY,Financial Services,FDS
+Auto Parts,"Standard Motor Products, Inc.",EQUITY,Consumer Cyclical,SMP
+Auto Parts,Tenneco Inc.,EQUITY,Consumer Cyclical,TEN
+Apparel Retail,Abercrombie & Fitch Company,EQUITY,Consumer Cyclical,ANF
+Credit Services,X Financial,EQUITY,Financial Services,XYF
+Banks—Regional,Truist Financial Corporation,EQUITY,Financial Services,TFC
+Discount Stores,Walmart Inc.,EQUITY,Consumer Defensive,WMT
+Apparel Retail,"TJX Companies, Inc. (The)",EQUITY,Consumer Cyclical,TJX
+Oil & Gas Integrated,National Fuel Gas Company,EQUITY,Energy,NFG
+Footwear & Accessories,"Caleres, Inc.",EQUITY,Consumer Cyclical,CAL
+Capital Markets,Evercore Inc.,EQUITY,Financial Services,EVR
+Oil & Gas Midstream,"Delek Logistics Partners, L.P.",EQUITY,Energy,DKL
+Oil & Gas Equipment & Services,Baker Hughes Company,EQUITY,Energy,BKR
+Oil & Gas Refining & Marketing,HollyFrontier Corporation,EQUITY,Energy,HFC
+Banks—Regional,M&T Bank Corporation,EQUITY,Financial Services,MTB
+Tools & Accessories,Snap-On Incorporated,EQUITY,Industrials,SNA
+Telecom Services,Turkcell Iletisim Hizmetleri AS,EQUITY,Communication Services,TKC
+REIT—Retail,"Cedar Realty Trust, Inc.",EQUITY,Real Estate,CDR
+Insurance—Specialty,"Enact Holdings, Inc.",EQUITY,Financial Services,ACT
+Business Equipment & Supplies,HNI Corporation,EQUITY,Industrials,HNI
+Insurance—Life,"MetLife, Inc.",EQUITY,Financial Services,MET
+Oil & Gas Refining & Marketing,BP Prudhoe Bay Royalty Trust,EQUITY,Energy,BPT
+Specialty Retail,"Franchise Group, Inc.",EQUITY,Consumer Cyclical,FRG
+Banks—Diversified,"ING Group, N.V.",EQUITY,Financial Services,ING
+Biotechnology,"Instil Bio, Inc.",EQUITY,Healthcare,TIL
+Banks—Diversified,Bank Of Montreal,EQUITY,Financial Services,BMO
+Industrial Distribution,"W.W. Grainger, Inc.",EQUITY,Industrials,GWW
+Oil & Gas Midstream,"Western Midstream Partners, LP",EQUITY,Energy,WES
+Other Precious Metals & Mining,Endeavour Silver Corporation,EQUITY,Basic Materials,EXK
+Oil & Gas Equipment & Services,Schlumberger N.V.,EQUITY,Energy,SLB
+Oil & Gas Drilling,Precision Drilling Corporation,EQUITY,Energy,PDS
+Software—Infrastructure,VirnetX Holding Corp,EQUITY,Technology,VHC
+Software—Infrastructure,DLocal Limited,EQUITY,Technology,DLO
+REIT—Retail,Pennsylvania Real Estate Invest,EQUITY,Real Estate,PEI
+Drug Manufacturers—General,Bristol-Myers Squibb Company,EQUITY,Healthcare,BMY
+Utilities—Regulated Electric,Xcel Energy Inc.,EQUITY,Utilities,XEL
+Utilities—Regulated Gas,Atmos Energy Corporation,EQUITY,Utilities,ATO
+Packaging & Containers,"DSS, Inc.",EQUITY,Consumer Cyclical,DSS
+Asset Management,"Equus Total Return, Inc.",EQUITY,Financial Services,EQS
+Gold,Franco-Nevada Corporation,EQUITY,Basic Materials,FNV
+Telecom Services,"America Movil, S.A.B. de C.V. A",EQUITY,Communication Services,AMX
+Utilities—Regulated Electric,DTE Energy Company,EQUITY,Utilities,DTE
+Telecom Services,"BCE, Inc.",EQUITY,Communication Services,BCE
+Electronic Components,TE Connectivity Ltd. New Switze,EQUITY,Technology,TEL
+Insurance—Property & Casualty,"The Travelers Companies, Inc.",EQUITY,Financial Services,TRV
+Insurance—Life,Prudential Public Limited Compa,EQUITY,Financial Services,PUK
+Biotechnology,"Cyteir Therapeutics, Inc.",EQUITY,Healthcare,CYT
+Asset Management,Eagle Point Credit Company Inc.,EQUITY,Financial Services,ECC
+Utilities—Independent Power Producers,Vistra Corp.,EQUITY,Utilities,VST
+Packaged Foods,Hormel Foods Corporation,EQUITY,Consumer Defensive,HRL
+Conglomerates,IRSA Inversiones Y Representaci,EQUITY,Industrials,IRS
+Building Products & Equipment,Masco Corporation,EQUITY,Industrials,MAS
+Diagnostics & Research,Quest Diagnostics Incorporated,EQUITY,Healthcare,DGX
+Engineering & Construction,ENGlobal Corporation,EQUITY,Industrials,ENG
+Oil & Gas E&P,Mexco Energy Corporation,EQUITY,Energy,MXC
+Discount Stores,Target Corporation,EQUITY,Consumer Defensive,TGT
+Chemicals,Dow Inc.,EQUITY,Basic Materials,DOW
+Marine Shipping,ZIM Integrated Shipping Service,EQUITY,Industrials,ZIM
+Credit Services,Finance of America Companies In,EQUITY,Financial Services,FOA
+Specialty Chemicals,Olin Corporation,EQUITY,Basic Materials,OLN
+REIT—Specialty,OUTFRONT Media Inc.,EQUITY,Real Estate,OUT
+Real Estate—Development,Alset EHome International Inc.,EQUITY,Real Estate,AEI
+Mortgage Finance,"loanDepot, Inc.",EQUITY,Financial Services,LDI
+Asset Management,The Central and Eastern Europe ,EQUITY,Financial Services,CEE
+Resorts & Casinos,"Vail Resorts, Inc.",EQUITY,Consumer Cyclical,MTN
+Restaurants,McDonald's Corporation,EQUITY,Consumer Cyclical,MCD
+Other Precious Metals & Mining,McEwen Mining Inc.,EQUITY,Basic Materials,MUX
+Apparel Retail,"Guess?, Inc.",EQUITY,Consumer Cyclical,GES
+Software—Application,PTC Inc.,EQUITY,Technology,PTC
+Oil & Gas Midstream,Permian Basin Royalty Trust,EQUITY,Energy,PBT
+Leisure,Callaway Golf Company,EQUITY,Consumer Cyclical,ELY
+Specialty Industrial Machinery,Cummins Inc.,EQUITY,Industrials,CMI
+Computer Hardware,Canaan Inc.,EQUITY,Technology,CAN
+Auto Manufacturers,Fisker Inc.,EQUITY,Consumer Cyclical,FSR
+Oil & Gas E&P,MV Oil Trust,EQUITY,Energy,MVO
+Auto Parts,"Magna International, Inc.",EQUITY,Consumer Cyclical,MGA
+Packaging & Containers,Sonoco Products Company,EQUITY,Consumer Cyclical,SON
+Railroads,Canadian National Railway Compa,EQUITY,Industrials,CNI
+Electronic Gaming & Multimedia,"DoubleDown Interactive Co., Ltd",EQUITY,Communication Services,DDI
+Other Industrial Metals & Mining,Piedmont Lithium Inc.,EQUITY,Basic Materials,PLL
+Apparel Manufacturing,JX Luxventure Limited,EQUITY,Consumer Cyclical,LLL
+Confectioners,The Hershey Company,EQUITY,Consumer Defensive,HSY
+Other Industrial Metals & Mining,Solitario Zinc Corp.,EQUITY,Basic Materials,XPL
+"Furnishings, Fixtures & Appliances",FGI Industries Ltd.,EQUITY,Consumer Cyclical,FGI
+Gold,Eldorado Gold Corporation,EQUITY,Basic Materials,EGO
+Auto Parts,SES AI Corporation,EQUITY,Consumer Cyclical,SES
+Chemicals,"Valhi, Inc.",EQUITY,Basic Materials,VHI
+Internet Content & Information,Tencent Music Entertainment Gro,EQUITY,Communication Services,TME
+Utilities—Diversified,"Orbital Energy Group, Inc.",EQUITY,Utilities,OEG
+Uranium,Nexgen Energy Ltd.,EQUITY,Energy,NXE
+Capital Markets,"Houlihan Lokey, Inc.",EQUITY,Financial Services,HLI
+Food Distribution,Sysco Corporation,EQUITY,Consumer Defensive,SYY
+Software—Application,"Ringcentral, Inc.",EQUITY,Technology,RNG
+Aerospace & Defense,Embraer S.A.,EQUITY,Industrials,ERJ
+Information Technology Services,DXC Technology Company,EQUITY,Technology,DXC
+Packaged Foods,Herbalife Nutrition Ltd.,EQUITY,Consumer Defensive,HLF
+Diagnostics & Research,"Opko Health, Inc.",EQUITY,Healthcare,OPK
+Marine Shipping,Danaos Corporation,EQUITY,Industrials,DAC
+Oil & Gas E&P,"Ring Energy, Inc.",EQUITY,Energy,REI
+Banks—Regional,Comerica Incorporated,EQUITY,Financial Services,CMA
+Packaged Foods,"ConAgra Brands, Inc.",EQUITY,Consumer Defensive,CAG
+Utilities—Regulated Gas,"Southwest Gas Holdings, Inc.",EQUITY,Utilities,SWX
+Home Improvement Retail,"Haverty Furniture Companies, In",EQUITY,Consumer Cyclical,HVT
+Utilities—Independent Power Producers,Pampa Energia S.A. Pampa Energi,EQUITY,Utilities,PAM
+Auto & Truck Dealerships,"Lithia Motors, Inc.",EQUITY,Consumer Cyclical,LAD
+Health Information Services,"UpHealth, Inc.",EQUITY,Healthcare,UPH
+Insurance—Diversified,Waterdrop Inc.,EQUITY,Financial Services,WDH
+Biotechnology,"NovaBay Pharmaceuticals, Inc.",EQUITY,Healthcare,NBY
+Household & Personal Products,"Church & Dwight Company, Inc.",EQUITY,Consumer Defensive,CHD
+Banks—Regional,Western Alliance Bancorporation,EQUITY,Financial Services,WAL
+Engineering & Construction,Fluor Corporation,EQUITY,Industrials,FLR
+Farm & Heavy Construction Machinery,Terex Corporation,EQUITY,Industrials,TEX
+Oil & Gas Equipment & Services,TechnipFMC plc,EQUITY,Energy,FTI
+Gold,"Coeur Mining, Inc.",EQUITY,Basic Materials,CDE
+Asset Management,Stellus Capital Investment Corp,EQUITY,Financial Services,SCM
+Specialty Chemicals,Kronos Worldwide Inc,EQUITY,Basic Materials,KRO
+Other Precious Metals & Mining,Buenaventura Mining Company Inc,EQUITY,Basic Materials,BVN
+Oil & Gas Midstream,"Overseas Shipholding Group, Inc",EQUITY,Energy,OSG
+Scientific & Technical Instruments,Vontier Corporation,EQUITY,Technology,VNT
+Specialty Chemicals,RPM International Inc.,EQUITY,Basic Materials,RPM
+Recreational Vehicles,"Thor Industries, Inc.",EQUITY,Consumer Cyclical,THO
+Staffing & Employment Services,"Automatic Data Processing, Inc.",EQUITY,Industrials,ADP
+Uranium,Centrus Energy Corp.,EQUITY,Energy,LEU
+Medical Devices,"Zimmer Biomet Holdings, Inc.",EQUITY,Healthcare,ZBH
+Software—Infrastructure,Samsara Inc.,EQUITY,Technology,IOT
+Beverages—Wineries & Distilleries,Diageo plc,EQUITY,Consumer Defensive,DEO
+Other Industrial Metals & Mining,Ferroglobe PLC,EQUITY,Basic Materials,GSM
+Gambling,International Game Technology,EQUITY,Consumer Cyclical,IGT
+Electrical Equipment & Parts,"Energizer Holdings, Inc.",EQUITY,Industrials,ENR
+Footwear & Accessories,"Nike, Inc.",EQUITY,Consumer Cyclical,NKE
+Utilities—Regulated Electric,American Electric Power Company,EQUITY,Utilities,AEP
+Real Estate—Diversified,St. Joe Company (The),EQUITY,Real Estate,JOE
+Software—Infrastructure,"Rackspace Technology, Inc.",EQUITY,Technology,RXT
+Aerospace & Defense,Redwire Corporation,EQUITY,Industrials,RDW
+Specialty Business Services,R.R. Donnelley & Sons Company,EQUITY,Industrials,RRD
+Building Materials,Vulcan Materials Company (Holdi,EQUITY,Basic Materials,VMC
+Specialty Industrial Machinery,PyroGenesis Canada Inc.,EQUITY,Industrials,PYR
+Steel,Gerdau S.A.,EQUITY,Basic Materials,GGB
+"Furnishings, Fixtures & Appliances","Mohawk Industries, Inc.",EQUITY,Consumer Cyclical,MHK
+Auto Manufacturers,"Honda Motor Company, Ltd.",EQUITY,Consumer Cyclical,HMC
+Utilities—Regulated Electric,Alliant Energy Corporation,EQUITY,Utilities,LNT
+REIT—Mortgage,Ellington Financial Inc.,EQUITY,Real Estate,EFC
+Insurance—Property & Casualty,Markel Corporation,EQUITY,Financial Services,MKL
+Oil & Gas E&P,VOC Energy Trust Units of Benef,EQUITY,Energy,VOC
+Department Stores,Kohl's Corporation,EQUITY,Consumer Cyclical,KSS
+Banks—Diversified,Barclays PLC,EQUITY,Financial Services,BCS
+Beverages—Wineries & Distilleries,"Constellation Brands, Inc.",EQUITY,Consumer Defensive,STZ
+Marine Shipping,Ardmore Shipping Corporation,EQUITY,Industrials,ASC
+Drug Manufacturers—Specialty & Generic,Lannett Co Inc,EQUITY,Healthcare,LCI
+Asset Management,"Franklin Resources, Inc.",EQUITY,Financial Services,BEN
+Biotechnology,"Kezar Life Sciences, Inc.",EQUITY,Healthcare,KZR
+Entertainment,Warner Music Group Corp.,EQUITY,Communication Services,WMG
+Trucking,TuSimple Holdings Inc.,EQUITY,Industrials,TSP
+REIT—Healthcare Facilities,"Omega Healthcare Investors, Inc",EQUITY,Real Estate,OHI
+Asset Management,BlackRock Resources  of Benefic,EQUITY,Financial Services,BCX
+REIT—Specialty,"CoreCivic, Inc.",EQUITY,Real Estate,CXW
+Utilities—Regulated Water,Zurn Water Solutions Corporatio,EQUITY,Utilities,ZWS
+Oil & Gas Equipment & Services,"Flotek Industries, Inc.",EQUITY,Energy,FTK
+Internet Retail,Pinduoduo Inc.,EQUITY,Consumer Cyclical,PDD
+Banks—Diversified,JP Morgan Chase & Co.,EQUITY,Financial Services,JPM
+REIT—Mortgage,"Orchid Island Capital, Inc.",EQUITY,Real Estate,ORC
+Tobacco,Vector Group Ltd.,EQUITY,Consumer Defensive,VGR
+Insurance—Specialty,MBIA Inc.,EQUITY,Financial Services,MBI
+Utilities—Renewable,Constellation Energy Corporatio,EQUITY,Utilities,CEG
+Engineering & Construction,Johnson Controls International ,EQUITY,Industrials,JCI
+Specialty Chemicals,Orion Engineered Carbons S.A,EQUITY,Basic Materials,OEC
+Leisure,Six Flags Entertainment Corpora,EQUITY,Consumer Cyclical,SIX
+Oil & Gas E&P,Sabine Royalty Trust,EQUITY,Energy,SBR
+Internet Content & Information,"MediaAlpha, Inc.",EQUITY,Communication Services,MAX
+Medical Instruments & Supplies,IntriCon Corporation,EQUITY,Healthcare,IIN
+REIT—Diversified,Modiv Inc.,EQUITY,Real Estate,MDV
+Packaging & Containers,Tupperware Brands Corporation,EQUITY,Consumer Cyclical,TUP
+Gold,DRDGOLD Limited,EQUITY,Basic Materials,DRD
+Credit Services,Synchrony Financial,EQUITY,Financial Services,SYF
+Engineering & Construction,Infrastructure and Energy Alter,EQUITY,Industrials,IEA
+REIT—Specialty,Crown Castle International Corp,EQUITY,Real Estate,CCI
+Biotechnology,"Vir Biotechnology, Inc.",EQUITY,Healthcare,VIR
+REIT—Retail,Agree Realty Corporation,EQUITY,Real Estate,ADC
+Rental & Leasing Services,Textainer Group Holdings Limite,EQUITY,Industrials,TGH
+Specialty Chemicals,International Flavors & Fragran,EQUITY,Basic Materials,IFF
+Specialty Retail,Genuine Parts Company,EQUITY,Consumer Cyclical,GPC
+Computer Hardware,"Velo3D, Inc.",EQUITY,Technology,VLD
+REIT—Industrial,Extra Space Storage Inc,EQUITY,Real Estate,EXR
+Biotechnology,AIM ImmunoTech Inc.,EQUITY,Healthcare,AIM
+Steel,Mechel PAO,EQUITY,Basic Materials,MTL
+REIT—Hotel & Motel,Ashford Hospitality Trust Inc,EQUITY,Real Estate,AHT
+Oil & Gas Equipment & Services,NOV Inc.,EQUITY,Energy,NOV
+Farm Products,"Fresh Del Monte Produce, Inc.",EQUITY,Consumer Defensive,FDP
+Marine Shipping,Global Ship Lease Inc New,EQUITY,Industrials,GSL
+Residential Construction,"NVR, Inc.",EQUITY,Consumer Cyclical,NVR
+Semiconductors,Texas Instruments Incorporated,EQUITY,Technology,TXN
+Biotechnology,InMed Pharmaceuticals Inc.,EQUITY,Healthcare,INM
+Specialty Business Services,"System1, Inc.",EQUITY,Industrials,SST
+Marine Shipping,Genco Shipping & Trading Limite,EQUITY,Industrials,GNK
+Gold,Paramount Gold Nevada Corp.,EQUITY,Basic Materials,PZG
+Auto Manufacturers,Vicinity Motor Corp.,EQUITY,Consumer Cyclical,VEV
+Specialty Chemicals,Albemarle Corporation,EQUITY,Basic Materials,ALB
+Banks—Regional,U.S. Bancorp,EQUITY,Financial Services,USB
+Asset Management,"Safeguard Scientifics, Inc. New",EQUITY,Financial Services,SFE
+Specialty Retail,"Academy Sports and Outdoors, In",EQUITY,Consumer Cyclical,ASO
+Software—Application,Diebold Nixdorf Incorporated,EQUITY,Technology,DBD
+Capital Markets,Hut 8 Mining Corp.,EQUITY,Financial Services,HUT
+Insurance—Life,Manulife Financial Corporation,EQUITY,Financial Services,MFC
+Silver,Fortuna Silver Mines Inc,EQUITY,Basic Materials,FSM
+Insurance—Property & Casualty,Progressive Corporation (The),EQUITY,Financial Services,PGR
+Financial Data & Stock Exchanges,Intercontinental Exchange Inc.,EQUITY,Financial Services,ICE
+REIT—Hotel & Motel,Service Properties Trust - Shar,EQUITY,Real Estate,SVC
+Gold,Equinox Gold Corp.,EQUITY,Basic Materials,EQX
+Asset Management,Brookfield Asset Management Inc,EQUITY,Financial Services,BAM
+Solar,JinkoSolar Holding Company Limi,EQUITY,Technology,JKS
+Oil & Gas Equipment & Services,"Oil States International, Inc.",EQUITY,Energy,OIS
+Oil & Gas E&P,Kimbell Royalty Partners,EQUITY,Energy,KRP
+Publishing,"Gannett Co., Inc.",EQUITY,Communication Services,GCI
+Drug Manufacturers—General,Organon & Co.,EQUITY,Healthcare,OGN
+Restaurants,"Darden Restaurants, Inc.",EQUITY,Consumer Cyclical,DRI
+Real Estate Services,Jones Lang LaSalle Incorporated,EQUITY,Real Estate,JLL
+Utilities—Regulated Water,"American Water Works Company, I",EQUITY,Utilities,AWK
+Auto & Truck Dealerships,"Group 1 Automotive, Inc.",EQUITY,Consumer Cyclical,GPI
+Oil & Gas Midstream,Frontline Ltd.,EQUITY,Energy,FRO
+REIT—Diversified,"Global Net Lease, Inc.",EQUITY,Real Estate,GNL
+Specialty Business Services,"GXO Logistics, Inc.",EQUITY,Industrials,GXO
+Airlines,Gol Linhas Aereas Inteligentes ,EQUITY,Industrials,GOL
+Computer Hardware,Western Digital Corporation,EQUITY,Technology,WDC
+Oil & Gas E&P,Murphy Oil Corporation,EQUITY,Energy,MUR
+REIT—Healthcare Facilities,"LTC Properties, Inc.",EQUITY,Real Estate,LTC
+Asset Management,"RiverNorth Opportunities Fund, ",EQUITY,Financial Services,RIV
+Consulting Services,TransUnion,EQUITY,Industrials,TRU
+Packaged Foods,Utz Brands Inc,EQUITY,Consumer Defensive,UTZ
+Packaging & Containers,"Myers Industries, Inc.",EQUITY,Consumer Cyclical,MYE
+Lodging,Membership Collective Group Inc,EQUITY,Consumer Cyclical,MCG
+Other Industrial Metals & Mining,Western Copper and Gold Corpora,EQUITY,Basic Materials,WRN
+Auto & Truck Dealerships,"KAR Auction Services, Inc",EQUITY,Consumer Cyclical,KAR
+Household & Personal Products,Clorox Company (The),EQUITY,Consumer Defensive,CLX
+Auto Manufacturers,Niu Technologies,EQUITY,Consumer Cyclical,NIU
+Personal Services,Regis Corporation,EQUITY,Consumer Cyclical,RGS
+Oil & Gas Equipment & Services,"Natural Gas Services Group, Inc",EQUITY,Energy,NGS
+Specialty Retail,"Build-A-Bear Workshop, Inc.",EQUITY,Consumer Cyclical,BBW
+REIT—Specialty,Rayonier Inc. REIT,EQUITY,Real Estate,RYN
+Oil & Gas E&P,Pedevco Corp.,EQUITY,Energy,PED
+Oil & Gas E&P,CNX Resources Corporation,EQUITY,Energy,CNX
+Entertainment,"Live Nation Entertainment, Inc.",EQUITY,Communication Services,LYV
+Asset Management,DoubleLine Income Solutions Fun,EQUITY,Financial Services,DSL
+Steel,POSCO Holdings Inc.,EQUITY,Basic Materials,PKX
+Specialty Retail,"MarineMax, Inc.  (FL)",EQUITY,Consumer Cyclical,HZO
+Oil & Gas Midstream,"Cheniere Energy, Inc.",EQUITY,Energy,LNG
+Other Industrial Metals & Mining,Nouveau Monde Graphite Inc.,EQUITY,Basic Materials,NMG
+Semiconductors,"Vishay Intertechnology, Inc.",EQUITY,Technology,VSH
+Farm & Heavy Construction Machinery,"Manitowoc Company, Inc. (The)",EQUITY,Industrials,MTW
+Software—Application,Viant Technology Inc.,EQUITY,Technology,DSP
+Oil & Gas E&P,Obsidian Energy Ltd.,EQUITY,Energy,OBE
+Other Industrial Metals & Mining,BHP Group Limited,EQUITY,Basic Materials,BHP
+Asset Management,111422,EQUITY,Financial Services,CLM
+Gold,Gold Fields Limited,EQUITY,Basic Materials,GFI
+Healthcare Plans,Centene Corporation,EQUITY,Healthcare,CNC
+Farm Products,"AquaBounty Technologies, Inc.",EQUITY,Consumer Defensive,AQB
+Apparel Manufacturing,V.F. Corporation,EQUITY,Consumer Cyclical,VFC
+Oil & Gas Midstream,"Cheniere Energy Partners, LP Ch",EQUITY,Energy,CQP
+Drug Manufacturers—Specialty & Generic,Takeda Pharmaceutical Company L,EQUITY,Healthcare,TAK
+Asset Management,"Apollo Global Management, Inc. ",EQUITY,Financial Services,APO
+Software—Application,"Clear Secure, Inc.",EQUITY,Technology,YOU
+Specialty Chemicals,LyondellBasell Industries NV,EQUITY,Basic Materials,LYB
+Software—Infrastructure,"Dropbox, Inc.",EQUITY,Technology,DBX
+"Furnishings, Fixtures & Appliances",Whirlpool Corporation,EQUITY,Consumer Cyclical,WHR
+Chemicals,Eastman Chemical Company,EQUITY,Basic Materials,EMN
+Drug Manufacturers—Specialty & Generic,Dr. Reddy's Laboratories Ltd,EQUITY,Healthcare,RDY
+Solar,Renesola Ltd. American Depsitar,EQUITY,Technology,SOL
+Agricultural Inputs,"Intrepid Potash, Inc",EQUITY,Basic Materials,IPI
+Software—Infrastructure,"HashiCorp, Inc.",EQUITY,Technology,HCP
+Drug Manufacturers—Specialty & Generic,Canopy Growth Corporation,EQUITY,Healthcare,CGC
+Semiconductor Equipment & Materials,"Teradyne, Inc.",EQUITY,Technology,TER
+Marine Shipping,Nordic American Tankers Limited,EQUITY,Industrials,NAT
+Semiconductors,GlobalFoundries Inc.,EQUITY,Technology,GFS
+Medical Instruments & Supplies,"Becton, Dickinson and Company",EQUITY,Healthcare,BDX
+Electrical Equipment & Parts,"Vertiv Holdings, LLC",EQUITY,Industrials,VRT
+Copper,Hudbay Minerals Inc.,EQUITY,Basic Materials,HBM
+Insurance—Specialty,"Assurant, Inc.",EQUITY,Financial Services,AIZ
+Internet Retail,Kidpik Corp.,EQUITY,Consumer Cyclical,PIK
+Utilities—Regulated Electric,Kenon Holdings Ltd.,EQUITY,Utilities,KEN
+Financial Data & Stock Exchanges,CME Group Inc.,EQUITY,Financial Services,CME
+Gold,Yamana Gold Inc.,EQUITY,Basic Materials,AUY
+Computer Hardware,HP Inc.,EQUITY,Technology,HPQ
+Banks—Regional,HDFC Bank Limited,EQUITY,Financial Services,HDB
+Copper,"Freeport-McMoRan, Inc.",EQUITY,Basic Materials,FCX
+Oil & Gas Refining & Marketing,PBF Energy Inc.,EQUITY,Energy,PBF
+Building Products & Equipment,"Advanced Drainage Systems, Inc.",EQUITY,Industrials,WMS
+Recreational Vehicles,Polaris Inc.,EQUITY,Consumer Cyclical,PII
+Software—Application,"Bentley Systems, Incorporated",EQUITY,Technology,BSY
+Insurance—Property & Casualty,"American Financial Group, Inc.",EQUITY,Financial Services,AFG
+Utilities—Regulated Gas,NewJersey Resources Corporation,EQUITY,Utilities,NJR
+Auto Parts,"Romeo Power, Inc.",EQUITY,Consumer Cyclical,RMO
+REIT—Mortgage,PennyMac Mortgage Investment Tr,EQUITY,Real Estate,PMT
+REIT—Specialty,EPR Properties,EQUITY,Real Estate,EPR
+Software—Application,Salesforce.com Inc,EQUITY,Technology,CRM
+Asset Management,State Street Corporation,EQUITY,Financial Services,STT
+Apparel Manufacturing,"Oxford Industries, Inc.",EQUITY,Consumer Cyclical,OXM
+Integrated Freight & Logistics,ZTO Express (Cayman) Inc.,EQUITY,Industrials,ZTO
+Financial Data & Stock Exchanges,Moody's Corporation,EQUITY,Financial Services,MCO
+Other Industrial Metals & Mining,Rio Tinto Plc,EQUITY,Basic Materials,RIO
+Apparel Manufacturing,"Under Armour, Inc.",EQUITY,Consumer Cyclical,UAA
+Medical Instruments & Supplies,"The Cooper Companies, Inc.",EQUITY,Healthcare,COO
+Metal Fabrication,Allegheny Technologies Incorpor,EQUITY,Industrials,ATI
+Banks—Regional,Premier Financial Corp.,EQUITY,Financial Services,PFC
+Asset Management,Cohen & Steers Infrastructure F,EQUITY,Financial Services,UTF
+Broadcasting,Audacy,EQUITY,Communication Services,AUD
+Drug Manufacturers—General,Johnson & Johnson,EQUITY,Healthcare,JNJ
+Software—Application,"CDK Global, Inc.",EQUITY,Technology,CDK
+Credit Services,American Express Company,EQUITY,Financial Services,AXP
+Staffing & Employment Services,HeadHunter Group PLC,EQUITY,Industrials,HHR
+Education & Training Services,Sunlands Technology Group,EQUITY,Consumer Defensive,STG
+Gold,B2Gold Corp,EQUITY,Basic Materials,BTG
+Semiconductors,"MaxLinear, Inc",EQUITY,Technology,MXL
+REIT—Mortgage,"Redwood Trust, Inc.",EQUITY,Real Estate,RWT
+Specialty Business Services,"ARC Document Solutions, Inc.",EQUITY,Industrials,ARC
+Marine Shipping,Diana Shipping inc.,EQUITY,Industrials,DSX
+Information Technology Services,"Paymentus Holdings, Inc.",EQUITY,Technology,PAY
+Oil & Gas E&P,"Northern Oil and Gas, Inc.",EQUITY,Energy,NOG
+Other Industrial Metals & Mining,Compass Minerals Intl Inc,EQUITY,Basic Materials,CMP
+Real Estate Services,Tricon Residential Inc.,EQUITY,Real Estate,TCN
+Specialty Industrial Machinery,Illinois Tool Works Inc.,EQUITY,Industrials,ITW
+Resorts & Casinos,Las Vegas Sands Corp.,EQUITY,Consumer Cyclical,LVS
+Oil & Gas E&P,Ovintiv Inc. (DE),EQUITY,Energy,OVV
+Internet Content & Information,IAC/InterActiveCorp,EQUITY,Communication Services,IAC
+Airlines,China Eastern Airlines Corporat,EQUITY,Industrials,CEA
+Specialty Retail,The ODP Corporation,EQUITY,Consumer Cyclical,ODP
+REIT—Residential,"Independence Realty Trust, Inc.",EQUITY,Real Estate,IRT
+Drug Manufacturers—General,Sanofi,EQUITY,Healthcare,SNY
+Farm & Heavy Construction Machinery,"Lightning eMotors, Inc",EQUITY,Industrials,ZEV
+Oil & Gas Integrated,Transportadora de Gas del Sur S,EQUITY,Energy,TGS
+Asset Management,BlackRock Science and Technolog,EQUITY,Financial Services,BST
+Recreational Vehicles,"Winnebago Industries, Inc.",EQUITY,Consumer Cyclical,WGO
+Steel,Cleveland-Cliffs Inc.,EQUITY,Basic Materials,CLF
+Utilities—Regulated Electric,Entergy Corporation,EQUITY,Utilities,ETR
+Packaging & Containers,Greif Inc.,EQUITY,Consumer Cyclical,GEF
+Oil & Gas Midstream,Dorian LPG Ltd.,EQUITY,Energy,LPG
+Education & Training Services,OneSmart International Educatio,EQUITY,Consumer Defensive,ONE
+Electronic Components,Amphenol Corporation,EQUITY,Technology,APH
+Software—Application,"Sprout Social, Inc",EQUITY,Technology,SPT
+Oil & Gas Midstream,Magellan Midstream Partners L.P,EQUITY,Energy,MMP
+REIT—Diversified,W. P. Carey Inc. REIT,EQUITY,Real Estate,WPC
+REIT—Retail,"Simon Property Group, Inc.",EQUITY,Real Estate,SPG
+Paper & Paper Products,Suzano S.A.,EQUITY,Basic Materials,SUZ
+Rental & Leasing Services,"Avis Budget Group, Inc.",EQUITY,Industrials,CAR
+Biotechnology,IMV Inc.,EQUITY,Healthcare,IMV
+Medical Care Facilities,DaVita Inc.,EQUITY,Healthcare,DVA
+Biotechnology,"NGM Biopharmaceuticals, Inc.",EQUITY,Healthcare,NGM
+Beverages—Non-Alcoholic,"Pepsico, Inc.",EQUITY,Consumer Defensive,PEP
+Residential Construction,Lennar Corporation,EQUITY,Consumer Cyclical,LEN
+Education & Training Services,Puxin Limited,EQUITY,Consumer Defensive,NEW
+Gold,Tanzanian Gold Corporation,EQUITY,Basic Materials,TRX
+Oil & Gas E&P,Whiting Petroleum Corporation,EQUITY,Energy,WLL
+Railroads,CSX Corporation,EQUITY,Industrials,CSX
+REIT—Residential,"AvalonBay Communities, Inc.",EQUITY,Real Estate,AVB
+Internet Retail,a.k.a. Brands Holding Corp.,EQUITY,Consumer Cyclical,AKA
+Oil & Gas E&P,Canadian Natural Resources Limi,EQUITY,Energy,CNQ
+Oil & Gas E&P,Hess Corporation,EQUITY,Energy,HES
+Internet Content & Information,Qutoutiao Inc.,EQUITY,Communication Services,QTT
+Communication Equipment,"Blonder Tongue Laboratories, In",EQUITY,Technology,BDR
+Biotechnology,"SELLAS Life Sciences Group, Inc",EQUITY,Healthcare,SLS
+Rental & Leasing Services,WillScot Mobile Mini Holdings C,EQUITY,Industrials,WSC
+Oil & Gas E&P,Texas Pacific Land Corporation,EQUITY,Energy,TPL
+Utilities—Renewable,"Ormat Technologies, Inc.",EQUITY,Utilities,ORA
+Oil & Gas Equipment & Services,"Dril-Quip, Inc.",EQUITY,Energy,DRQ
+Oil & Gas Midstream,Global Partners LP Global Partn,EQUITY,Energy,GLP
+Specialty Chemicals,Westlake Corporation,EQUITY,Basic Materials,WLK
+Specialty Industrial Machinery,John Bean Technologies Corporat,EQUITY,Industrials,JBT
+Agricultural Inputs,"China Green Agriculture, Inc.",EQUITY,Basic Materials,CGA
+Recreational Vehicles,REE Automotive Ltd.,EQUITY,Consumer Cyclical,REE
+Utilities—Independent Power Producers,TransAlta Corporation,EQUITY,Utilities,TAC
+Apparel Retail,"American Eagle Outfitters, Inc.",EQUITY,Consumer Cyclical,AEO
+Metal Fabrication,"Worthington Industries, Inc.",EQUITY,Industrials,WOR
+Residential Construction,"Dream Finders Homes, Inc.",EQUITY,Consumer Cyclical,DFH
+Oil & Gas E&P,TransGlobe Energy Corporation,EQUITY,Energy,TGA
+Oil & Gas E&P,"Camber Energy, Inc.",EQUITY,Energy,CEI
+Medical Instruments & Supplies,Invacare Corporation,EQUITY,Healthcare,IVC
+Residential Construction,"D.R. Horton, Inc.",EQUITY,Consumer Cyclical,DHI
+Chemicals,Braskem SA,EQUITY,Basic Materials,BAK
+Asset Management,"Ameriprise Financial, Inc.",EQUITY,Financial Services,AMP
+Medical Devices,GBS Inc.,EQUITY,Healthcare,GBS
+Insurance—Life,AFLAC Incorporated,EQUITY,Financial Services,AFL
+Software—Infrastructure,"MongoDB, Inc.",EQUITY,Technology,MDB
+Insurance—Specialty,"Trean Insurance Group, Inc.",EQUITY,Financial Services,TIG
+Aerospace & Defense,Lockheed Martin Corporation,EQUITY,Industrials,LMT
+Education & Training Services,Zhangmen Education Inc.,EQUITY,Consumer Defensive,ZME
+Medical Instruments & Supplies,"SmileDirectClub, Inc.",EQUITY,Healthcare,SDC
+Oil & Gas Equipment & Services,"Smart Sand, Inc.",EQUITY,Energy,SND
+REIT—Specialty,American Tower Corporation (REI,EQUITY,Real Estate,AMT
+Electronic Components,Corning Incorporated,EQUITY,Technology,GLW
+Biotechnology,BELLUS Health Inc.,EQUITY,Healthcare,BLU
+Gold,New Gold Inc.,EQUITY,Basic Materials,NGD
+Oil & Gas Drilling,"Independence Contract Drilling,",EQUITY,Energy,ICD
+Utilities—Regulated Electric,"WEC Energy Group, Inc.",EQUITY,Utilities,WEC
+Information Technology Services,TD SYNNEX Corporation,EQUITY,Technology,SNX
+Residential Construction,Skyline Champion Corporation,EQUITY,Consumer Cyclical,SKY
+Information Technology Services,NCR Corporation,EQUITY,Technology,NCR
+Other Industrial Metals & Mining,Excellon Resources Inc.,EQUITY,Basic Materials,EXN
+Medical Care Facilities,"Universal Health Services, Inc.",EQUITY,Healthcare,UHS
+Apparel Manufacturing,Hanesbrands Inc.,EQUITY,Consumer Cyclical,HBI
+Utilities—Diversified,Brookfield Infrastructure Partn,EQUITY,Utilities,BIP
+Farm Products,"Tyson Foods, Inc.",EQUITY,Consumer Defensive,TSN
+Banks—Regional,"BankUnited, Inc.",EQUITY,Financial Services,BKU
+Specialty Industrial Machinery,A.O. Smith Corporation,EQUITY,Industrials,AOS
+Oil & Gas E&P,"Laredo Petroleum, Inc.",EQUITY,Energy,LPI
+Restaurants,"Chipotle Mexican Grill, Inc.",EQUITY,Consumer Cyclical,CMG
+Information Technology Services,Accenture plc,EQUITY,Technology,ACN
+Staffing & Employment Services,GEE Group Inc.,EQUITY,Industrials,JOB
+Utilities—Independent Power Producers,"NRG Energy, Inc.",EQUITY,Utilities,NRG
+Aerospace & Defense,Textron Inc.,EQUITY,Industrials,TXT
+Information Technology Services,Xerox Holdings Corporation,EQUITY,Technology,XRX
+Software—Application,China Index Holdings Limited - ,EQUITY,Technology,CIH
+Airlines,"Alaska Air Group, Inc.",EQUITY,Industrials,ALK
+Oil & Gas E&P,Devon Energy Corporation,EQUITY,Energy,DVN
+Advertising Agencies,Deluxe Corporation,EQUITY,Communication Services,DLX
+Aerospace & Defense,"Spirit Aerosystems Holdings, In",EQUITY,Industrials,SPR
+Lumber & Wood Production,Enviva Inc.,EQUITY,Basic Materials,EVA
+Asset Management,Kayne Anderson MLP/Midstream In,EQUITY,Financial Services,KYN
+Utilities—Regulated Electric,"CenterPoint Energy, Inc (Holdin",EQUITY,Utilities,CNP
+Asset Management,TPG Inc.,EQUITY,Financial Services,TPG
+Gold,Wheaton Precious Metals Corp,EQUITY,Basic Materials,WPM
+REIT—Office,"Digital Realty Trust, Inc.",EQUITY,Real Estate,DLR
+Medical Devices,Koninklijke Philips N.V. NY Reg,EQUITY,Healthcare,PHG
+Asset Management,53270,EQUITY,Financial Services,UTG
+Agricultural Inputs,Nutrien Ltd.,EQUITY,Basic Materials,NTR
+Electronic Components,Jabil Inc.,EQUITY,Technology,JBL
+Asset Management,Invesco Ltd,EQUITY,Financial Services,IVZ
+Trucking,Knight-Swift Transportation Hol,EQUITY,Industrials,KNX
+Residential Construction,Meritage Homes Corporation,EQUITY,Consumer Cyclical,MTH
+Travel Services,D/B/A Royal Caribbean Cruises L,EQUITY,Consumer Cyclical,RCL
+Electronics & Computer Distribution,"Arrow Electronics, Inc.",EQUITY,Technology,ARW
+Marine Shipping,Kirby Corporation,EQUITY,Industrials,KEX
+REIT—Retail,Seritage Growth Properties,EQUITY,Real Estate,SRG
+Pharmaceutical Retailers,Rite Aid Corporation,EQUITY,Healthcare,RAD
+Restaurants,Restaurant Brands International,EQUITY,Consumer Cyclical,QSR
+Residential Construction,"M/I Homes, Inc.",EQUITY,Consumer Cyclical,MHO
+Specialty Industrial Machinery,"Mirion Technologies, Inc.",EQUITY,Industrials,MIR
+Insurance Brokers,"Marsh & McLennan Companies, Inc",EQUITY,Financial Services,MMC
+Staffing & Employment Services,"Insperity, Inc.",EQUITY,Industrials,NSP
+Oil & Gas Midstream,Enbridge Inc,EQUITY,Energy,ENB
+Recreational Vehicles,"Harley-Davidson, Inc.",EQUITY,Consumer Cyclical,HOG
+Utilities—Diversified,Exelon Corporation,EQUITY,Utilities,EXC
+Consulting Services,"Global Internet of People, Inc.",EQUITY,Industrials,SDH
+Real Estate Services,"New Concept Energy, Inc",EQUITY,Real Estate,GBR
+Oil & Gas Integrated,YPF Sociedad Anonima,EQUITY,Energy,YPF
+Computer Hardware,3D Systems Corporation,EQUITY,Technology,DDD
+Oil & Gas E&P,Gran Tierra Energy Inc.,EQUITY,Energy,GTE
+Oil & Gas Equipment & Services,Core Laboratories N.V.,EQUITY,Energy,CLB
+Apparel Manufacturing,"Kontoor Brands, Inc.",EQUITY,Consumer Cyclical,KTB
+Asset Management,"India Fund, Inc. (The)",EQUITY,Financial Services,IFN
+Solar,Sunrun Inc.,EQUITY,Technology,RUN
+Oil & Gas E&P,San Juan Basin Royalty Trust,EQUITY,Energy,SJT
+Packaged Foods,"Laird Superfood, Inc.",EQUITY,Consumer Defensive,LSF
+Other Industrial Metals & Mining,"Northern Dynasty Minerals, Ltd.",EQUITY,Basic Materials,NAK
+Aerospace & Defense,"Sturm, Ruger & Company, Inc.",EQUITY,Industrials,RGR
+Leisure,"Life Time Group Holdings, Inc.",EQUITY,Consumer Cyclical,LTH
+Integrated Freight & Logistics,"XPO Logistics, Inc.",EQUITY,Industrials,XPO
+Resorts & Casinos,Studio City International Holdi,EQUITY,Consumer Cyclical,MSC
+Specialty Retail,Advance Auto Parts Inc.,EQUITY,Consumer Cyclical,AAP
+REIT—Mortgage,Apollo Commercial Real Estate F,EQUITY,Real Estate,ARI
+Resorts & Casinos,"Caesars Entertainment, Inc.",EQUITY,Consumer Cyclical,CZR
+Packaged Foods,The Kraft Heinz Company,EQUITY,Consumer Defensive,KHC
+Utilities—Independent Power Producers,Huaneng Power Intl,EQUITY,Utilities,HNP
+Other Industrial Metals & Mining,Standard Lithium Ltd.,EQUITY,Basic Materials,SLI
+Specialty Retail,"Aarons Holdings Company, Inc.",EQUITY,Consumer Cyclical,AAN
+"Furnishings, Fixtures & Appliances",Ethan Allen Interiors Inc.,EQUITY,Consumer Cyclical,ETD
+Utilities—Regulated Electric,Genie Energy Ltd.,EQUITY,Utilities,GNE
+Lumber & Wood Production,West Fraser Timber Co. Ltd,EQUITY,Basic Materials,WFG
+Aerospace & Defense,Northrop Grumman Corporation,EQUITY,Industrials,NOC
+REIT—Residential,American Homes 4 Rent,EQUITY,Real Estate,AMH
+Resorts & Casinos,MGM Resorts International,EQUITY,Consumer Cyclical,MGM
+Beverages—Non-Alcoholic,Keurig Dr Pepper Inc.,EQUITY,Consumer Defensive,KDP
+Specialty Retail,Yatsen Holding Limited,EQUITY,Consumer Cyclical,YSG
+Utilities—Regulated Electric,"NextEra Energy, Inc.",EQUITY,Utilities,NEE
+Oil & Gas Integrated,Cenovus Energy Inc,EQUITY,Energy,CVE
+Marine Shipping,SFL Corporation Ltd,EQUITY,Industrials,SFL
+Software—Application,"The OLB Group, Inc.",EQUITY,Technology,OLB
+Asset Management,304800,EQUITY,Financial Services,CEF
+Diagnostics & Research,Thermo Fisher Scientific Inc,EQUITY,Healthcare,TMO
+Publishing,"Pearson, Plc",EQUITY,Communication Services,PSO
+Specialty Industrial Machinery,"AMETEK, Inc.",EQUITY,Industrials,AME
+Oil & Gas Integrated,Chevron Corporation,EQUITY,Energy,CVX
+Education & Training Services,New Oriental Education & Techno,EQUITY,Consumer Defensive,EDU
+Consulting Services,Booz Allen Hamilton Holding Cor,EQUITY,Industrials,BAH
+Drug Manufacturers—General,Novartis AG,EQUITY,Healthcare,NVS
+Farm & Heavy Construction Machinery,"Caterpillar, Inc.",EQUITY,Industrials,CAT
+Specialty Industrial Machinery,Xylem Inc.,EQUITY,Industrials,XYL
+Oil & Gas E&P,Denbury Inc.,EQUITY,Energy,DEN
+Auto & Truck Dealerships,"Penske Automotive Group, Inc.",EQUITY,Consumer Cyclical,PAG
+Asset Management,Western Asset Emerging Markets ,EQUITY,Financial Services,EMD
+Credit Services,Discover Financial Services,EQUITY,Financial Services,DFS
+Banks—Diversified,Bank of America Corporation,EQUITY,Financial Services,BAC
+Conglomerates,India Globalization Capital Inc,EQUITY,Industrials,IGC
+Healthcare Plans,Humana Inc.,EQUITY,Healthcare,HUM
+Uranium,Uranium Energy Corp.,EQUITY,Energy,UEC
+Utilities—Renewable,Archaea Energy Inc.,EQUITY,Utilities,LFG
+Asset Management,Janus Henderson Group plc,EQUITY,Financial Services,JHG
+Other Industrial Metals & Mining,Polymet Mining Corporation,EQUITY,Basic Materials,PLM
+Building Products & Equipment,Louisiana-Pacific Corporation,EQUITY,Industrials,LPX
+Conglomerates,Icahn Enterprises L.P. - Deposi,EQUITY,Industrials,IEP
+Packaged Foods,"B&G Foods, Inc. B&G Foods, Inc.",EQUITY,Consumer Defensive,BGS
+Home Improvement Retail,"Lowe's Companies, Inc.",EQUITY,Consumer Cyclical,LOW
+Agricultural Inputs,"CVR Partners, LP",EQUITY,Basic Materials,UAN
+Beverages—Brewers,Molson Coors Beverage Company,EQUITY,Consumer Defensive,TAP
+Information Technology Services,GDS Holdings Limited,EQUITY,Technology,GDS
+Asset Management,"BlackRock, Inc.",EQUITY,Financial Services,BLK
+Agricultural Inputs,FMC Corporation,EQUITY,Basic Materials,FMC
+Communication Equipment,Nokia Corporation Sponsored,EQUITY,Technology,NOK
+REIT—Industrial,Monmouth Real Estate Investment,EQUITY,Real Estate,MNR
+Railroads,Norfolk Southern Corporation,EQUITY,Industrials,NSC
+Luxury Goods,"Tapestry, Inc.",EQUITY,Consumer Cyclical,TPR
+"Furnishings, Fixtures & Appliances","Tempur Sealy International, Inc",EQUITY,Consumer Cyclical,TPX
+Biotechnology,"PolarityTE, Inc.",EQUITY,Healthcare,PTE
+Banks—Diversified,UBS Group AG Registered,EQUITY,Financial Services,UBS
+REIT—Mortgage,Western Asset Mortgage Capital ,EQUITY,Real Estate,WMC
+Waste Management,"Montrose Environmental Group, I",EQUITY,Industrials,MEG
+Oil & Gas E&P,Magnolia Oil & Gas Corporation,EQUITY,Energy,MGY
+Apparel Retail,"Carter's, Inc.",EQUITY,Consumer Cyclical,CRI
+Software—Application,Olo Inc.,EQUITY,Technology,OLO
+Drug Manufacturers—Specialty & Generic,Zomedica Corp.,EQUITY,Healthcare,ZOM
+Utilities—Regulated Gas,Northwest Natural Holding Compa,EQUITY,Utilities,NWN
+Advertising Agencies,"Digital Media Solutions, Inc.",EQUITY,Communication Services,DMS
+Insurance—Property & Casualty,UNIVERSAL INSURANCE HOLDINGS IN,EQUITY,Financial Services,UVE
+Marine Shipping,Navios Maritime Partners LP,EQUITY,Industrials,NMM
+Medical Devices,"Eargo, Inc.",EQUITY,Healthcare,EAR
+Gold,Harmony Gold Mining Company Lim,EQUITY,Basic Materials,HMY
+Banks—Diversified,"Banco Santander, S.A. Sponsored",EQUITY,Financial Services,SAN
+Oil & Gas Equipment & Services,Tidewater Inc.,EQUITY,Energy,TDW
+Diagnostics & Research,"Enzo Biochem, Inc.",EQUITY,Healthcare,ENZ
+Integrated Freight & Logistics,FedEx Corporation,EQUITY,Industrials,FDX
+Household & Personal Products,Kimberly-Clark Corporation,EQUITY,Consumer Defensive,KMB
+Paper & Paper Products,Resolute Forest Products Inc.,EQUITY,Basic Materials,RFP
+Farm & Heavy Construction Machinery,The Lion Electric Company,EQUITY,Industrials,LEV
+Biotechnology,Novo Nordisk A/S,EQUITY,Healthcare,NVO
+REIT—Healthcare Facilities,"Healthcare Trust of America, In",EQUITY,Real Estate,HTA
+Grocery Stores,"Weis Markets, Inc.",EQUITY,Consumer Defensive,WMK
+Oil & Gas Equipment & Services,MRC Global Inc.,EQUITY,Energy,MRC
+Rental & Leasing Services,AerCap Holdings N.V.,EQUITY,Industrials,AER
+Asset Management,OFS Capital Corporation,EQUITY,Financial Services,OFS
+Grocery Stores,"Sprouts Farmers Market, Inc.",EQUITY,Consumer Defensive,SFM
+Asset Management,"New Ireland Fund, Inc (The)",EQUITY,Financial Services,IRL
+Banks—Regional,PCB Bancorp,EQUITY,Financial Services,PCB
+Gold,"Almaden Minerals, Ltd.",EQUITY,Basic Materials,AAU
+Information Technology Services,"Aurora Innovation, Inc.",EQUITY,Technology,AUR
+Software—Infrastructure,"Box, Inc.",EQUITY,Technology,BOX
+Oil & Gas E&P,Oasis Petroleum Inc.,EQUITY,Energy,OAS
+Specialty Retail,GameStop Corporation,EQUITY,Consumer Cyclical,GME
+Security & Protection Services,"Universal Security Instruments,",EQUITY,Industrials,UUU
+Specialty Chemicals,Trinseo PLC,EQUITY,Basic Materials,TSE
+Asset Management,"DNP Select Income Fund, Inc.",EQUITY,Financial Services,DNP
+Oil & Gas Integrated,Exxon Mobil Corporation,EQUITY,Energy,XOM
+Oil & Gas E&P,Cross Timbers Royalty Trust,EQUITY,Energy,CRT
+Coking Coal,"SunCoke Energy, Inc.",EQUITY,Basic Materials,SXC
+Industrial Distribution,"Core & Main, Inc.",EQUITY,Industrials,CNM
+REIT—Office,Alexandria Real Estate Equities,EQUITY,Real Estate,ARE
+Medical Care Facilities,"Community Health Systems, Inc.",EQUITY,Healthcare,CYH
+Building Materials,"Martin Marietta Materials, Inc.",EQUITY,Basic Materials,MLM
+Medical Devices,Bioventus Inc.,EQUITY,Healthcare,BVS
+Scientific & Technical Instruments,Teledyne Technologies Incorpora,EQUITY,Technology,TDY
+Auto Parts,Superior Industries Internation,EQUITY,Consumer Cyclical,SUP
+Insurance—Life,Lincoln National Corporation,EQUITY,Financial Services,LNC
+Insurance—Life,Genworth Financial Inc,EQUITY,Financial Services,GNW
+Copper,Turquoise Hill Resources Ltd.,EQUITY,Basic Materials,TRQ
+Oil & Gas Equipment & Services,"Forum Energy Technologies, Inc.",EQUITY,Energy,FET
+Leisure,"Mattel, Inc.",EQUITY,Consumer Cyclical,MAT
+Oil & Gas Equipment & Services,NexTier Oilfield Solutions Inc.,EQUITY,Energy,NEX
+Telecom Services,IDT Corporation,EQUITY,Communication Services,IDT
+Software—Application,"Agora, Inc.",EQUITY,Technology,API
+Telecom Services,Telecom Argentina SA,EQUITY,Communication Services,TEO
+Residential Construction,KB Home,EQUITY,Consumer Cyclical,KBH
+Medical Devices,"Smith & Nephew SNATS, Inc.",EQUITY,Healthcare,SNN
+Oil & Gas E&P,Enerplus Corporation,EQUITY,Energy,ERF
+Other Industrial Metals & Mining,Trilogy Metals Inc.,EQUITY,Basic Materials,TMQ
+REIT—Mortgage,Chimera Investment Corporation,EQUITY,Real Estate,CIM
+Oil & Gas Midstream,"DHT Holdings, Inc.",EQUITY,Energy,DHT
+Personal Services,"Carriage Services, Inc.",EQUITY,Consumer Cyclical,CSV
+Coking Coal,"Warrior Met Coal, Inc.",EQUITY,Basic Materials,HCC
+Luxury Goods,Movado Group Inc.,EQUITY,Consumer Cyclical,MOV
+Oil & Gas E&P,"VAALCO Energy, Inc.",EQUITY,Energy,EGY
+Software—Application,Applovin Corporation,EQUITY,Technology,APP
+Banks—Regional,"PNC Financial Services Group, I",EQUITY,Financial Services,PNC
+Oil & Gas Midstream,"Holly Energy Partners, L.P.",EQUITY,Energy,HEP
+Specialty Business Services,Global Payments Inc.,EQUITY,Industrials,GPN
+REIT—Retail,Kimco Realty Corporation,EQUITY,Real Estate,KIM
+Utilities—Regulated Electric,"National Grid Transco, PLC Nati",EQUITY,Utilities,NGG
+Home Improvement Retail,"Floor & Decor Holdings, Inc.",EQUITY,Consumer Cyclical,FND
+Utilities—Regulated Electric,"Via Renewables, Inc.",EQUITY,Utilities,VIA
+Auto Parts,Horizon Global Corporation,EQUITY,Consumer Cyclical,HZN
+Mortgage Finance,CNFinance Holdings Limited,EQUITY,Financial Services,CNF
+Silver,Silvercorp Metals Inc.,EQUITY,Basic Materials,SVM
+Asset Management,Cohen & Steers Quality Income R,EQUITY,Financial Services,RQI
+Gold,Newmont Corporation,EQUITY,Basic Materials,NEM
+Oil & Gas E&P,"W&T Offshore, Inc.",EQUITY,Energy,WTI
+Computer Hardware,"One Stop Systems, Inc.",EQUITY,Technology,OSS
+Software—Infrastructure,Datto Holding Corp.,EQUITY,Technology,MSP
+Restaurants,Wendy's Company (The),EQUITY,Consumer Cyclical,WEN
+Specialty Chemicals,Sasol Ltd.,EQUITY,Basic Materials,SSL
+Specialty Retail,"Best Buy Co., Inc.",EQUITY,Consumer Cyclical,BBY
+Waste Management,Harsco Corporation,EQUITY,Industrials,HSC
+Diagnostics & Research,Sotera Health Company,EQUITY,Healthcare,SHC
+Semiconductors,"ASE Technology Holding Co., Ltd",EQUITY,Technology,ASX
+REIT—Healthcare Facilities,"Ventas, Inc.",EQUITY,Real Estate,VTR
+Asset Management,Pimco Corporate & Income Opport,EQUITY,Financial Services,PTY
+Utilities—Diversified,Comp En De Mn Cemig,EQUITY,Utilities,CIG
+Leisure,"Hasbro, Inc.",EQUITY,Consumer Cyclical,HAS
+Oil & Gas Midstream,"DT Midstream, Inc.",EQUITY,Energy,DTM
+Asset Management,KKR & Co. Inc.,EQUITY,Financial Services,KKR
+Advertising Agencies,Boston Omaha Corporation,EQUITY,Communication Services,BOC
+Lodging,Hilton Worldwide Holdings Inc.,EQUITY,Consumer Cyclical,HLT
+Specialty Industrial Machinery,"Rockwell Automation, Inc.",EQUITY,Industrials,ROK
+Conglomerates,3M Company,EQUITY,Industrials,MMM
+Aerospace & Defense,Raytheon Technologies Corporati,EQUITY,Industrials,RTX
+Waste Management,"Republic Services, Inc.",EQUITY,Industrials,RSG
+Asset Management,"Gamco Investors, Inc.",EQUITY,Financial Services,GBL
+REIT—Specialty,Farmland Partners Inc.,EQUITY,Real Estate,FPI
+Oil & Gas E&P,Permianville Royalty Trust Trus,EQUITY,Energy,PVL
+Insurance Brokers,Aon plc,EQUITY,Financial Services,AON
+Credit Services,Alliance Data Systems Corporati,EQUITY,Financial Services,ADS
+Software—Application,"Envestnet, Inc",EQUITY,Technology,ENV
+Railroads,"Trinity Industries, Inc.",EQUITY,Industrials,TRN
+Staffing & Employment Services,HireRight Holdings Corporation,EQUITY,Industrials,HRT
+Biotechnology,"Ginkgo Bioworks Holdings, Inc.",EQUITY,Healthcare,DNA
+Residential Construction,"M.D.C. Holdings, Inc.",EQUITY,Consumer Cyclical,MDC
+Diagnostics & Research,Danaher Corporation,EQUITY,Healthcare,DHR
+Entertainment,"AMC Entertainment Holdings, Inc",EQUITY,Communication Services,AMC
+Other Industrial Metals & Mining,TMC the metals company Inc.,EQUITY,Basic Materials,TMC
+Telecom Services,"Kaleyra, Inc.",EQUITY,Communication Services,KLR
+REIT—Diversified,"The Necessity Retail REIT, Inc.",EQUITY,Real Estate,RTL
+Apparel Retail,"Gap, Inc. (The)",EQUITY,Consumer Cyclical,GPS
+Other Precious Metals & Mining,Avino Silver & Gold Mines Ltd.,EQUITY,Basic Materials,ASM
+Chemicals,"LSB Industries, Inc.",EQUITY,Basic Materials,LXU
+REIT—Specialty,Iron Mountain Incorporated (Del,EQUITY,Real Estate,IRM
+Utilities—Diversified,Black Hills Corporation,EQUITY,Utilities,BKH
+Oil & Gas Drilling,Nabors Industries Ltd.,EQUITY,Energy,NBR
+Biotechnology,"Blue Water Vaccines, Inc.",EQUITY,Healthcare,BWV
+Building Materials,"Summit Materials, Inc.",EQUITY,Basic Materials,SUM
+Lodging,Marriott International,EQUITY,Consumer Cyclical,MAR
+Advertising Agencies,Advantage Solutions Inc.,EQUITY,Communication Services,ADV
+Tools & Accessories,Toro Company (The),EQUITY,Industrials,TTC
+Education & Training Services,China Online Education Group,EQUITY,Consumer Defensive,COE
+Asset Management,Eaton Vance Tax-Advantage Globa,EQUITY,Financial Services,ETO
+Oil & Gas Midstream,"ONEOK, Inc.",EQUITY,Energy,OKE
+Utilities—Regulated Electric,OGE Energy Corp,EQUITY,Utilities,OGE
+Tools & Accessories,"Stanley Black & Decker, Inc.",EQUITY,Industrials,SWK
+Semiconductors,"Advanced Micro Devices, Inc.",EQUITY,Technology,AMD
+Thermal Coal,Peabody Energy Corporation,EQUITY,Energy,BTU
+Utilities—Renewable,"NextEra Energy Partners, LP",EQUITY,Utilities,NEP
+Banks—Diversified,Wells Fargo & Company,EQUITY,Financial Services,WFC
+REIT—Residential,"Essex Property Trust, Inc.",EQUITY,Real Estate,ESS
+Oil & Gas Midstream,TC Energy Corporation,EQUITY,Energy,TRP
+Steel,Mesabi Trust,EQUITY,Basic Materials,MSB
+Household & Personal Products,Newell Brands Inc.,EQUITY,Consumer Defensive,NWL
+Silver,MAG Silver Corporation,EQUITY,Basic Materials,MAG
+Utilities—Diversified,The AES Corporation,EQUITY,Utilities,AES
+Electronic Components,"Benchmark Electronics, Inc.",EQUITY,Technology,BHE
+Footwear & Accessories,"Wolverine World Wide, Inc.",EQUITY,Consumer Cyclical,WWW
+Specialty Chemicals,Sherwin-Williams Company (The),EQUITY,Basic Materials,SHW
+Oil & Gas Equipment & Services,"Tetra Technologies, Inc.",EQUITY,Energy,TTI
+Entertainment,Walt Disney Company (The),EQUITY,Communication Services,DIS
+Software—Application,SAP  SE,EQUITY,Technology,SAP
+Oil & Gas Equipment & Services,"RPC, Inc.",EQUITY,Energy,RES
+Building Products & Equipment,GMS Inc.,EQUITY,Industrials,GMS
+Personal Services,"H&R Block, Inc.",EQUITY,Consumer Cyclical,HRB
+Banks—Regional,"Live Oak Bancshares, Inc.",EQUITY,Financial Services,LOB
+Paper & Paper Products,Schweitzer-Mauduit Internationa,EQUITY,Basic Materials,SWM
+Biotechnology,"Berkeley Lights, Inc.",EQUITY,Healthcare,BLI
+Biotechnology,"Protalix BioTherapeutics, Inc. ",EQUITY,Healthcare,PLX
+Insurance—Diversified,Hartford Financial Services Gro,EQUITY,Financial Services,HIG
+Utilities—Diversified,DBA Sempra,EQUITY,Utilities,SRE
+Medical Instruments & Supplies,"IsoRay, Inc.",EQUITY,Healthcare,ISR
+Oil & Gas E&P,"Comstock Resources, Inc.",EQUITY,Energy,CRK
+Railroads,Westinghouse Air Brake Technolo,EQUITY,Industrials,WAB
+Security & Protection Services,ADT Inc.,EQUITY,Industrials,ADT
+Information Technology Services,WidePoint Corporation,EQUITY,Technology,WYY
+Telecom Services,Telefonica SA,EQUITY,Communication Services,TEF
+Banks—Regional,Synovus Financial Corp.,EQUITY,Financial Services,SNV
+Metal Fabrication,Ryerson Holding Corporation,EQUITY,Industrials,RYI
+REIT—Mortgage,Annaly Capital Management Inc,EQUITY,Real Estate,NLY
+Utilities—Regulated Electric,PPL Corporation,EQUITY,Utilities,PPL
+Drug Manufacturers—Specialty & Generic,Bausch Health Companies Inc.,EQUITY,Healthcare,BHC
+Asset Management,Liberty All-Star Equity Fund,EQUITY,Financial Services,USA
+Other Precious Metals & Mining,Alexco Resource Corp,EQUITY,Basic Materials,AXU
+Entertainment,Cinemark Holdings Inc Cinemark ,EQUITY,Communication Services,CNK
+Diagnostics & Research,"IQVIA Holdings, Inc.",EQUITY,Healthcare,IQV
+Semiconductors,Taiwan Semiconductor Manufactur,EQUITY,Technology,TSM
+REIT—Diversified,MGM Growth Properties LLC,EQUITY,Real Estate,MGP
+Business Equipment & Supplies,Steelcase Inc.,EQUITY,Industrials,SCS
+Real Estate—Development,AMREP Corporation,EQUITY,Real Estate,AXR
+Asset Management,"AllianzGI NFJ Dividend, Interes",EQUITY,Financial Services,NFJ
+Software—Infrastructure,"Fortinet, Inc.",EQUITY,Technology,FTNT
+Utilities—Regulated Electric,Enel Chile S.A.,EQUITY,Utilities,ENIC
+Communication Equipment,Maxar Technologies Inc.,EQUITY,Technology,MAXR
+Biotechnology,"Trevi Therapeutics, Inc.",EQUITY,Healthcare,TRVI
+Biotechnology,"EQRx, Inc.",EQUITY,Healthcare,EQRX
+Specialty Retail,"The Honest Company, Inc.",EQUITY,Consumer Cyclical,HNST
+Semiconductor Equipment & Materials,"Axcelis Technologies, Inc.",EQUITY,Technology,ACLS
+Insurance—Specialty,"Trupanion, Inc.",EQUITY,Financial Services,TRUP
+Financial Conglomerates,"B. Riley Financial, Inc.",EQUITY,Financial Services,RILY
+Medical Instruments & Supplies,"Akoya BioSciences, Inc.",EQUITY,Healthcare,AKYA
+Software—Infrastructure,STRIKEFORCE TECHNOLOGIES INC,EQUITY,Technology,SFOR
+Other Industrial Metals & Mining,Snow Lake Resources Ltd.,EQUITY,Basic Materials,LITM
+Restaurants,"First Watch Restaurant Group, I",EQUITY,Consumer Cyclical,FWRG
+REIT—Mortgage,"STARWOOD PROPERTY TRUST, INC. S",EQUITY,Real Estate,STWD
+Biotechnology,XORTX Therapeutics Inc.,EQUITY,Healthcare,XRTX
+Entertainment,Madison Square Garden Entertain,EQUITY,Communication Services,MSGE
+Medical Instruments & Supplies,Predictive Oncology Inc.,EQUITY,Healthcare,POAI
+Oil & Gas Drilling,"Patterson-UTI Energy, Inc.",EQUITY,Energy,PTEN
+Communication Equipment,Credo Technology Group Holding ,EQUITY,Technology,CRDO
+Shell Companies,Atlantic Coastal Acquisition Co,EQUITY,Financial Services,ACAB
+Auto Manufacturers,"Volcon, Inc.",EQUITY,Consumer Cyclical,VLCN
+Capital Markets,Freedom Holding Corp.,EQUITY,Financial Services,FRHC
+Travel Services,"TripAdvisor, Inc.",EQUITY,Consumer Cyclical,TRIP
+Trucking,"Old Dominion Freight Line, Inc.",EQUITY,Industrials,ODFL
+Specialty Retail,"Kirkland's, Inc.",EQUITY,Consumer Cyclical,KIRK
+Biotechnology,"Yumanity Therapeutics, Inc.",EQUITY,Healthcare,YMTX
+Gold,Gold Resource Corporation,EQUITY,Basic Materials,GORO
+Software—Application,Atlassian Corporation Plc,EQUITY,Technology,TEAM
+Resorts & Casinos,"Wynn Resorts, Limited",EQUITY,Consumer Cyclical,WYNN
+Biotechnology,"Axsome Therapeutics, Inc.",EQUITY,Healthcare,AXSM
+Consulting Services,Greenpro Capital Corp.,EQUITY,Industrials,GRNQ
+Internet Retail,"Coupang, Inc.",EQUITY,Consumer Cyclical,CPNG
+Insurance Brokers,Fanhua Inc.,EQUITY,Financial Services,FANH
+REIT—Industrial,"Stag Industrial, Inc.",EQUITY,Real Estate,STAG
+Biotechnology,Nabriva Therapeutics plc,EQUITY,Healthcare,NBRV
+Asset Management,Trinity Capital Inc.,EQUITY,Financial Services,TRIN
+Drug Manufacturers—Specialty & Generic,"Evoke Pharma, Inc.",EQUITY,Healthcare,EVOK
+Biotechnology,"Cabaletta Bio, Inc.",EQUITY,Healthcare,CABA
+Leisure,Inspirato Incorporated,EQUITY,Consumer Cyclical,ISPO
+Semiconductors,"CEVA, Inc.",EQUITY,Technology,CEVA
+Drug Manufacturers—General,Biogen Inc.,EQUITY,Healthcare,BIIB
+Electronic Gaming & Multimedia,Motorsport Games Inc.,EQUITY,Communication Services,MSGM
+Drug Manufacturers—Specialty & Generic,"Ironwood Pharmaceuticals, Inc.",EQUITY,Healthcare,IRWD
+Resorts & Casinos,Melco Resorts & Entertainment L,EQUITY,Consumer Cyclical,MLCO
+Internet Retail,1847 Goedeker Inc. Commom Stock,EQUITY,Consumer Cyclical,GOED
+Restaurants,"Muscle Maker, Inc",EQUITY,Consumer Cyclical,GRIL
+REIT—Hotel & Motel,"Apple Hospitality REIT, Inc.",EQUITY,Real Estate,APLE
+Medical Devices,BIOELECTRONICS CORP,EQUITY,Healthcare,BIEL
+Internet Content & Information,"The Beachbody Company, Inc.",EQUITY,Communication Services,BODY
+Software—Application,"Borqs Technologies, Inc.",EQUITY,Technology,BRQS
+Biotechnology,"Editas Medicine, Inc.",EQUITY,Healthcare,EDIT
+Internet Retail,"CarParts.com, Inc.",EQUITY,Consumer Cyclical,PRTS
+Chemicals,Tronox Holdings plc,EQUITY,Basic Materials,TROX
+Biotechnology,Prelude Therapeutics Incorporat,EQUITY,Healthcare,PRLD
+Software—Application,"Porch Group, Inc.",EQUITY,Technology,PRCH
+Capital Markets,"Bit Digital, Inc.",EQUITY,Financial Services,BTBT
+Medical Devices,"Viveve Medical, Inc.",EQUITY,Healthcare,VIVE
+Software—Infrastructure,Oracle Corporation,EQUITY,Technology,ORCL
+Biotechnology,NuCana plc,EQUITY,Healthcare,NCNA
+Agricultural Inputs,"Benson Hill, Inc.",EQUITY,Basic Materials,BHIL
+Health Information Services,"CareCloud, Inc.",EQUITY,Healthcare,MTBC
+Biotechnology,NORTHWEST BIOTHERAPEUTICS INC,EQUITY,Healthcare,NWBO
+Oil & Gas Refining & Marketing,"Vertex Energy, Inc",EQUITY,Energy,VTNR
+Electronic Components,CPS Technologies Corp.,EQUITY,Technology,CPSH
+Biotechnology,"Evofem Biosciences, Inc.",EQUITY,Healthcare,EVFM
+Biotechnology,"Atossa Therapeutics, Inc.",EQUITY,Healthcare,ATOS
+Internet Retail,"Takung Art Co., Ltd.",EQUITY,Consumer Cyclical,TKAT
+Real Estate Services,"eXp World Holdings, Inc.",EQUITY,Real Estate,EXPI
+Medical Devices,"BioSig Technologies, Inc.",EQUITY,Healthcare,BSGM
+Biotechnology,"Theseus Pharmaceuticals, Inc.",EQUITY,Healthcare,THRX
+Communication Equipment,Mynaric AG - American Depositor,EQUITY,Technology,MYNA
+Marine Shipping,Seanergy Maritime Holdings Corp,EQUITY,Industrials,SHIP
+Software—Infrastructure,CYREN Ltd.,EQUITY,Technology,CYRN
+REIT—Healthcare Facilities,Global Medical REIT Inc.,EQUITY,Real Estate,GMRE
+Biotechnology,Cybin Inc.,EQUITY,Healthcare,CYBN
+Biotechnology,Tonix Pharmaceuticals Holding C,EQUITY,Healthcare,TNXP
+Semiconductors,Resonant Inc.,EQUITY,Technology,RESN
+Biotechnology,"Galera Therapeutics, Inc.",EQUITY,Healthcare,GRTX
+Drug Manufacturers—Specialty & Generic,Elanco Animal Health Incorporat,EQUITY,Healthcare,ELAN
+Advertising Agencies,Quotient Technology Inc.,EQUITY,Communication Services,QUOT
+Information Technology Services,American Virtual Cloud Technolo,EQUITY,Technology,AVCT
+Health Information Services,Change Healthcare Inc.,EQUITY,Healthcare,CHNG
+"Furnishings, Fixtures & Appliances","Viomi Technology Co., Ltd",EQUITY,Consumer Cyclical,VIOT
+Health Information Services,Babylon Holdings Limited,EQUITY,Healthcare,BBLN
+Capital Markets,Charles Schwab Corporation (The,EQUITY,Financial Services,SCHW
+Software—Application,"Calix, Inc",EQUITY,Technology,CALX
+Medical Devices,IceCure Medical Ltd.,EQUITY,Healthcare,ICCM
+Leisure,TONNER ONE WORLD HOLDINGS INC,EQUITY,Consumer Cyclical,TONR
+Semiconductor Equipment & Materials,ASML Holding N.V. - New York Re,EQUITY,Technology,ASML
+Drug Manufacturers—Specialty & Generic,"ANI Pharmaceuticals, Inc.",EQUITY,Healthcare,ANIP
+Internet Content & Information,"comScore, Inc.",EQUITY,Communication Services,SCOR
+Biotechnology,"CytomX Therapeutics, Inc.",EQUITY,Healthcare,CTMX
+Biotechnology,"Sarepta Therapeutics, Inc.",EQUITY,Healthcare,SRPT
+Biotechnology,"Sigilon Therapeutics, Inc.",EQUITY,Healthcare,SGTX
+REIT—Specialty,"Equinix, Inc.",EQUITY,Real Estate,EQIX
+Telecom Services,"Crexendo, Inc.",EQUITY,Communication Services,CXDO
+Conglomerates,"Mammoth Energy Services, Inc.",EQUITY,Industrials,TUSK
+Software—Application,"Enfusion, Inc.",EQUITY,Technology,ENFN
+Biotechnology,"Heron Therapeutics, Inc.",EQUITY,Healthcare,HRTX
+Farm & Heavy Construction Machinery,CEA Industries Inc.,EQUITY,Industrials,CEAD
+Medical Care Facilities,ModivCare Inc.,EQUITY,Healthcare,MODV
+Software—Infrastructure,Palantir Technologies Inc.,EQUITY,Technology,PLTR
+Auto Manufacturers,"Rivian Automotive, Inc.",EQUITY,Consumer Cyclical,RIVN
+REIT—Specialty,"AFC Gamma, Inc.",EQUITY,Real Estate,AFCG
+Software—Application,Society Pass Incorporated,EQUITY,Technology,SOPA
+Medical Care Facilities,P3 Health Partners Inc.,EQUITY,Healthcare,PIII
+,ENERGY SERVICES OF AMERICA CORP,EQUITY,,ESOA
+Solar,"Maxeon Solar Technologies, Ltd.",EQUITY,Technology,MAXN
+Software—Application,"Duolingo, Inc.",EQUITY,Technology,DUOL
+Diagnostics & Research,"Star Equity Holdings, Inc.",EQUITY,Healthcare,STRR
+Biotechnology,Axcella Health Inc.,EQUITY,Healthcare,AXLA
+Semiconductor Equipment & Materials,"Ambarella, Inc.",EQUITY,Technology,AMBA
+Information Technology Services,"Jack Henry & Associates, Inc.",EQUITY,Technology,JKHY
+Banks—Regional,Grupo Financiero Galicia S.A.,EQUITY,Financial Services,GGAL
+Software—Infrastructure,Informatica Inc.,EQUITY,Technology,INFA
+Real Estate Services,"Doma Holdings, Inc.",EQUITY,Real Estate,DOMA
+Internet Content & Information,LIZHI INC.,EQUITY,Communication Services,LIZI
+Biotechnology,ACADIA Pharmaceuticals Inc.,EQUITY,Healthcare,ACAD
+Leisure,"Xponential Fitness, Inc.",EQUITY,Consumer Cyclical,XPOF
+Auto Manufacturers,Arrival,EQUITY,Consumer Cyclical,ARVL
+Biotechnology,"Ocular Therapeutix, Inc.",EQUITY,Healthcare,OCUL
+Health Information Services,Allscripts Healthcare Solutions,EQUITY,Healthcare,MDRX
+Farm & Heavy Construction Machinery,AGCO Corporation,EQUITY,Industrials,AGCO
+Gold,Hycroft Mining Holding Corporat,EQUITY,Basic Materials,HYMC
+Diagnostics & Research,"Biocept, Inc.",EQUITY,Healthcare,BIOC
+Biotechnology,"Marker Therapeutics, Inc.",EQUITY,Healthcare,MRKR
+Software—Application,Sportradar Group AG,EQUITY,Technology,SRAD
+Shell Companies,LIV Capital Acquisition Corp. I,EQUITY,Financial Services,LIVB
+Airlines,Allegiant Travel Company,EQUITY,Industrials,ALGT
+Semiconductor Equipment & Materials,Ichor Holdings,EQUITY,Technology,ICHR
+Biotechnology,"bluebird bio, Inc.",EQUITY,Healthcare,BLUE
+Auto & Truck Dealerships,Kaixin Auto Holdings,EQUITY,Consumer Cyclical,KXIN
+Apparel Retail,"Urban Outfitters, Inc.",EQUITY,Consumer Cyclical,URBN
+Biotechnology,"Celldex Therapeutics, Inc.",EQUITY,Healthcare,CLDX
+Shell Companies,Spartan Acquisition Corp. III,EQUITY,Financial Services,SPAQ
+Other Precious Metals & Mining,BRAZIL MINERALS INC,EQUITY,Basic Materials,BMIX
+Asset Management,SuRo Capital Corp.,EQUITY,Financial Services,SSSS
+Travel Services,Trip.com Group Limited,EQUITY,Consumer Cyclical,TCOM
+Mortgage Finance,FEDERAL NATIONAL MORTGAGE ASSOC,EQUITY,Financial Services,FNMA
+Medical Distribution,"Henry Schein, Inc.",EQUITY,Healthcare,HSIC
+Semiconductors,O2Micro International Limited,EQUITY,Technology,OIIM
+Internet Content & Information,Grom Social Enterprises Inc.,EQUITY,Communication Services,GROM
+Farm & Heavy Construction Machinery,Nikola Corporation,EQUITY,Industrials,NKLA
+Drug Manufacturers—General,Horizon Therapeutics Public Lim,EQUITY,Healthcare,HZNP
+Insurance Brokers,TIAN RUIXIANG Holdings Ltd,EQUITY,Financial Services,TIRX
+Financial Data & Stock Exchanges,"Nasdaq, Inc.",EQUITY,Financial Services,NDAQ
+Internet Retail,"LightInTheBox Holding Co., Ltd.",EQUITY,Consumer Cyclical,LITB
+Software—Infrastructure,EXODUS MOVEMENT INC,EQUITY,Technology,EXOD
+Food Distribution,TRITENT INTL AGRICULTURE INC NE,EQUITY,Consumer Defensive,UNMK
+Electronic Components,Neonode Inc.,EQUITY,Technology,NEON
+Entertainment,SYCAMORE ENTERTAINMENT GROUP IN,EQUITY,Communication Services,SEGI
+Telecom Services,"Lumen Technologies, Inc.",EQUITY,Communication Services,LUMN
+Semiconductor Equipment & Materials,"Applied Materials, Inc.",EQUITY,Technology,AMAT
+Building Products & Equipment,"Latham Group, Inc.",EQUITY,Industrials,SWIM
+Software—Application,TMPOS INC,EQUITY,Technology,TPPM
+Biotechnology,"Allena Pharmaceuticals, Inc.",EQUITY,Healthcare,ALNA
+Metal Fabrication,"Insteel Industries, Inc.",EQUITY,Industrials,IIIN
+Biotechnology,Karyopharm Therapeutics Inc.,EQUITY,Healthcare,KPTI
+Medical Instruments & Supplies,"NeuroMetrix, Inc.",EQUITY,Healthcare,NURO
+Trucking,"Marten Transport, Ltd.",EQUITY,Industrials,MRTN
+Diagnostics & Research,"Inotiv, Inc.",EQUITY,Healthcare,NOTV
+Shell Companies,"Gores Guggenheim, Inc.",EQUITY,Financial Services,GGPI
+Specialty Industrial Machinery,"Xometry, Inc.",EQUITY,Industrials,XMTR
+Banks—Regional,CBC HOLDING COMPANY,EQUITY,Financial Services,CBHC
+Electronic Components,Flex Ltd.,EQUITY,Technology,FLEX
+Footwear & Accessories,NINE ALLIANCE SCIENCE & TECH GR,EQUITY,Consumer Cyclical,JMKJ
+Biotechnology,"AnPac Bio-Medical Science Co., ",EQUITY,Healthcare,ANPC
+Drug Manufacturers—Specialty & Generic,ASCEND WELLNESS HLDGS INC,EQUITY,Healthcare,AAWH
+Other Precious Metals & Mining,SIERRA MADRE GOLD AND SILVER LT,EQUITY,Basic Materials,SM.V
+Shell Companies,FTAC Athena Acquisition Corp.,EQUITY,Financial Services,FTAA
+Semiconductors,"Amkor Technology, Inc.",EQUITY,Technology,AMKR
+Gold,PALAYAN RESOURCES INC,EQUITY,Basic Materials,PLYN
+Shell Companies,Agile Growth Corp.,EQUITY,Financial Services,AGGR
+Health Information Services,Cue Health Inc.,EQUITY,Healthcare,HLTH
+Software—Application,"MarketWise, Inc.",EQUITY,Technology,MKTW
+Banks—Regional,Grupo Supervielle S.A.,EQUITY,Financial Services,SUPV
+Oil & Gas Midstream,Dynagas LNG Partners LP,EQUITY,Energy,DLNG
+Agricultural Inputs,"Arcadia Biosciences, Inc.",EQUITY,Basic Materials,RKDA
+Software—Application,JFrog Ltd.,EQUITY,Technology,FROG
+Biotechnology,"Fate Therapeutics, Inc.",EQUITY,Healthcare,FATE
+Consumer Electronics,UTime Limited,EQUITY,Technology,UTME
+Biotechnology,"Akouos, Inc.",EQUITY,Healthcare,AKUS
+Staffing & Employment Services,"ShiftPixy, Inc.",EQUITY,Industrials,PIXY
+Specialty Retail,"BARK, Inc.",EQUITY,Consumer Cyclical,BARK
+Oil & Gas E&P,"Talos Energy, Inc.",EQUITY,Energy,TALO
+Biotechnology,DBV Technologies S.A.,EQUITY,Healthcare,DBVT
+Drug Manufacturers—Specialty & Generic,"Rockwell Medical, Inc.",EQUITY,Healthcare,RMTI
+Computer Hardware,"Arista Networks, Inc.",EQUITY,Technology,ANET
+Pollution & Treatment Controls,"Renovare Environmental, Inc.",EQUITY,Industrials,RENO
+Telecom Services,IQSTEL INC,EQUITY,Communication Services,IQST
+Biotechnology,"Terns Pharmaceuticals, Inc.",EQUITY,Healthcare,TERN
+Biotechnology,"Tyra Biosciences, Inc.",EQUITY,Healthcare,TYRA
+Software—Application,"Luminar Technologies, Inc.",EQUITY,Technology,LAZR
+Aerospace & Defense,Sky Harbour Group Corporation,EQUITY,Industrials,SKYH
+Biotechnology,AIkido Pharma Inc.,EQUITY,Healthcare,AIKI
+Specialty Retail,"Caseys General Stores, Inc.",EQUITY,Consumer Cyclical,CASY
+Software—Application,"Alight, Inc.",EQUITY,Technology,ALIT
+Medical Care Facilities,DocGo Inc.,EQUITY,Healthcare,DCGO
+Drug Manufacturers—Specialty & Generic,"Athenex, Inc.",EQUITY,Healthcare,ATNX
+Scientific & Technical Instruments,Zepp Health Corporation,EQUITY,Technology,ZEPP
+Computer Hardware,Key Tronic Corporation,EQUITY,Technology,KTCC
+Drug Manufacturers—Specialty & Generic,BioDelivery Sciences Internatio,EQUITY,Healthcare,BDSI
+Medical Care Facilities,ORACLE HEALTHCARE ACQUISITION C,EQUITY,Healthcare,OHAQ
+Asset Management,ZIMTU CAPITAL CORP.,EQUITY,Financial Services,ZC.V
+Biotechnology,"Homology Medicines, Inc.",EQUITY,Healthcare,FIXX
+Credit Services,KYN CAPITAL GROUP INC,EQUITY,Financial Services,KYNC
+Auto Parts,"China Automotive Systems, Inc.",EQUITY,Consumer Cyclical,CAAS
+Biotechnology,AC Immune SA,EQUITY,Healthcare,ACIU
+Banks—Regional,Cadence Bank,EQUITY,Financial Services,CADE
+Software—Application,NextPlat Corp,EQUITY,Technology,NXPL
+Mortgage Finance,Home Point Capital Inc.,EQUITY,Financial Services,HMPT
+Capital Markets,T.W. CHRISTIAN INC,EQUITY,Financial Services,TWCI
+Financial Data & Stock Exchanges,TMX GROUP LIMITED,EQUITY,Financial Services,X.TO
+Oil & Gas E&P,TRADESTAR RESOURCES CORPORATION,EQUITY,Energy,TSRR
+Drug Manufacturers—Specialty & Generic,"OptiNose, Inc.",EQUITY,Healthcare,OPTN
+Software—Application,DECISIONPOINT SYSSTEMS INC NEW,EQUITY,Technology,DPSI
+Oil & Gas E&P,PrimeEnergy Resources Corporati,EQUITY,Energy,PNRG
+Internet Content & Information,"Thryv Holdings, Inc.",EQUITY,Communication Services,THRY
+Oil & Gas E&P,HUMBLE ENERGY INC,EQUITY,Energy,HUML
+Biotechnology,CTI BioPharma Corp.,EQUITY,Healthcare,CTIC
+Thermal Coal,"Arch Resources, Inc.",EQUITY,Energy,ARCH
+Farm Products,AgriFORCE  Growing Systems Ltd.,EQUITY,Consumer Defensive,AGRI
+Software—Application,"PowerSchool Holdings, Inc.",EQUITY,Technology,PWSC
+Biotechnology,"TG Therapeutics, Inc.",EQUITY,Healthcare,TGTX
+Computer Hardware,CORETEC GROUP INC,EQUITY,Technology,CRTG
+Credit Services,"NerdWallet, Inc.",EQUITY,Financial Services,NRDS
+Restaurants,Starbucks Corporation,EQUITY,Consumer Cyclical,SBUX
+Banks—Regional,AmeriServ Financial Inc.,EQUITY,Financial Services,ASRV
+Oil & Gas E&P,"Brigham Minerals, Inc.",EQUITY,Energy,MNRL
+Trucking,BEST Inc.,EQUITY,Industrials,BEST
+Medical Devices,"Apollo Endosurgery, Inc.",EQUITY,Healthcare,APEN
+Medical Devices,ReWalk Robotics Ltd.,EQUITY,Healthcare,RWLK
+Biotechnology,"Windtree Therapeutics, Inc.",EQUITY,Healthcare,WINT
+Biotechnology,"Aravive, Inc.",EQUITY,Healthcare,ARAV
+Travel Services,"Expedia Group, Inc.",EQUITY,Consumer Cyclical,EXPE
+Shell Companies,CALETHOS INC,EQUITY,Financial Services,BUUZ
+Biotechnology,"MediciNova, Inc.",EQUITY,Healthcare,MNOV
+Shell Companies,SUGGESTION BOX INC,EQUITY,Financial Services,SGTB
+Biotechnology,Biohaven Pharmaceutical Holding,EQUITY,Healthcare,BHVN
+Biotechnology,"Seres Therapeutics, Inc.",EQUITY,Healthcare,MCRB
+REIT—Diversified,STORE Capital Corporation,EQUITY,Real Estate,STOR
+Medical Devices,CAPITAL GROUP HOLDINGS INC,EQUITY,Healthcare,CGHC
+Drug Manufacturers—Specialty & Generic,TARGETED MEDICAL PHARMA INC,EQUITY,Healthcare,TRGM
+Farm & Heavy Construction Machinery,GREENGRO TECHNOLOGIES INC,EQUITY,Industrials,GRNH
+Semiconductors,Lattice Semiconductor Corporati,EQUITY,Technology,LSCC
+Publishing,PEOPLES EDUCATIONAL HLDGS INC,EQUITY,Communication Services,PEDH
+Biotechnology,RENOVACARE INC,EQUITY,Healthcare,RCAR
+Household & Personal Products,SHENGTAI PHARMACEUTICAL INC,EQUITY,Consumer Defensive,SGTI
+Drug Manufacturers—Specialty & Generic,Endo International plc,EQUITY,Healthcare,ENDP
+Banks—Regional,"Allegiance Bancshares, Inc.",EQUITY,Financial Services,ABTX
+Biotechnology,"X4 Pharmaceuticals, Inc.",EQUITY,Healthcare,XFOR
+Biotechnology,"Cellectar Biosciences, Inc.",EQUITY,Healthcare,CLRB
+Specialty Business Services,"Team, Inc.",EQUITY,Industrials,TISI
+Medical Devices,Cerus Corporation,EQUITY,Healthcare,CERS
+Conglomerates,INNOVEST GLOBAL INC,EQUITY,Industrials,IVST
+Confectioners,HAWIIAN VINTAGE CHOC CO,EQUITY,Consumer Defensive,HWVI
+Software—Application,"Vimeo, Inc.",EQUITY,Technology,VMEO
+Banks—Regional,CASHMERE VALLEY BK WASH NEW,EQUITY,Financial Services,CSHX
+Specialty Business Services,BARE METAL STANDARD INC,EQUITY,Industrials,BRMT
+Aerospace & Defense,Momentus Inc.,EQUITY,Industrials,MNTS
+Luxury Goods,"Brilliant Earth Group, Inc.",EQUITY,Consumer Cyclical,BRLT
+Oil & Gas Equipment & Services,"Nine Energy Service, Inc.",EQUITY,Energy,NINE
+Internet Content & Information,Spotify Technology S.A.,EQUITY,Communication Services,SPOT
+Information Technology Services,"Switch, Inc.",EQUITY,Technology,SWCH
+Internet Retail,"MercadoLibre, Inc.",EQUITY,Consumer Cyclical,MELI
+Oil & Gas E&P,"Diamondback Energy, Inc. - Comm",EQUITY,Energy,FANG
+Apparel Retail,"Express, Inc.",EQUITY,Consumer Cyclical,EXPR
+Telecom Services,Consolidated Communications Hol,EQUITY,Communication Services,CNSL
+Credit Services,"SoFi Technologies, Inc.",EQUITY,Financial Services,SOFI
+Software—Infrastructure,"Akamai Technologies, Inc.",EQUITY,Technology,AKAM
+Communication Equipment,EchoStar Corporation,EQUITY,Technology,SATS
+Biotechnology,CorMedix Inc.,EQUITY,Healthcare,CRMD
+Biotechnology,"Atara Biotherapeutics, Inc.",EQUITY,Healthcare,ATRA
+Biotechnology,"Caladrius Biosciences, Inc.",EQUITY,Healthcare,CLBS
+Marine Shipping,EuroDry Ltd.,EQUITY,Industrials,EDRY
+Education & Training Services,Wah Fu Education Group Limited,EQUITY,Consumer Defensive,WAFU
+Security & Protection Services,"Digital Ally, Inc.",EQUITY,Industrials,DGLY
+Scientific & Technical Instruments,Luna Innovations Incorporated,EQUITY,Technology,LUNA
+Software—Application,"Riot Blockchain, Inc",EQUITY,Technology,RIOT
+Medical Distribution,"Patterson Companies, Inc.",EQUITY,Healthcare,PDCO
+Information Technology Services,Data Storage Corporation,EQUITY,Technology,DTST
+"Furnishings, Fixtures & Appliances",iRobot Corporation,EQUITY,Consumer Cyclical,IRBT
+Biotechnology,"Impel NeuroPharma, Inc.",EQUITY,Healthcare,IMPL
+Biotechnology,Zealand Pharma A/S,EQUITY,Healthcare,ZEAL
+Software—Infrastructure,"Bakkt Holdings, Inc.",EQUITY,Technology,BKKT
+Specialty Business Services,"Odyssey Marine Exploration, Inc",EQUITY,Industrials,OMEX
+Consulting Services,GENERAL CANNABIS CORP,EQUITY,Industrials,CANN
+Apparel Retail,"Lulu's Fashion Lounge Holdings,",EQUITY,Consumer Cyclical,LVLU
+Biotechnology,Oncolytics Biotech Inc.,EQUITY,Healthcare,ONCY
+Computer Hardware,Fathom Digital Manufacturing Co,EQUITY,Technology,FATH
+Software—Infrastructure,"UiPath, Inc.",EQUITY,Technology,PATH
+Health Information Services,NET SAVINGS LINK INC,EQUITY,Healthcare,NSAV
+Medical Devices,"Semler Scientific, Inc.",EQUITY,Healthcare,SMLR
+Uranium,Energy Fuels Inc,EQUITY,Energy,UUUU
+Diagnostics & Research,"Precipio, Inc.",EQUITY,Healthcare,PRPO
+Packaged Foods,"Whole Earth Brands, Inc.",EQUITY,Consumer Defensive,FREE
+Biotechnology,Acer Therapeutics Inc.,EQUITY,Healthcare,ACER
+Health Information Services,"CareMax, Inc.",EQUITY,Healthcare,CMAX
+Software—Application,MAX SOUND CORPORATION,EQUITY,Technology,MAXD
+Biotechnology,I-MAB,EQUITY,Healthcare,IMAB
+Oil & Gas Midstream,Scorpio Tankers Inc.,EQUITY,Energy,STNG
+Software—Application,DARKPULSE INC,EQUITY,Technology,DPLS
+Health Information Services,"Tabula Rasa HealthCare, Inc.",EQUITY,Healthcare,TRHC
+Aerospace & Defense,"Smith & Wesson Brands, Inc.",EQUITY,Industrials,SWBI
+Auto Manufacturers,"AYRO, Inc.",EQUITY,Consumer Cyclical,AYRO
+"Furnishings, Fixtures & Appliances",Sleep Number Corporation,EQUITY,Consumer Cyclical,SNBR
+Oil & Gas Midstream,"Summit Midstream Partners, LP",EQUITY,Energy,SMLP
+Software—Application,MiX Telematics Limited,EQUITY,Technology,MIXT
+Internet Content & Information,"CarGurus, Inc.",EQUITY,Communication Services,CARG
+Biotechnology,"Synaptogenix, Inc.",EQUITY,Healthcare,SNPX
+Internet Retail,Jumia Technologies AG,EQUITY,Consumer Cyclical,JMIA
+Entertainment,Paramount Global,EQUITY,Communication Services,PARA
+Biotechnology,SIGA Technologies Inc.,EQUITY,Healthcare,SIGA
+Medical Instruments & Supplies,NovoCure Limited,EQUITY,Healthcare,NVCR
+Biotechnology,"VBI Vaccines, Inc.",EQUITY,Healthcare,VBIV
+Specialty Retail,"Volta, Inc.",EQUITY,Consumer Cyclical,VLTA
+Mortgage Finance,Altisource Portfolio Solutions ,EQUITY,Financial Services,ASPS
+Software—Infrastructure,Intrusion Inc.,EQUITY,Technology,INTZ
+Biotechnology,"Adverum Biotechnologies, Inc.",EQUITY,Healthcare,ADVM
+Pollution & Treatment Controls,"Fuel Tech, Inc.",EQUITY,Industrials,FTEK
+Semiconductors,SemiLEDS Corporation,EQUITY,Technology,LEDS
+Biotechnology,"Intercept Pharmaceuticals, Inc.",EQUITY,Healthcare,ICPT
+Drug Manufacturers—Specialty & Generic,"SCYNEXIS, Inc.",EQUITY,Healthcare,SCYX
+Packaged Foods,"TDH Holdings, Inc.",EQUITY,Consumer Defensive,PETZ
+Biotechnology,ProQR Therapeutics N.V.,EQUITY,Healthcare,PRQR
+Biotechnology,Immutep Limited,EQUITY,Healthcare,IMMP
+Drug Manufacturers—Specialty & Generic,"cbdMD, Inc.",EQUITY,Healthcare,YCBD
+Beverages—Non-Alcoholic,"NewAge, Inc.",EQUITY,Consumer Defensive,NBEV
+Medical Devices,"Sientra, Inc.",EQUITY,Healthcare,SIEN
+Solar,"SolarEdge Technologies, Inc.",EQUITY,Technology,SEDG
+Telecom Services,"Cogent Communications Holdings,",EQUITY,Communication Services,CCOI
+Discount Stores,Costco Wholesale Corporation,EQUITY,Consumer Defensive,COST
+Credit Services,"FirstCash Holdings, Inc.",EQUITY,Financial Services,FCFS
+"Furnishings, Fixtures & Appliances","Bassett Furniture Industries, I",EQUITY,Consumer Cyclical,BSET
+Specialty Industrial Machinery,American Superconductor Corpora,EQUITY,Industrials,AMSC
+"Furnishings, Fixtures & Appliances","Purple Innovation, Inc.",EQUITY,Consumer Cyclical,PRPL
+Aerospace & Defense,"Cadre Holdings, Inc.",EQUITY,Industrials,CDRE
+Biotechnology,"Exelixis, Inc.",EQUITY,Healthcare,EXEL
+Semiconductors,"Cirrus Logic, Inc.",EQUITY,Technology,CRUS
+Entertainment,"Netflix, Inc.",EQUITY,Communication Services,NFLX
+REIT—Mortgage,Ares Commercial Real Estate Cor,EQUITY,Real Estate,ACRE
+Software—Application,"SmartRent, Inc.",EQUITY,Technology,SMRT
+Oil & Gas E&P,"Riley Exploration Permian, Inc.",EQUITY,Energy,REPX
+Software—Application,Freshworks Inc.,EQUITY,Technology,FRSH
+Biotechnology,"First Wave BioPharma, Inc.",EQUITY,Healthcare,FWBI
+Credit Services,"Barings BDC, Inc.",EQUITY,Financial Services,BBDC
+Medical Devices,"ShockWave Medical, Inc.",EQUITY,Healthcare,SWAV
+Education & Training Services,"2U, Inc.",EQUITY,Consumer Defensive,TWOU
+Medical Care Facilities,AMACORE GROUP INC,EQUITY,Healthcare,ACGI
+Restaurants,Jack In The Box Inc.,EQUITY,Consumer Cyclical,JACK
+Biotechnology,"Xeris Biopharma Holdings, Inc.",EQUITY,Healthcare,XERS
+Auto Manufacturers,Ferrari N.V.,EQUITY,Consumer Cyclical,RACE
+Advertising Agencies,Stagwell Inc.,EQUITY,Communication Services,STGW
+Airlines,"SkyWest, Inc.",EQUITY,Industrials,SKYW
+Internet Content & Information,Genius Sports Limited,EQUITY,Communication Services,GENI
+REIT—Diversified,"CorEnergy Infrastructure Trust,",EQUITY,Real Estate,CORR
+Information Technology Services,Innodata Inc.,EQUITY,Technology,INOD
+Oil & Gas E&P,"PDC Energy, Inc.",EQUITY,Energy,PDCE
+Biotechnology,Myovant Sciences Ltd.,EQUITY,Healthcare,MYOV
+Specialty Chemicals,INDUSTRIAL NANOTECH INC,EQUITY,Basic Materials,INTK
+Household & Personal Products,The Beauty Health Company,EQUITY,Consumer Defensive,SKIN
+Diagnostics & Research,"OpGen, Inc.",EQUITY,Healthcare,OPGN
+Internet Retail,"Amazon.com, Inc.",EQUITY,Consumer Cyclical,AMZN
+Financial Conglomerates,"LendingTree, Inc.",EQUITY,Financial Services,TREE
+Marine Shipping,Golden Ocean Group Limited,EQUITY,Industrials,GOGL
+Drug Manufacturers—Specialty & Generic,"Evolus, Inc. Common Stock",EQUITY,Healthcare,EOLS
+Oil & Gas Equipment & Services,"Select Energy Services, Inc.",EQUITY,Energy,WTTR
+Apparel Retail,Duluth Holdings Inc.,EQUITY,Consumer Cyclical,DLTH
+Drug Manufacturers—General,"Clarus Therapeutics Holdings, I",EQUITY,Healthcare,CRXT
+Information Technology Services,Paysafe Limited,EQUITY,Technology,PSFE
+Healthcare Plans,"Clover Health Investments, Corp",EQUITY,Healthcare,CLOV
+Oil & Gas Equipment & Services,"Profire Energy, Inc.",EQUITY,Energy,PFIE
+Entertainment,"Charter Communications, Inc.",EQUITY,Communication Services,CHTR
+Trucking,ArcBest Corporation,EQUITY,Industrials,ARCB
+Asset Management,TriplePoint Venture Growth BDC ,EQUITY,Financial Services,TPVG
+Apparel Manufacturing,"G-III Apparel Group, LTD.",EQUITY,Consumer Cyclical,GIII
+Asset Management,Main Street Capital Corporation,EQUITY,Financial Services,MAIN
+Semiconductor Equipment & Materials,"Ultra Clean Holdings, Inc.",EQUITY,Technology,UCTT
+Drug Manufacturers—Specialty & Generic,ELITE PHARMACEUTICALS INC,EQUITY,Healthcare,ELTP
+Biotechnology,"Baudax Bio, Inc.",EQUITY,Healthcare,BXRX
+Health Information Services,"Teladoc Health, Inc.",EQUITY,Healthcare,TDOC
+Software—Infrastructure,Safe-T Group Ltd.,EQUITY,Technology,SFET
+Software—Application,Jamf Holding Corp.,EQUITY,Technology,JAMF
+Biotechnology,ObsEva SA,EQUITY,Healthcare,OBSV
+Marine Shipping,Euroseas Ltd.,EQUITY,Industrials,ESEA
+Biotechnology,"Advaxis, Inc.",EQUITY,Healthcare,ADXS
+Biotechnology,"BridgeBio Pharma, Inc.",EQUITY,Healthcare,BBIO
+Beverages—Brewers,"Splash Beverage Group, Inc. (NV",EQUITY,Consumer Defensive,SBEV
+Farm & Heavy Construction Machinery,"Ideanomics, Inc.",EQUITY,Industrials,IDEX
+Medical Care Facilities,Field Trip Health Ltd.,EQUITY,Healthcare,FTRP
+Oil & Gas Refining & Marketing,HF Sinclair Corporation,EQUITY,Energy,DINO
+Biotechnology,IMARA Inc.,EQUITY,Healthcare,IMRA
+Aerospace & Defense,Astrotech Corporation,EQUITY,Industrials,ASTC
+Chemicals,BOON INDS INC,EQUITY,Basic Materials,BNOW
+Shell Companies,CGS INTERNATIONAL INC (US),EQUITY,Financial Services,CGSI
+Biotechnology,Gamida Cell Ltd.,EQUITY,Healthcare,GMDA
+Packaged Foods,"Sanderson Farms, Inc.",EQUITY,Consumer Defensive,SAFM
+Software—Infrastructure,Bandwidth Inc.,EQUITY,Technology,BAND
+Other Industrial Metals & Mining,Sierra Metals Inc.,EQUITY,Basic Materials,SMTS
+Software—Application,Cazoo Group Ltd,EQUITY,Technology,CZOO
+Auto Parts,Hyliion Holdings Corp.,EQUITY,Consumer Cyclical,HYLN
+Oil & Gas Equipment & Services,Geospace Technologies Corporati,EQUITY,Energy,GEOS
+Communication Equipment,"Siyata Mobile, Inc.",EQUITY,Technology,SYTA
+Communication Equipment,Ericsson,EQUITY,Technology,ERIC
+Medical Care Facilities,InnovAge Holding Corp.,EQUITY,Healthcare,INNV
+Uranium,Uranium Royalty Corp.,EQUITY,Energy,UROY
+Airports & Air Services,"Joby Aviation, Inc.",EQUITY,Industrials,JOBY
+Diagnostics & Research,Invitae Corporation,EQUITY,Healthcare,NVTA
+Biotechnology,"Apellis Pharmaceuticals, Inc.",EQUITY,Healthcare,APLS
+Specialty Business Services,Performant Financial Corporatio,EQUITY,Industrials,PFMT
+Apparel Retail,"Boot Barn Holdings, Inc.",EQUITY,Consumer Cyclical,BOOT
+Medical Care Facilities,"Talkspace, Inc.",EQUITY,Healthcare,TALK
+Auto Parts,Holley Inc.,EQUITY,Consumer Cyclical,HLLY
+Semiconductors,PARKERVISION INC,EQUITY,Technology,PRKR
+Biotechnology,"PLUS THERAPEUTICS, Inc.",EQUITY,Healthcare,PSTV
+Biotechnology,"Vaxart, Inc. - Common Stock",EQUITY,Healthcare,VXRT
+Specialty Chemicals,"Danimer Scientific, Inc.",EQUITY,Basic Materials,DNMR
+Communication Equipment,"Juniper Networks, Inc.",EQUITY,Technology,JNPR
+Specialty Industrial Machinery,"TPI Composites, Inc.",EQUITY,Industrials,TPIC
+Biotechnology,Incyte Corporation,EQUITY,Healthcare,INCY
+Drug Manufacturers—Specialty & Generic,"Supernus Pharmaceuticals, Inc.",EQUITY,Healthcare,SUPN
+Utilities—Regulated Water,"Essential Utilities, Inc.",EQUITY,Utilities,WTRG
+Shell Companies,World Quantum Growth Acquisitio,EQUITY,Financial Services,WQGA
+Beverages—Wineries & Distilleries,EWORLD COMPANIES INC,EQUITY,Consumer Defensive,EWRC
+Software—Application,OMNIQ Corp.,EQUITY,Technology,OMQS
+Oil & Gas E&P,PETRO RIVER OIL CORPORATION,EQUITY,Energy,PTRC
+Communication Equipment,ERF WIRELESS INC,EQUITY,Technology,ERFB
+Asset Management,CION Investment Corporation,EQUITY,Financial Services,CION
+Other Precious Metals & Mining,"Gatos Silver, Inc.",EQUITY,Basic Materials,GATO
+Biotechnology,Aptinyx Inc.,EQUITY,Healthcare,APTX
+Biotechnology,Reviva Pharmaceuticals Holdings,EQUITY,Healthcare,RVPH
+Biotechnology,"Ensysce Biosciences, Inc.",EQUITY,Healthcare,ENSC
+Medical Devices,"Lucira Health, Inc.",EQUITY,Healthcare,LHDX
+Shell Companies,Frontier Investment Corp,EQUITY,Financial Services,FICV
+Software—Infrastructure,"Bridgeline Digital, Inc.",EQUITY,Technology,BLIN
+Biotechnology,"PMV Pharmaceuticals, Inc.",EQUITY,Healthcare,PMVP
+Aluminum,Constellium SE,EQUITY,Basic Materials,CSTM
+Specialty Retail,Tractor Supply Company,EQUITY,Consumer Cyclical,TSCO
+Drug Manufacturers—Specialty & Generic,Redhill Biopharma Ltd.,EQUITY,Healthcare,RDHL
+Farm & Heavy Construction Machinery,PACCAR Inc.,EQUITY,Industrials,PCAR
+Drug Manufacturers—Specialty & Generic,Biofrontera Inc.,EQUITY,Healthcare,BFRI
+Food Distribution,SpartanNash Company,EQUITY,Consumer Defensive,SPTN
+Software—Application,AGM Group Holdings Inc.,EQUITY,Technology,AGMH
+Pharmaceutical Retailers,DECISION DIAGNOSTICS CORP,EQUITY,Healthcare,DECN
+Biotechnology,"Timber Pharmaceuticals, Inc.",EQUITY,Healthcare,TMBR
+Biotechnology,"Aptose Biosciences, Inc.",EQUITY,Healthcare,APTO
+Drug Manufacturers—Specialty & Generic,LotusVentures,EQUITY,Healthcare,J.CN
+Advertising Agencies,"SRAX, Inc.",EQUITY,Communication Services,SRAX
+Beverages—Wineries & Distilleries,VIVA WORLD TRADE INC,EQUITY,Consumer Defensive,VVWT
+Shell Companies,Iron Spark I Inc.,EQUITY,Financial Services,ISAA
+Entertainment,"Dolphin Entertainment, Inc.",EQUITY,Communication Services,DLPN
+Communication Equipment,Lumentum Holdings Inc.,EQUITY,Technology,LITE
+Biotechnology,CYTRX CORP,EQUITY,Healthcare,CYTR
+Banks—Regional,CMUV BANCORP,EQUITY,Financial Services,CMUV
+Security & Protection Services,"NAPCO Security Technologies, In",EQUITY,Industrials,NSSC
+Shell Companies,Hudson Executive Investment Cor,EQUITY,Financial Services,HIII
+Shell Companies,Post Holdings Partnering Corpor,EQUITY,Financial Services,PSPC
+Medical Care Facilities,"Option Care Health, Inc.",EQUITY,Healthcare,OPCH
+Capital Markets,"Marathon Digital Holdings, Inc.",EQUITY,Financial Services,MARA
+Software—Application,"Blackbaud, Inc.",EQUITY,Technology,BLKB
+Oil & Gas Midstream,Equitrans Midstream Corporation,EQUITY,Energy,ETRN
+Biotechnology,"Finch Therapeutics Group, Inc.",EQUITY,Healthcare,FNCH
+Staffing & Employment Services,"Hudson Global, Inc.",EQUITY,Industrials,HSON
+Packaged Foods,"BellRing Brands, Inc.",EQUITY,Consumer Defensive,BRBR
+Semiconductors,Rockley Photonics Holdings Limi,EQUITY,Technology,RKLY
+Asset Management,ENTERPRISE DIVERSIFIED INC,EQUITY,Financial Services,SYTE
+Semiconductors,"Wolfspeed, Inc.",EQUITY,Technology,WOLF
+Oil & Gas E&P,Crescent Energy Company,EQUITY,Energy,CRGY
+Biotechnology,MannKind Corporation,EQUITY,Healthcare,MNKD
+Electronic Components,CLEAN ENERGY PATHWAYS INC,EQUITY,Technology,CPWY
+Restaurants,BAGGERS DAVES BURGER TAVERN INC,EQUITY,Consumer Cyclical,BDVB
+Semiconductors,Peraso Inc.,EQUITY,Technology,PRSO
+Conglomerates,SOU 300 GROUP HLDG CO,EQUITY,Industrials,SOUG
+Pollution & Treatment Controls,XCELPLUS INTERNATIONAL INC,EQUITY,Industrials,XLPI
+Banks—Regional,VALLEY REPUBLIC BANCORP,EQUITY,Financial Services,VLLX
+Software—Application,VTEX,EQUITY,Technology,VTEX
+Drug Manufacturers—Specialty & Generic,Sunshine Biopharma Inc.,EQUITY,Healthcare,SBFM
+Advertising Agencies,"National CineMedia, Inc.",EQUITY,Communication Services,NCMI
+Apparel Retail,"Tilly's, Inc.",EQUITY,Consumer Cyclical,TLYS
+Biotechnology,"Leap Therapeutics, Inc.",EQUITY,Healthcare,LPTX
+Entertainment,BIG SCREEN ENTMT GROUP INC,EQUITY,Communication Services,BSEG
+Biotechnology,Miromatrix Medical Inc.,EQUITY,Healthcare,MIRO
+Banks—Regional,"Columbia Banking System, Inc.",EQUITY,Financial Services,COLB
+Biotechnology,Medicenna Therapeutics Corp.,EQUITY,Healthcare,MDNA
+Specialty Business Services,OPTIMUM SOURCE INTERNATIONAL,EQUITY,Industrials,OSIN
+Internet Retail,"Poshmark, Inc.",EQUITY,Consumer Cyclical,POSH
+Aerospace & Defense,"AeroVironment, Inc.",EQUITY,Industrials,AVAV
+Information Technology Services,CHARGE ENTERPRISES INC,EQUITY,Technology,CRGE
+Real Estate Services,MASTERBEAT CORP,EQUITY,Real Estate,MSTO
+Household & Personal Products,CCA INDUSTRIES,EQUITY,Consumer Defensive,CAWW
+Scientific & Technical Instruments,Energous Corporation,EQUITY,Technology,WATT
+Biotechnology,"Hoth Therapeutics, Inc.",EQUITY,Healthcare,HOTH
+Biotechnology,Valneva SE,EQUITY,Healthcare,VALN
+Biotechnology,"Cyclerion Therapeutics, Inc.",EQUITY,Healthcare,CYCN
+Advertising Agencies,"Pop Culture Group Co., Ltd",EQUITY,Communication Services,CPOP
+Security & Protection Services,"Guardforce AI Co., Limited",EQUITY,Industrials,GFAI
+Capital Markets,Argo Blockchain plc,EQUITY,Financial Services,ARBK
+Biotechnology,"Frequency Therapeutics, Inc.",EQUITY,Healthcare,FREQ
+Gambling,DraftKings Inc.,EQUITY,Consumer Cyclical,DKNG
+Semiconductor Equipment & Materials,"Entegris, Inc.",EQUITY,Technology,ENTG
+Specialty Industrial Machinery,Altra Industrial Motion Corp.,EQUITY,Industrials,AIMC
+Entertainment,Cinedigm Corp,EQUITY,Communication Services,CIDM
+Aerospace & Defense,Draganfly Inc.,EQUITY,Industrials,DPRO
+Drug Manufacturers—Specialty & Generic,Teva Pharmaceutical Industries ,EQUITY,Healthcare,TEVA
+Education & Training Services,"Chegg, Inc.",EQUITY,Consumer Defensive,CHGG
+Specialty Retail,MINISO Group Holding Limited,EQUITY,Consumer Cyclical,MNSO
+Packaged Foods,RiceBran Technologies,EQUITY,Consumer Defensive,RIBT
+Security & Protection Services,"Knightscope, Inc.",EQUITY,Industrials,KSCP
+REIT—Mortgage,AGNC Investment Corp.,EQUITY,Real Estate,AGNC
+Biotechnology,"Cortexyme, Inc.",EQUITY,Healthcare,CRTX
+Drug Manufacturers—Specialty & Generic,"Amneal Pharmaceuticals, Inc.",EQUITY,Healthcare,AMRX
+Software—Application,"DocuSign, Inc.",EQUITY,Technology,DOCU
+Shell Companies,Mountain & Co. I Acquisition Co,EQUITY,Financial Services,MCAA
+Banks—Regional,OAK VIEW BANKSHARES INC,EQUITY,Financial Services,OAKV
+,Nuveen High Income 2023 Target ,EQUITY,,JHAA
+Medical Devices,"CVRx, Inc.",EQUITY,Healthcare,CVRX
+Biotechnology,"Turning Point Therapeutics, Inc",EQUITY,Healthcare,TPTX
+Beverages—Non-Alcoholic,ALKAME HOLDINGS INC,EQUITY,Consumer Defensive,ALKM
+Banks—Regional,Mercantile Bank Corporation,EQUITY,Financial Services,MBWM
+Information Technology Services,SPECTRAL CAPITAL CORPORATION,EQUITY,Technology,FCCN
+Software—Application,PRIMAL SOLUTIONS INC,EQUITY,Technology,PMSO
+Information Technology Services,"N-able, Inc.",EQUITY,Technology,NABL
+Semiconductor Equipment & Materials,Onto Innovation Inc.,EQUITY,Technology,ONTO
+Banks—Regional,"First Financial Northwest, Inc.",EQUITY,Financial Services,FFNW
+Banks—Regional,FIRST CAPITAL BANCSHARES INC,EQUITY,Financial Services,FCPB
+Software—Application,"Blend Labs, Inc.",EQUITY,Technology,BLND
+Utilities—Regulated Electric,Central Puerto S.A.,EQUITY,Utilities,CEPU
+Communication Equipment,"KVH Industries, Inc.",EQUITY,Technology,KVHI
+Shell Companies,GLOBAL ACQUISITIONS CORP,EQUITY,Financial Services,AASP
+Drug Manufacturers—Specialty & Generic,KONA GOLD BEVERAGE INC,EQUITY,Healthcare,KGKG
+Shell Companies,EASTERN GOLDFIELDS INC,EQUITY,Financial Services,EGDD
+Software—Application,ZICIX CORP,EQUITY,Technology,ZICX
+Oil & Gas Equipment & Services,Enservco Corporation,EQUITY,Energy,ENSV
+Software—Infrastructure,"Shift4 Payments, Inc.",EQUITY,Technology,FOUR
+Other Industrial Metals & Mining,BLUE STAR GLOBAL INC,EQUITY,Basic Materials,BUSC
+Biotechnology,"Alpine Immune Sciences, Inc.",EQUITY,Healthcare,ALPN
+Health Information Services,"Progyny, Inc.",EQUITY,Healthcare,PGNY
+Building Products & Equipment,Antelope Enterprise Holdings Li,EQUITY,Industrials,AEHL
+Drug Manufacturers—Specialty & Generic,Clever Leaves Holdings Inc.,EQUITY,Healthcare,CLVR
+Gambling,"Churchill Downs, Incorporated",EQUITY,Consumer Cyclical,CHDN
+Auto Parts,Foresight Autonomous Holdings L,EQUITY,Consumer Cyclical,FRSX
+Credit Services,"PayPal Holdings, Inc.",EQUITY,Financial Services,PYPL
+Scientific & Technical Instruments,"Itron, Inc.",EQUITY,Technology,ITRI
+REIT—Healthcare Facilities,"Sabra Health Care REIT, Inc.",EQUITY,Real Estate,SBRA
+Metal Fabrication,CONSOLIDATED CAPITAL OF NTH AME,EQUITY,Industrials,CDNO
+Biotechnology,"Aditxt, Inc.",EQUITY,Healthcare,ADTX
+Medical Instruments & Supplies,"Singular Genomics Systems, Inc.",EQUITY,Healthcare,OMIC
+Biotechnology,"ImmunoGen, Inc.",EQUITY,Healthcare,IMGN
+Software—Application,BTRS Holdings Inc. - Class 1,EQUITY,Technology,BTRS
+Asset Management,"T. Rowe Price Group, Inc.",EQUITY,Financial Services,TROW
+Oil & Gas Refining & Marketing,Clean Energy Fuels Corp.,EQUITY,Energy,CLNE
+Auto Parts,Allego N.V.,EQUITY,Consumer Cyclical,ALLG
+Drug Manufacturers—Specialty & Generic,"Catalent, Inc.",EQUITY,Healthcare,CTLT
+Shell Companies,10X Capital Venture Acquisition,EQUITY,Financial Services,VCXA
+Consulting Services,PACIFIC CONQUEST HOLDINGS INC,EQUITY,Industrials,PCHK
+Conglomerates,GLOBAL TECH INDUSTRIES GROUP IN,EQUITY,Industrials,GTII
+Banks—Regional,QUARRY CITY SVGS & LN ASSN,EQUITY,Financial Services,QRRY
+Electronic Components,LIGHTSCAPE TECHNOLOGIES INC,EQUITY,Technology,LTSC
+Software—Infrastructure,Radware Ltd.,EQUITY,Technology,RDWR
+Biotechnology,"Checkpoint Therapeutics, Inc.",EQUITY,Healthcare,CKPT
+Oil & Gas Midstream,LEGEND OIL & GAS LTD,EQUITY,Energy,LOGL
+Capital Markets,Cipher Mining Inc.,EQUITY,Financial Services,CIFR
+Banks—Regional,SECURITY NATIONAL CORP IOWA,EQUITY,Financial Services,SNLC
+Chemicals,JIALIJIA GROUP CORPORATION LTD,EQUITY,Basic Materials,RZZN
+Asset Management,CONCIERGE TECHNOLOGIES INC,EQUITY,Financial Services,CNCG
+Other Industrial Metals & Mining,O T MINING CORP,EQUITY,Basic Materials,OTMN
+Other Industrial Metals & Mining,VALE S.A.,EQUITY,Basic Materials,VALE
+Asset Management,Ares Capital Corporation - Clos,EQUITY,Financial Services,ARCC
+Medical Devices,Pacific Biosciences of Californ,EQUITY,Healthcare,PACB
+Tobacco,Kaival Brands Innovations Group,EQUITY,Consumer Defensive,KAVL
+REIT—Mortgage,Sachem Capital Corp.,EQUITY,Real Estate,SACH
+REIT—Specialty,"Gaming and Leisure Properties, ",EQUITY,Real Estate,GLPI
+Specialty Chemicals,VYSTAR CORPORATION,EQUITY,Basic Materials,VYST
+Software—Application,"Autodesk, Inc.",EQUITY,Technology,ADSK
+Household & Personal Products,Coty Inc.,EQUITY,Consumer Defensive,COTY
+Diagnostics & Research,Check-Cap Ltd.,EQUITY,Healthcare,CHEK
+Biotechnology,"MiMedx Group, Inc",EQUITY,Healthcare,MDXG
+Medical Devices,"Allied Healthcare Products, Inc",EQUITY,Healthcare,AHPI
+Biotechnology,Arbutus Biopharma Corporation,EQUITY,Healthcare,ABUS
+Biotechnology,"Progenity, Inc.",EQUITY,Healthcare,PROG
+Software—Application,GitLab Inc.,EQUITY,Technology,GTLB
+Electrical Equipment & Parts,Lightbridge Corporation,EQUITY,Industrials,LTBR
+Shell Companies,Belong Acquisition Corp.,EQUITY,Financial Services,BLNG
+Software—Application,"Avalara, Inc.",EQUITY,Technology,AVLR
+Specialty Business Services,"Wilhelmina International, Inc.",EQUITY,Industrials,WHLM
+Shell Companies,Corner Growth Acquisition Corp.,EQUITY,Financial Services,TRON
+Shell Companies,Brilliant Acquisition Corporati,EQUITY,Financial Services,BRLI
+Communication Equipment,JUMA TECHNOLOGY CORPORATION,EQUITY,Technology,JUMT
+Specialty Industrial Machinery,AMERITEK VENTURES,EQUITY,Industrials,ATVK
+Electronic Gaming & Multimedia,SciPlay Corporation,EQUITY,Communication Services,SCPL
+Health Information Services,Zhongchao Inc.,EQUITY,Healthcare,ZCMD
+Restaurants,Potbelly Corporation,EQUITY,Consumer Cyclical,PBPB
+Medical Devices,Talis Biomedical Corporation,EQUITY,Healthcare,TLIS
+Biotechnology,"Infinity Pharmaceuticals, Inc.",EQUITY,Healthcare,INFI
+Diagnostics & Research,VIATAR CTC SOLUTIONS INC,EQUITY,Healthcare,VRTT
+Drug Manufacturers—Specialty & Generic,PAZOO INC,EQUITY,Healthcare,PZOO
+Biotechnology,Fusion Pharmaceuticals Inc.,EQUITY,Healthcare,FUSN
+Packaged Foods,"Tattooed Chef, Inc.",EQUITY,Consumer Defensive,TTCF
+Biotechnology,"Paratek Pharmaceuticals, Inc.",EQUITY,Healthcare,PRTK
+Broadcasting,EMMIS COMMUNICATIONS CORP,EQUITY,Communication Services,EMMS
+Health Information Services,"GoodRx Holdings, Inc.",EQUITY,Healthcare,GDRX
+Banks—Regional,"QCR Holdings, Inc.",EQUITY,Financial Services,QCRH
+Steel,"Steel Dynamics, Inc.",EQUITY,Basic Materials,STLD
+Asset Management,HARGREAVES LANSDOWN PLC ORD 0.4,EQUITY,Financial Services,HL.L
+Banks—Regional,Itau CorpBanca,EQUITY,Financial Services,ITCB
+Staffing & Employment Services,"Professional Diversity Network,",EQUITY,Industrials,IPDN
+Real Estate Services,Realogy Holdings Corp.,EQUITY,Real Estate,RLGY
+Drug Manufacturers—Specialty & Generic,PLx Pharma Inc.,EQUITY,Healthcare,PLXP
+Solar,SunPower Corporation,EQUITY,Technology,SPWR
+Oil & Gas E&P,"Vista Oil & Gas, S.A.B. de C.V.",EQUITY,Energy,VIST
+Information Technology Services,Conduent Incorporated,EQUITY,Technology,CNDT
+Biotechnology,Amarin Corporation plc,EQUITY,Healthcare,AMRN
+Software—Application,"Domo, Inc.",EQUITY,Technology,DOMO
+Shell Companies,LatAmGrowth SPAC,EQUITY,Financial Services,LATG
+Rental & Leasing Services,"Bird Global, Inc.",EQUITY,Industrials,BRDS
+Medical Care Facilities,LHC Group,EQUITY,Healthcare,LHCG
+Software—Application,8x8 Inc,EQUITY,Technology,EGHT
+Farm Products,"Cal-Maine Foods, Inc.",EQUITY,Consumer Defensive,CALM
+Semiconductors,"Skyworks Solutions, Inc.",EQUITY,Technology,SWKS
+Credit Services,"Sunlight Financial Holdings, In",EQUITY,Financial Services,SUNL
+Restaurants,"Bloomin' Brands, Inc.",EQUITY,Consumer Cyclical,BLMN
+Medical Instruments & Supplies,DENTSPLY SIRONA Inc.,EQUITY,Healthcare,XRAY
+Other Industrial Metals & Mining,Nexa Resources S.A.,EQUITY,Basic Materials,NEXA
+Biotechnology,Vascular Biogenics Ltd.,EQUITY,Healthcare,VBLT
+Electronic Gaming & Multimedia,Sohu.com Limited,EQUITY,Communication Services,SOHU
+Packaged Foods,"Smart for Life, Inc.",EQUITY,Consumer Defensive,SMFL
+Farm Products,NATURALSHRIMP INC,EQUITY,Consumer Defensive,SHMP
+Medical Devices,Inspira Technologies Oxy B.H.N.,EQUITY,Healthcare,IINN
+Drug Manufacturers—Specialty & Generic,"PetIQ, Inc.",EQUITY,Healthcare,PETQ
+Packaged Foods,"Freshpet, Inc.",EQUITY,Consumer Defensive,FRPT
+Agricultural Inputs,"Yield10 Bioscience, Inc.",EQUITY,Basic Materials,YTEN
+Auto & Truck Dealerships,"Copart, Inc.",EQUITY,Consumer Cyclical,CPRT
+REIT—Mortgage,KKR Real Estate Finance Trust I,EQUITY,Real Estate,KREF
+Drug Manufacturers—Specialty & Generic,Intercure Ltd.,EQUITY,Healthcare,INCR
+Biotechnology,Geron Corporation,EQUITY,Healthcare,GERN
+Software—Infrastructure,Microsoft Corporation,EQUITY,Technology,MSFT
+Internet Content & Information,Fiverr International Ltd.,EQUITY,Communication Services,FVRR
+Specialty Industrial Machinery,"Helios Technologies, Inc.",EQUITY,Industrials,HLIO
+Software—Application,BSQUARE Corporation,EQUITY,Technology,BSQR
+Electronic Components,Meta Materials Inc.,EQUITY,Technology,MMAT
+Biotechnology,"Palisade Bio, Inc.",EQUITY,Healthcare,PALI
+Biotechnology,ONCOTELIC THERAPEUTICS INC,EQUITY,Healthcare,OTLC
+Restaurants,GENTECH HOLDINGS INC,EQUITY,Consumer Cyclical,GTEH
+Software—Infrastructure,"Limelight Networks, Inc.",EQUITY,Technology,LLNW
+Rental & Leasing Services,HyreCar Inc.,EQUITY,Industrials,HYRE
+Electrical Equipment & Parts,"Plug Power, Inc.",EQUITY,Industrials,PLUG
+Biotechnology,"RenovoRx, Inc.",EQUITY,Healthcare,RNXT
+Computer Hardware,Logitech International S.A. - R,EQUITY,Technology,LOGI
+Internet Content & Information,Cango Inc.,EQUITY,Communication Services,CANG
+Beverages—Non-Alcoholic,Oatly Group AB,EQUITY,Consumer Defensive,OTLY
+Oil & Gas Midstream,"Plains GP Holdings, L.P.",EQUITY,Energy,PAGP
+Drug Manufacturers—Specialty & Generic,"Petros Pharmaceuticals, Inc.",EQUITY,Healthcare,PTPI
+Biotechnology,"Revance Therapeutics, Inc.",EQUITY,Healthcare,RVNC
+Insurance—Specialty,"Ambac Financial Group, Inc.",EQUITY,Financial Services,AMBC
+Insurance—Property & Casualty,"Hagerty, Inc.",EQUITY,Financial Services,HGTY
+REIT—Specialty,SBA Communications Corporation,EQUITY,Real Estate,SBAC
+Biotechnology,CYTODYN INC,EQUITY,Healthcare,CYDY
+Auto & Truck Dealerships,"CarLotz, Inc.",EQUITY,Consumer Cyclical,LOTZ
+Financial Data & Stock Exchanges,"Cboe Global Markets, Inc.",EQUITY,Financial Services,CBOE
+Biotechnology,"Calithera Biosciences, Inc.",EQUITY,Healthcare,CALA
+Biotechnology,ENZOLYTICS INC,EQUITY,Healthcare,ENZC
+Biotechnology,Roivant Sciences Ltd.,EQUITY,Healthcare,ROIV
+Solar,"Enphase Energy, Inc.",EQUITY,Technology,ENPH
+Security & Protection Services,"SuperCom, Ltd.",EQUITY,Industrials,SPCB
+Biotechnology,"NeuroBo Pharmaceuticals, Inc.",EQUITY,Healthcare,NRBO
+Biotechnology,Aridis Pharmaceuticals Inc.,EQUITY,Healthcare,ARDS
+Engineering & Construction,Agrify Corporation,EQUITY,Industrials,AGFY
+Restaurants,"Texas Roadhouse, Inc.",EQUITY,Consumer Cyclical,TXRH
+Scientific & Technical Instruments,BlackSky Technology Inc.,EQUITY,Technology,BKSY
+Aerospace & Defense,"Virgin Orbit Holdings, Inc.",EQUITY,Industrials,VORB
+Biotechnology,BioMarin Pharmaceutical Inc.,EQUITY,Healthcare,BMRN
+Solar,"iSun, Inc.",EQUITY,Technology,ISUN
+Broadcasting,"Urban One, Inc.",EQUITY,Communication Services,UONE
+Capital Markets,Hive Blockchain Technologies Lt,EQUITY,Financial Services,HIVE
+Oil & Gas Integrated,"Ecoark Holdings, Inc.",EQUITY,Energy,ZEST
+Biotechnology,PROPANC BIOPHARMA INC,EQUITY,Healthcare,PPCB
+Biotechnology,Beam Therapeutics Inc.,EQUITY,Healthcare,BEAM
+Asset Management,"The Marygold Companies, Inc.",EQUITY,Financial Services,MGLD
+Biotechnology,"Organovo Holdings, Inc.",EQUITY,Healthcare,ONVO
+Telecom Services,Millicom International Cellular,EQUITY,Communication Services,TIGO
+Software—Infrastructure,Check Point Software Technologi,EQUITY,Technology,CHKP
+Communication Equipment,"CommScope Holding Company, Inc.",EQUITY,Technology,COMM
+Gold,Caledonia Mining Corporation Pl,EQUITY,Basic Materials,CMCL
+Software—Application,"LivePerson, Inc.",EQUITY,Technology,LPSN
+Software—Application,"Paltalk, Inc.",EQUITY,Technology,PALT
+Residential Construction,"Green Brick Partners, Inc.",EQUITY,Consumer Cyclical,GRBK
+Software—Application,"Braze, Inc.",EQUITY,Technology,BRZE
+Insurance—Diversified,"Goosehead Insurance, Inc.",EQUITY,Financial Services,GSHD
+Telecom Services,"Altice USA, Inc.",EQUITY,Communication Services,ATUS
+Information Technology Services,"CynergisTek, Inc.",EQUITY,Technology,CTEK
+Biotechnology,"Clearside Biomedical, Inc.",EQUITY,Healthcare,CLSD
+Drug Manufacturers—Specialty & Generic,"The Valens Company, Inc.",EQUITY,Healthcare,VLNS
+Software—Infrastructure,Splunk Inc.,EQUITY,Technology,SPLK
+Biotechnology,"Arcus Biosciences, Inc.",EQUITY,Healthcare,RCUS
+Consumer Electronics,"GoPro, Inc.",EQUITY,Technology,GPRO
+Internet Content & Information,Cheetah Mobile Inc.,EQUITY,Communication Services,CMCM
+Marine Shipping,SEACOR Marine Holdings Inc.,EQUITY,Industrials,SMHI
+Building Materials,Tecnoglass Inc.,EQUITY,Basic Materials,TGLS
+Health Information Services,"Sharecare, Inc.",EQUITY,Healthcare,SHCR
+Healthcare Plans,"Oscar Health, Inc.",EQUITY,Healthcare,OSCR
+Drug Manufacturers—Specialty & Generic,"China SXT Pharmaceuticals, Inc.",EQUITY,Healthcare,SXTC
+Shell Companies,Technology & Telecommunication ,EQUITY,Financial Services,TETE
+Health Information Services,SCWorx Corp.,EQUITY,Healthcare,WORX
+Biotechnology,"Capricor Therapeutics, Inc.",EQUITY,Healthcare,CAPR
+REIT—Hotel & Motel,Chatham Lodging Trust (REIT),EQUITY,Real Estate,CLDT
+Biotechnology,uniQure N.V.,EQUITY,Healthcare,QURE
+Software—Application,"Matterport, Inc.",EQUITY,Technology,MTTR
+Health Information Services,Cerner Corporation,EQUITY,Healthcare,CERN
+REIT—Diversified,Gladstone Commercial Corporatio,EQUITY,Real Estate,GOOD
+Software—Application,Waitr Holdings Inc.,EQUITY,Technology,WTRH
+Biotechnology,Achilles Therapeutics plc,EQUITY,Healthcare,ACHL
+"Furnishings, Fixtures & Appliances","Aterian, Inc.",EQUITY,Consumer Cyclical,ATER
+Biotechnology,"Allogene Therapeutics, Inc.",EQUITY,Healthcare,ALLO
+Footwear & Accessories,"American Rebel Holdings, Inc.",EQUITY,Consumer Cyclical,AREB
+Railroads,USD Partners LP,EQUITY,Industrials,USDP
+Education & Training Services,Bright Scholar Education Holdin,EQUITY,Consumer Defensive,BEDU
+Biotechnology,Seagen Inc.,EQUITY,Healthcare,SGEN
+Beverages—Non-Alcoholic,"Coca-Cola Consolidated, Inc.",EQUITY,Consumer Defensive,COKE
+Software—Infrastructure,Arqit Quantum Inc.,EQUITY,Technology,ARQQ
+Capital Markets,BTCS Inc.,EQUITY,Financial Services,BTCS
+Medical Care Facilities,"Apollo Medical Holdings, Inc.",EQUITY,Healthcare,AMEH
+Medical Distribution,"Zynex, Inc.",EQUITY,Healthcare,ZYXI
+Biotechnology,"Harmony Biosciences Holdings, I",EQUITY,Healthcare,HRMY
+Credit Services,Open Lending Corporation,EQUITY,Financial Services,LPRO
+"Furnishings, Fixtures & Appliances",The Lovesac Company,EQUITY,Consumer Cyclical,LOVE
+Semiconductor Equipment & Materials,Universal Display Corporation,EQUITY,Technology,OLED
+Electrical Equipment & Parts,Tritium DCFC Limited,EQUITY,Industrials,DCFC
+Drug Manufacturers—Specialty & Generic,PainReform Ltd.,EQUITY,Healthcare,PRFX
+Leisure,"American Outdoor Brands, Inc.",EQUITY,Consumer Cyclical,AOUT
+Internet Content & Information,Opera Limited,EQUITY,Communication Services,OPRA
+Semiconductor Equipment & Materials,Nova Ltd.,EQUITY,Technology,NVMI
+Biotechnology,Scholar Rock Holding Corporatio,EQUITY,Healthcare,SRRK
+Biotechnology,Anavex Life Sciences Corp.,EQUITY,Healthcare,AVXL
+Capital Markets,Futu Holdings Limited,EQUITY,Financial Services,FUTU
+Aerospace & Defense,"Aerojet Rocketdyne Holdings, In",EQUITY,Industrials,AJRD
+Biotechnology,THERAPEUTIC SOLUTIONS INTL INC,EQUITY,Healthcare,TSOI
+Biotechnology,"Poseida Therapeutics, Inc.",EQUITY,Healthcare,PSTX
+Biotechnology,CollPlant Biotechnologies Ltd.,EQUITY,Healthcare,CLGN
+Apparel Retail,On Holding AG,EQUITY,Consumer Cyclical,ONON
+Biotechnology,"Tyme Technologies, Inc.",EQUITY,Healthcare,TYME
+Oil & Gas E&P,Tellurian Inc.,EQUITY,Energy,TELL
+Other Industrial Metals & Mining,United States Antimony Corporat,EQUITY,Basic Materials,UAMY
+Information Technology Services,"Leidos Holdings, Inc.",EQUITY,Technology,LDOS
+Internet Retail,"Overstock.com, Inc.",EQUITY,Consumer Cyclical,OSTK
+Capital Markets,"Virtu Financial, Inc.",EQUITY,Financial Services,VIRT
+Biotechnology,"Dare Bioscience, Inc.",EQUITY,Healthcare,DARE
+Aluminum,Century Aluminum Company,EQUITY,Basic Materials,CENX
+Electrical Equipment & Parts,"FuelCell Energy, Inc.",EQUITY,Industrials,FCEL
+Biotechnology,"BeiGene, Ltd.",EQUITY,Healthcare,BGNE
+Aerospace & Defense,Archer Aviation Inc.,EQUITY,Industrials,ACHR
+Staffing & Employment Services,Upwork Inc.,EQUITY,Industrials,UPWK
+Software—Application,Immersion Corporation,EQUITY,Technology,IMMR
+Internet Content & Information,"Super League Gaming, Inc.",EQUITY,Communication Services,SLGG
+Biotechnology,Abcam plc,EQUITY,Healthcare,ABCM
+Entertainment,"Dave & Buster's Entertainment, ",EQUITY,Communication Services,PLAY
+Banks—Regional,"Randolph Bancorp, Inc.",EQUITY,Financial Services,RNDB
+Insurance—Specialty,"James River Group Holdings, Ltd",EQUITY,Financial Services,JRVR
+Auto Manufacturers,Stellantis N.V.,EQUITY,Consumer Cyclical,STLA
+Biotechnology,"Halozyme Therapeutics, Inc.",EQUITY,Healthcare,HALO
+Semiconductors,"Himax Technologies, Inc.",EQUITY,Technology,HIMX
+Electronic Components,Integrated Media Technology Lim,EQUITY,Technology,IMTE
+Broadcasting,TEGNA Inc,EQUITY,Communication Services,TGNA
+Utilities—Renewable,"Clearway Energy, Inc.",EQUITY,Utilities,CWEN
+Thermal Coal,"Alliance Resource Partners, L.P",EQUITY,Energy,ARLP
+Biotechnology,"Aldeyra Therapeutics, Inc.",EQUITY,Healthcare,ALDX
+Software—Infrastructure,"Rekor Systems, Inc.",EQUITY,Technology,REKR
+Discount Stores,Ollie's Bargain Outlet Holdings,EQUITY,Consumer Defensive,OLLI
+Rental & Leasing Services,Triton International Limited,EQUITY,Industrials,TRTN
+Communication Equipment,"Akoustis Technologies, Inc.",EQUITY,Technology,AKTS
+Software—Application,"Digital Turbine, Inc.",EQUITY,Technology,APPS
+Biotechnology,"Molecular Templates, Inc.",EQUITY,Healthcare,MTEM
+Oil & Gas Midstream,Martin Midstream Partners L.P.,EQUITY,Energy,MMLP
+Biotechnology,"Rigel Pharmaceuticals, Inc.",EQUITY,Healthcare,RIGL
+Agricultural Inputs,"Corteva, Inc.",EQUITY,Basic Materials,CTVA
+Software—Infrastructure,"Affirm Holdings, Inc.",EQUITY,Technology,AFRM
+Asset Management,Atlas Corp.,EQUITY,Financial Services,ATCO
+Communication Equipment,Telesat Corporation,EQUITY,Technology,TSAT
+Biotechnology,"Athira Pharma, Inc.",EQUITY,Healthcare,ATHA
+Oil & Gas Midstream,BP Midstream Partners LP,EQUITY,Energy,BPMP
+Specialty Retail,"Ulta Beauty, Inc.",EQUITY,Consumer Cyclical,ULTA
+Biotechnology,"Annexon, Inc.",EQUITY,Healthcare,ANNX
+REIT—Retail,"Alpine Income Property Trust, I",EQUITY,Real Estate,PINE
+Asset Management,Gladstone Investment Corporatio,EQUITY,Financial Services,GAIN
+Gold,"Royal Gold, Inc.",EQUITY,Basic Materials,RGLD
+Internet Content & Information,"EverQuote, Inc.",EQUITY,Communication Services,EVER
+Industrial Distribution,Fastenal Company,EQUITY,Industrials,FAST
+Marine Shipping,Globus Maritime Limited,EQUITY,Industrials,GLBS
+Biotechnology,Phio Pharmaceuticals Corp.,EQUITY,Healthcare,PHIO
+Biotechnology,"Ocugen, Inc.",EQUITY,Healthcare,OCGN
+Biotechnology,Legend Biotech Corporation,EQUITY,Healthcare,LEGN
+Biotechnology,"Gritstone bio, Inc.",EQUITY,Healthcare,GRTS
+Oil & Gas Refining & Marketing,"Aemetis, Inc",EQUITY,Energy,AMTX
+Software—Infrastructure,"Veritone, Inc.",EQUITY,Technology,VERI
+Real Estate Services,PropertyGuru Group Limited,EQUITY,Real Estate,PGRU
+Health Information Services,"Certara, Inc.",EQUITY,Healthcare,CERT
+Internet Retail,MOGU Inc.,EQUITY,Consumer Cyclical,MOGU
+Marine Shipping,Castor Maritime Inc.,EQUITY,Industrials,CTRM
+Specialty Chemicals,"5E Advanced Materials, Inc. Com",EQUITY,Basic Materials,FEAM
+Biotechnology,THERALINK TECHNOLOGIES INC,EQUITY,Healthcare,THER
+Biotechnology,"Rubius Therapeutics, Inc.",EQUITY,Healthcare,RUBY
+Airports & Air Services,"Blade Air Mobility, Inc.",EQUITY,Industrials,BLDE
+Advertising Agencies,"Marchex, Inc.",EQUITY,Communication Services,MCHX
+Beverages—Non-Alcoholic,"The Vita Coco Company, Inc.",EQUITY,Consumer Defensive,COCO
+Information Technology Services,Flywire Corporation - Voting,EQUITY,Technology,FLYW
+Oil & Gas Equipment & Services,ProPetro Holding Corp.,EQUITY,Energy,PUMP
+Specialty Business Services,Acacia Research Corporation,EQUITY,Industrials,ACTG
+Conglomerates,"NN, Inc.",EQUITY,Industrials,NNBR
+Biotechnology,"PhaseBio Pharmaceuticals, Inc.",EQUITY,Healthcare,PHAS
+Computer Hardware,"Cricut, Inc.",EQUITY,Technology,CRCT
+Biotechnology,"Salarius Pharmaceuticals, Inc.",EQUITY,Healthcare,SLRX
+Software—Application,"Rimini Street, Inc.",EQUITY,Technology,RMNI
+Biotechnology,Zymeworks Inc.,EQUITY,Healthcare,ZYME
+Electrical Equipment & Parts,FREYR Battery,EQUITY,Industrials,FREY
+Software—Infrastructure,"Toast, Inc.",EQUITY,Technology,TOST
+Biotechnology,"Epizyme, Inc.",EQUITY,Healthcare,EPZM
+Biotechnology,"Ampio Pharmaceuticals, Inc.",EQUITY,Healthcare,AMPE
+Biotechnology,"Alnylam Pharmaceuticals, Inc.",EQUITY,Healthcare,ALNY
+Solar,Canadian Solar Inc.,EQUITY,Technology,CSIQ
+Diagnostics & Research,"CareDx, Inc.",EQUITY,Healthcare,CDNA
+Drug Manufacturers—Specialty & Generic,Incannex Healthcare Limited,EQUITY,Healthcare,IXHL
+Airlines,"Frontier Group Holdings, Inc.",EQUITY,Industrials,ULCC
+Specialty Retail,Nuvve Holding Corp.,EQUITY,Consumer Cyclical,NVVE
+Biotechnology,"Moderna, Inc.",EQUITY,Healthcare,MRNA
+Biotechnology,Aeterna Zentaris Inc.,EQUITY,Healthcare,AEZS
+Restaurants,Arcos Dorados Holdings Inc.,EQUITY,Consumer Cyclical,ARCO
+Biotechnology,Compugen Ltd.,EQUITY,Healthcare,CGEN
+Advertising Agencies,Glory Star New Media Group Hold,EQUITY,Communication Services,GSMG
+Biotechnology,"SpringWorks Therapeutics, Inc.",EQUITY,Healthcare,SWTX
+Restaurants,"Red Robin Gourmet Burgers, Inc.",EQUITY,Consumer Cyclical,RRGB
+Drug Manufacturers—Specialty & Generic,"Recro Pharma, Inc.",EQUITY,Healthcare,REPH
+Drug Manufacturers—Specialty & Generic,Neptune Wellness Solutions Inc.,EQUITY,Healthcare,NEPT
+Mortgage Finance,FEDERAL HOME LOAN MORTGAGE CORP,EQUITY,Financial Services,FMCC
+Scientific & Technical Instruments,"MIND Technology, Inc.",EQUITY,Technology,MIND
+Biotechnology,"Verve Therapeutics, Inc.",EQUITY,Healthcare,VERV
+Biotechnology,"Biomea Fusion, Inc.",EQUITY,Healthcare,BMEA
+Software—Application,"Weave Communications, Inc.",EQUITY,Technology,WEAV
+Gold,SSR Mining Inc.,EQUITY,Basic Materials,SSRM
+Biotechnology,BioNTech SE,EQUITY,Healthcare,BNTX
+Software—Infrastructure,"KnowBe4, Inc.",EQUITY,Technology,KNBE
+Medical Devices,"electroCore, Inc.",EQUITY,Healthcare,ECOR
+Chemicals,Univar Solutions Inc.,EQUITY,Basic Materials,UNVR
+Biotechnology,GENEREX BIOTECHNOLOGY CORP,EQUITY,Healthcare,GNBT
+Diagnostics & Research,"Rennova Health, Inc.",EQUITY,Healthcare,RNVA
+Consumer Electronics,Vuzix Corporation,EQUITY,Technology,VUZI
+Semiconductors,Navitas Semiconductor Corporati,EQUITY,Technology,NVTS
+Staffing & Employment Services,"51job, Inc.",EQUITY,Industrials,JOBS
+Internet Content & Information,"Twitter, Inc.",EQUITY,Communication Services,TWTR
+Airlines,"Air Transport Services Group, I",EQUITY,Industrials,ATSG
+Drug Manufacturers—Specialty & Generic,HEXO Corp.,EQUITY,Healthcare,HEXO
+Information Technology Services,"Grid Dynamics Holdings, Inc.",EQUITY,Technology,GDYN
+Residential Construction,"LGI Homes, Inc.",EQUITY,Consumer Cyclical,LGIH
+Semiconductor Equipment & Materials,"Cohu, Inc.",EQUITY,Technology,COHU
+Internet Retail,ContextLogic Inc.,EQUITY,Consumer Cyclical,WISH
+Staffing & Employment Services,"Volt Information Sciences, Inc.",EQUITY,Industrials,VOLT
+Pollution & Treatment Controls,PURATION INC,EQUITY,Industrials,PURA
+Banks—Regional,"Northwest Bancshares, Inc.",EQUITY,Financial Services,NWBI
+Software—Infrastructure,"Kaltura, Inc.",EQUITY,Technology,KLTR
+Drug Manufacturers—Specialty & Generic,CBD LIFE SCIENCES INC,EQUITY,Healthcare,CBDL
+Software—Infrastructure,"IronNet, Inc.",EQUITY,Technology,IRNT
+Biotechnology,"aTyr Pharma, Inc.",EQUITY,Healthcare,LIFE
+Beverages—Brewers,Ambev S.A.,EQUITY,Consumer Defensive,ABEV
+Biotechnology,"Surface Oncology, Inc.",EQUITY,Healthcare,SURF
+Asset Management,"Victory Capital Holdings, Inc. ",EQUITY,Financial Services,VCTR
+Internet Content & Information,Alphabet Inc.,EQUITY,Communication Services,GOOG
+Software—Application,Riskified Ltd.,EQUITY,Technology,RSKD
+Software—Infrastructure,Greenbox POS,EQUITY,Technology,GBOX
+Software—Infrastructure,Tuya Inc.,EQUITY,Technology,TUYA
+Biotechnology,"Regeneron Pharmaceuticals, Inc.",EQUITY,Healthcare,REGN
+Apparel Retail,"Citi Trends, Inc.",EQUITY,Consumer Cyclical,CTRN
+REIT—Specialty,NEWLAKE CAP PARTNERS INC,EQUITY,Real Estate,NLCP
+Banks—Regional,Umpqua Holdings Corporation,EQUITY,Financial Services,UMPQ
+Consulting Services,"Verisk Analytics, Inc.",EQUITY,Industrials,VRSK
+Banks—Regional,"New York Community Bancorp, Inc",EQUITY,Financial Services,NYCB
+Drug Manufacturers—Specialty & Generic,"Amphastar Pharmaceuticals, Inc.",EQUITY,Healthcare,AMPH
+Oil & Gas E&P,Imperial Petroleum Inc.,EQUITY,Energy,IMPP
+Internet Content & Information,"Nextdoor Holdings, Inc.",EQUITY,Communication Services,KIND
+Biotechnology,"Imago BioSciences, Inc.",EQUITY,Healthcare,IMGO
+Biotechnology,TC BioPharm (Holdings) plc,EQUITY,Healthcare,TCBP
+Banks—Regional,"Financial Institutions, Inc.",EQUITY,Financial Services,FISI
+Software—Infrastructure,Endava plc,EQUITY,Technology,DAVA
+"Furnishings, Fixtures & Appliances",Hooker Furnishings Corporation,EQUITY,Consumer Cyclical,HOFT
+Banks—Regional,Peoples Bancorp Inc.,EQUITY,Financial Services,PEBO
+Building Products & Equipment,"View, Inc.",EQUITY,Industrials,VIEW
+Tools & Accessories,"ToughBuilt Industries, Inc.",EQUITY,Industrials,TBLT
+Banks—Regional,"Banc of California, Inc.",EQUITY,Financial Services,BANC
+Medical Devices,"iRhythm Technologies, Inc.",EQUITY,Healthcare,IRTC
+REIT—Specialty,CyrusOne Inc,EQUITY,Real Estate,CONE
+Tobacco,"Greenlane Holdings, Inc.",EQUITY,Consumer Defensive,GNLN
+Medical Devices,"Motus GI Holdings, Inc.",EQUITY,Healthcare,MOTS
+Communication Equipment,"Vislink Technologies, Inc.",EQUITY,Technology,VISL
+Paper & Paper Products,Mercer International Inc.,EQUITY,Basic Materials,MERC
+Software—Application,Smartsheet Inc.,EQUITY,Technology,SMAR
+Apparel Retail,"Children's Place, Inc. (The)",EQUITY,Consumer Cyclical,PLCE
+Oil & Gas Refining & Marketing,"Renewable Energy Group, Inc.",EQUITY,Energy,REGI
+Software—Application,Intuit Inc.,EQUITY,Technology,INTU
+Biotechnology,"NexImmune, Inc.",EQUITY,Healthcare,NEXI
+Travel Services,Booking Holdings Inc. Common St,EQUITY,Consumer Cyclical,BKNG
+Packaged Foods,"Lifeway Foods, Inc.",EQUITY,Consumer Defensive,LWAY
+Real Estate Services,KE Holdings Inc,EQUITY,Real Estate,BEKE
+Oil & Gas Midstream,Golar LNG Limited,EQUITY,Energy,GLNG
+Internet Retail,eBay Inc.,EQUITY,Consumer Cyclical,EBAY
+Biotechnology,"Edesa Biotech, Inc.",EQUITY,Healthcare,EDSA
+Insurance—Specialty,"Ryan Specialty Group Holdings, ",EQUITY,Financial Services,RYAN
+Software—Application,Snowflake Inc.,EQUITY,Technology,SNOW
+Health Information Services,SOPHiA GENETICS SA,EQUITY,Healthcare,SOPH
+Banks—Regional,Banco BBVA Argentina S.A.,EQUITY,Financial Services,BBAR
+Engineering & Construction,Aenza S.A.A.,EQUITY,Industrials,AENZ
+Communication Equipment,Zebra Technologies Corporation,EQUITY,Technology,ZBRA
+Information Technology Services,Cognizant Technology Solutions ,EQUITY,Technology,CTSH
+Software—Application,Dave Inc.,EQUITY,Technology,DAVE
+REIT—Residential,Invitation Homes Inc.,EQUITY,Real Estate,INVH
+Biotechnology,Angion Biomedica Corp.,EQUITY,Healthcare,ANGN
+Food Distribution,"Calavo Growers, Inc.",EQUITY,Consumer Defensive,CVGW

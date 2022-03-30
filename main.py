@@ -64,5 +64,5 @@ if __name__ == '__main__':
     candidates = compile_candidates()
     res = search_candidates(candidates)
     res.to_csv('temp/securities.csv', index=False)
-    res.dropna(subset=['quoteType']).to_csv('stocks_list.csv.gz', index=False, compression='gzip')
+    res.dropna(subset=['quoteType']).to_csv('stocks_list.csv', index=False)
     print(f"{len(res.dropna(subset=['quoteType']))} valid securities discovered so far!")
