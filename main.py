@@ -38,7 +38,7 @@ def parallel_search(arg) -> pd.DataFrame:
 def search_candidates(candidates) -> pd.DataFrame:
 
     res = pd.DataFrame()
-    logged = pd.read_csv('temp/securities.csv')
+    logged = pd.read_csv('temp/securities.csv.gz', compression='gzip')
     candidates = list(set(candidates) - set(logged['symbol'].values))
 
     if len(candidates) > 1000:
@@ -63,6 +63,6 @@ if __name__ == '__main__':
 
     candidates = compile_candidates()
     res = search_candidates(candidates)
-    res.to_csv('temp/securities.csv', index=False)
+    res.to_csv('temp/securities.csv.gz', index=False, compression='gzip')
     res.dropna(subset=['quoteType']).to_csv('stocks_list.csv', index=False)
     print(f"{len(res.dropna(subset=['quoteType']))} valid securities discovered so far!")
