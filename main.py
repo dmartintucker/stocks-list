@@ -18,7 +18,7 @@ def compile_candidates() -> None:
     namespace = [i for i in string.ascii_uppercase] + ['.']
     candidates = []
 
-    for j in range(4,5):
+    for j in range(5,6):
 
         res = [''.join(i) for i in itertools.product(namespace, repeat=j)]
         candidates += res
